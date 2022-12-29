@@ -160,9 +160,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "SNS TrialsNet"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "The Website of the TrialsNet Project"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
