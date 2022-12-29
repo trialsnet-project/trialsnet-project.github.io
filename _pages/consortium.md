@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Consortium
 layout: collection
 permalink: /consortium/
 collection: consortium
@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Sample document listing for the collection `_consortium`.
+The TrialsNet project partners.
