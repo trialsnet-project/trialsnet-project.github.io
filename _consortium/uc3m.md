@@ -8,7 +8,7 @@ sidebar:
   - title: "Role"
     image: https://via.placeholder.com/350x250.png
     image_alt: "logo"
-    text: "Role 1 Role 2"
+    text: "Here we discuss the role of the partner in the project"
 ---
 
-Description of the partner
+Here we jave a brief description of the partner
