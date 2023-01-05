@@ -22,7 +22,7 @@ search: true
 locale                   : "en-US"
 title_separator          : "-"
 subtitle                 : "TRials Supported By Smart Networks Beyond 5G" # site tagline that appears below site title in masthead
-name                     : "SNS TrialsNet"
+name                     : "TrialsNet"
 #url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "trialsnet-project/trialsnet-project.github.io" #GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -92,9 +92,12 @@ og_image                 : "/assets/images/TrialsNet_Logo.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : "Organization" # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links:  # An array of links to social media profiles
+    - "https://twitter.com/trialsnet"
+    - "https://www.youtube.com/channel/UC_rrNpA1oSXQ2grv_9KIjAg"
+    - "https://github.com/trialsnet-project"
 
 # Analytics
 analytics:
@@ -191,16 +194,16 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://www.trialsnet.eu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/trialsnet"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/trialsnet-project"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UC_rrNpA1oSXQ2grv_9KIjAg"
 
 footer:
   links:
