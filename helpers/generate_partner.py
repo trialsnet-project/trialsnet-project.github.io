@@ -31,7 +31,7 @@ partner_list = [
 
 for i in range(len(partner_list)):
     uc_data = {}
-    uc_data["Title"]=f"{partner_list[i]['short_name']}"
+    uc_data["title"]=f"{partner_list[i]['short_name']}"
     uc_data["excerpt"]=f"{partner_list[i]['name']}"
     uc_data["header"]={"teaser":"https://via.placeholder.com/200x200.png"}
     uc_data["sidebar"]=[{"title": "Role","image": "https://via.placeholder.com/350x250.png","image_alt": "logo","text": "TBC"}]

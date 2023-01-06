@@ -19,7 +19,7 @@ uc_list = [ "Smart Crowd Monitoring",
 
 for i in range(len(uc_list)):
     uc_data = {}
-    uc_data["Title"]=f"Use Case {i+1}"
+    uc_data["title"]=f"Use Case {i+1}"
     uc_data["excerpt"]=f"{uc_list[i]}"
     uc_data["header"]={"teaser":"https://via.placeholder.com/200x200.png"}
     uc_data["sidebar"]=[{"title": "Objective","image": "https://via.placeholder.com/350x250.png","image_alt": "logo","text": "Here we discuss the Objective of the UC"}]

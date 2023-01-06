@@ -1,6 +1,5 @@
 ---
-Title: Use Case 9
-date: 23-01-06 10:25:08.742139
+date: 23-01-06 11:10:16.097903
 excerpt: Adaptive Control of Hannes Prosthetic Device
 header:
   teaser: https://via.placeholder.com/200x200.png
@@ -10,4 +9,5 @@ sidebar:
   image_alt: logo
   text: Here we discuss the Objective of the UC
   title: Objective
+title: Use Case 9
 ---

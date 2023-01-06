@@ -1,6 +1,5 @@
 ---
-Title: CNIT
-date: 23-01-06 10:25:13.432724
+date: 23-01-06 11:10:26.626948
 excerpt: CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI
 header:
   teaser: https://via.placeholder.com/200x200.png
@@ -10,4 +9,5 @@ sidebar:
   image_alt: logo
   text: TBC
   title: Role
+title: CNIT
 ---

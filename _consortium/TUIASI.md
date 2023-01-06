@@ -1,6 +1,5 @@
 ---
-Title: TUIASI
-date: 23-01-06 10:25:13.441718
+date: 23-01-06 11:10:26.632748
 excerpt: UNIVERSITATEA TEHNICA GHEORGHE ASACHI DIN IASI
 header:
   teaser: https://via.placeholder.com/200x200.png
@@ -10,4 +9,5 @@ sidebar:
   image_alt: logo
   text: TBC
   title: Role
+title: TUIASI
 ---

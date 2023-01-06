@@ -1,6 +1,5 @@
 ---
-Title: CNR
-date: 23-01-06 10:25:13.446218
+date: 23-01-06 11:10:26.635636
 excerpt: CONSIGLIO NAZIONALE DELLE RICERCHE
 header:
   teaser: https://via.placeholder.com/200x200.png
@@ -10,4 +9,5 @@ sidebar:
   image_alt: logo
   text: TBC
   title: Role
+title: CNR
 ---
