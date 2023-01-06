@@ -45,7 +45,7 @@ feature_row:
 
 {% include feature_row %}
 
-<a class="twitter-timeline" href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw">Tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/trialsnet?ref_src=twsrc%5Etfw">Tweets by trialsnet</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--{% include feature_row id="feature_row2" type="left" %}
 
