@@ -5,46 +5,24 @@ layout: single
 toc: true
 ---
 
+All the TrialsNet documents can be found on the [TrialsNet Zenodo Community](https://zenodo.org/communities/trialsnet/).
 
-# [Deliverables](/deliverables/)
-The project deliverables.
+## [Deliverables](/deliverables/)
 
-# [Publications](/publications/)
-The publications of the project.
+## [Publications](/publications/)
 
-# Other dissemination activities
+## Other dissemination activities
 
-## Press Releases
-1. Item
-2. Item
-3. Item
+### Press Releases
 
-## Presentations
-1. Item
-2. Item
-3. Item
+### Presentations
 
-## Webinars
-1. Item
-2. Item
-3. Item
+### Webinars
 
-## Workshops
-1. Item
-2. Item
-3. Item
+### Workshops
 
-## Journal special Issues
-1. Item
-2. Item
-3. Item
+### Journal special Issues
 
-## Whitepapers
-1. Item
-2. Item
-3. Item
+### Whitepapers
 
-## Leaflets and brochures
-1. Item
-2. Item
-3. Item
+### Leaflets and brochures

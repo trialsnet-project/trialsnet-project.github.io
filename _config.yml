@@ -146,6 +146,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - /helpers
 keep_files:
   - .git
   - .svn
@@ -176,7 +177,10 @@ collections:
   consortium:
     output: true
     permalink: /:collection/:path/
-
+  usecases:
+    output: true
+    permalink: /:collection/:path/
+    sort_by: order
 
 # Plugins (previously gems:)
 plugins:
@@ -233,6 +237,14 @@ defaults:
   - scope:
       path: ""
       type: consortium
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _usecases
+  - scope:
+      path: ""
+      type: usecases
     values:
       layout: single
       author_profile: false
