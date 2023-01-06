@@ -1,0 +1,27 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+/*
+GS: to override any SASS variables in "_variables.scss", you must place new values here, BEFORE
+the `@import` statements, as that is the point where the variables are used!
+See: https://github.com/mmistakes/minimal-mistakes/issues/2278#issuecomment-541484035
+*/
+
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/*
+GS: override any CSS with new CSS styles AFTER the `@import "minimal-mistakes";` line just above!
+See: https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
+Anything you place after this point will therefore "cascade and override" the previous CSS styles.
+*/
+
+article.page {
+    float: left;
+    width: 100%;
+}

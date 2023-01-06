@@ -1,6 +1,5 @@
 ---
-Title: Use Case 6
-date: 23-01-06 10:25:08.739838
+date: 23-01-06 11:10:16.095500
 excerpt: MCI and Emergency Rescue in Populated Area
 header:
   teaser: https://via.placeholder.com/200x200.png
@@ -10,4 +9,5 @@ sidebar:
   image_alt: logo
   text: Here we discuss the Objective of the UC
   title: Objective
+title: Use Case 6
 ---

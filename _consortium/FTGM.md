@@ -1,6 +1,5 @@
 ---
-Title: FTGM
-date: 23-01-06 10:25:13.447320
+date: 23-01-06 11:10:26.636342
 excerpt: FONDAZIONE TOSCANA GABRIELE MONASTERIO PER LA RICERCA MEDICA E DI SANITA
   PUBBLICA
 header:
@@ -11,4 +10,5 @@ sidebar:
   image_alt: logo
   text: TBC
   title: Role
+title: FTGM
 ---

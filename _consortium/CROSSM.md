@@ -1,6 +1,5 @@
 ---
-Title: CROSSM
-date: 23-01-06 10:25:13.443933
+date: 23-01-06 11:10:26.634230
 excerpt: CROSSMEDIA BELGIQUE
 header:
   teaser: https://via.placeholder.com/200x200.png
@@ -10,4 +9,5 @@ sidebar:
   image_alt: logo
   text: TBC
   title: Role
+title: CROSSM
 ---

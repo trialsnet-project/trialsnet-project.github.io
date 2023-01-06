@@ -1,6 +1,5 @@
 ---
-Title: Use Case 3
-date: 23-01-06 10:25:08.737529
+date: 23-01-06 11:10:16.093071
 excerpt: Autonomous APRON
 header:
   teaser: https://via.placeholder.com/200x200.png
@@ -10,4 +9,5 @@ sidebar:
   image_alt: logo
   text: Here we discuss the Objective of the UC
   title: Objective
+title: Use Case 3
 ---

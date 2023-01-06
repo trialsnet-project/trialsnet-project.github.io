@@ -1,6 +1,5 @@
 ---
-Title: SSSA
-date: 23-01-06 10:25:13.438339
+date: 23-01-06 11:10:26.630572
 excerpt: SCUOLA SUPERIORE DI STUDI UNIVERSITARI E DI PERFEZIONAMENTO S ANNA
 header:
   teaser: https://via.placeholder.com/200x200.png
@@ -10,4 +9,5 @@ sidebar:
   image_alt: logo
   text: TBC
   title: Role
+title: SSSA
 ---
