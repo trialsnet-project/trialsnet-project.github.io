@@ -10,7 +10,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "TRials Supported By Smart Networks Beyond 5G."
+excerpt: "Trials Supported By Smart Networks Beyond 5G."
 intro: 
   - excerpt: 'TrialsNet will deploy full large-scale trials to implement a heterogenous and comprehensive set of innovative 6G applications based on various technologies such as cobots, metaverse, massive twinning, Internet of Senses, and covering three relevant domains of the urban ecosystems in Europe identified by (i) eHealth & Emergency; (ii) Infrastructure, Transportation, Security & Safety; (iii) Culture, Tourism & Entertainment.'
 feature_row:
