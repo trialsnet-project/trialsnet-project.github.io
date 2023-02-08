@@ -5,5 +5,7 @@ main:
     url: /documentation/
   - title: "News and Events"
     url: /news-events/
+  - title: "Open Call"
+    url: /open-call/
   - title: "Contact Us"
     url: /contact/
