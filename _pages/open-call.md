@@ -24,14 +24,14 @@ The proposed use cases should address one of the main areas identified by the pr
  - Infrastructure
  - Environment
  - Security & Safety
- - eHealth
+ - eHealth and emergency relief
  - Culture
  - Education
  - Media & Entertainment
 
 The total available budget is more than 5,5 M€.
 
-The publication of the Open Call is foreseen within November 2020.
+The publication of the Open Call is foreseen within November 2023.
 
 
 ## Submissions

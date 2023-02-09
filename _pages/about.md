@@ -60,6 +60,9 @@ The TrialsNet framework is composed of a set of 13 innovative use cases that lev
 
 {% include figure image_path="/assets/images/methodology.png" alt="The TrialsNet project methodology." caption="The TrialsNet project methodology." %}
 
+### Work Packages
+{% include figure image_path="/assets/images/trialsnet-wps.png" alt="The Work Packages of the TrialsNet project." caption="The Work Packages of the TrialsNet project." %}
+
 ## [Consortium](/consortium/)
 
 1. ERICSSON TELECOMUNICAZIONI SPA :it: 
@@ -83,6 +86,5 @@ The TrialsNet framework is composed of a set of 13 innovative use cases that lev
 1. CROSSMEDIA BELGIQUE :belgium:
 1. DIMOS ATHINAION EPICHEIRISI MICHANOGRAFISIS :greece:
 1. CONSIGLIO NAZIONALE DELLE RICERCHE :it: 
-1. FONDAZIONE TOSCANA GABRIELE MONASTERIO PER LA RICERCA MEDICA E DI SANITA PUBBLICA :it: 
-1. REAL WIRELESS LIMITED :uk:
 1. ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS :greece:
+1. REAL WIRELESS LIMITED :uk:
