@@ -1,11 +1,11 @@
 ---
-date: 23-01-06 11:10:26.624728
+date: 23-02-23 16:51:03.672792
 excerpt: UNIVERSIDAD CARLOS III DE MADRID
 header:
-  teaser: https://via.placeholder.com/200x200.png
+  teaser: assets/images/logos/partners_logos/pngs/UC3M_Logo.png
 order: 5
 sidebar:
-- image: https://via.placeholder.com/350x250.png
+- image: assets/images/logos/partners_logos/pngs/UC3M_Logo.png
   image_alt: logo
   text: TBC
   title: Role

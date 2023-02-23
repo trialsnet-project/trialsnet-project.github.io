@@ -1,11 +1,11 @@
 ---
-date: 23-01-06 11:10:26.630572
+date: 23-02-23 16:51:03.687609
 excerpt: SCUOLA SUPERIORE DI STUDI UNIVERSITARI E DI PERFEZIONAMENTO S ANNA
 header:
-  teaser: https://via.placeholder.com/200x200.png
+  teaser: assets/images/logos/partners_logos/pngs/SSSA_Logo.png
 order: 13
 sidebar:
-- image: https://via.placeholder.com/350x250.png
+- image: assets/images/logos/partners_logos/pngs/SSSA_Logo.png
   image_alt: logo
   text: TBC
   title: Role

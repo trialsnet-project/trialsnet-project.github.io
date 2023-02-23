@@ -1,11 +1,11 @@
 ---
-date: 23-01-06 11:10:26.637132
+date: 23-02-23 16:51:03.705673
 excerpt: REAL WIRELESS LIMITED
 header:
-  teaser: https://via.placeholder.com/200x200.png
+  teaser: assets/images/logos/partners_logos/pngs/RW_Logo.png
 order: 22
 sidebar:
-- image: https://via.placeholder.com/350x250.png
+- image: assets/images/logos/partners_logos/pngs/RW_Logo.png
   image_alt: logo
   text: TBC
   title: Role

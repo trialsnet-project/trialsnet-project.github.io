@@ -24,7 +24,7 @@ partner_list = [
 {"short_name":"CROSSM","name":"CROSSMEDIA BELGIQUE"},
 {"short_name":"DAEM","name":"DIMOS ATHINAION EPICHEIRISI MICHANOGRAFISIS"},
 {"short_name":"CNR","name":"CONSIGLIO NAZIONALE DELLE RICERCHE"},
-{"short_name":"FTGM","name":"FONDAZIONE TOSCANA GABRIELE MONASTERIO PER LA RICERCA MEDICA E DI SANITA PUBBLICA"},
+{"short_name":"CERTH","name":"ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS"},
 {"short_name":"RW","name":"REAL WIRELESS LIMITED"},
 ]
 
@@ -33,8 +33,8 @@ for i in range(len(partner_list)):
     uc_data = {}
     uc_data["title"]=f"{partner_list[i]['short_name']}"
     uc_data["excerpt"]=f"{partner_list[i]['name']}"
-    uc_data["header"]={"teaser":"https://via.placeholder.com/200x200.png"}
-    uc_data["sidebar"]=[{"title": "Role","image": "https://via.placeholder.com/350x250.png","image_alt": "logo","text": "TBC"}]
+    uc_data["header"]={"teaser":f"assets/images/logos/partners_logos/pngs/{partner_list[i]['short_name']}_Logo.png"}
+    uc_data["sidebar"]=[{"title": "Role","image": f"assets/images/logos/partners_logos/pngs/{partner_list[i]['short_name']}_Logo.png","image_alt": "logo","text": "TBC"}]
     uc_data["order"]=i
     now = datetime.now()
     uc_data["date"]= now.strftime('%y-%m-%d %H:%M:%S.%f')
