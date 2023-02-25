@@ -33,7 +33,7 @@ for i in range(len(partner_list)):
     uc_data = {}
     uc_data["title"]=f"{partner_list[i]['short_name']}"
     uc_data["excerpt"]=f"{partner_list[i]['name']}"
-    uc_data["header"]={"teaser":f"assets/images/logos/partners_logos/pngs/{partner_list[i]['short_name']}_Logo.png"}
+    uc_data["header"]={"teaser":f"assets/images/logos/partners_logos/teaser_pngs/{partner_list[i]['short_name']}_Logo.png"}
     uc_data["sidebar"]=[{"title": "Role","image": f"assets/images/logos/partners_logos/pngs/{partner_list[i]['short_name']}_Logo.png","image_alt": "logo","text": "TBC"}]
     uc_data["order"]=i
     now = datetime.now()
