@@ -38,7 +38,7 @@ for i in range(len(partner_list)):
     uc_data["order"]=i
     now = datetime.now()
     uc_data["date"]= now.strftime('%y-%m-%d %H:%M:%S.%f')
-    with open(f"../_consortium/{partner_list[i]['short_name']}.md", 'w') as yaml_file:
-        yaml_file.write("---\n")
-        yaml.dump(uc_data, yaml_file)
-        yaml_file.write("---")
+    #with open(f"../_consortium/{partner_list[i]['short_name']}.md", 'w') as yaml_file:
+    #    yaml_file.write("---\n")
+    #    yaml.dump(uc_data, yaml_file)
+    #    yaml_file.write("---")
