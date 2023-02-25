@@ -19,7 +19,6 @@ See: https://github.com/mmistakes/minimal-mistakes/issues/2278#issuecomment-5414
 GS: override any CSS with new CSS styles AFTER the `@import "minimal-mistakes";` line just above!
 See: https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
 Anything you place after this point will therefore "cascade and override" the previous CSS styles.
-*/
 
 article.page {
     float: left;
@@ -30,3 +29,5 @@ article.page {
     float: left;
     width: 100%;
 }
+
+*/

@@ -7,7 +7,10 @@ order: 18
 sidebar:
 - image: assets/images/logos/partners_logos/pngs/CROSSM_Logo.png
   image_alt: logo
-  text: TBC
+  text: Leader in Task 5.3 Parks in Metaverse and Task 5.4 Extended XR Museum Experience 
   title: Role
 title: CROSSM
 ---
+
+Crossmedia Group conceives, produces and distributes immersive multimedia productions. Its affiliated, Crossmedia Europe, actively contributes to the development of future technologies for the production of high quality contents. with focus on the metaverse. 
+{: .text-justify}
