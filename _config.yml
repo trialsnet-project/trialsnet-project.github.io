@@ -220,6 +220,9 @@ footer:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UC_rrNpA1oSXQ2grv_9KIjAg"
+    - label: "6G SNS"
+      icon: "fa-solid fa-earth-europe"
+      url: "https://smart-networks.europa.eu"      
 
 defaults:
   # _posts

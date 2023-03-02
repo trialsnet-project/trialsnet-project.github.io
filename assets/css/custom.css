@@ -1,7 +1,7 @@
 .footer_eu {
     font-size: 0.75em;
     display: grid; 
-    grid-template-columns: 1fr 6fr; 
+    grid-template-columns: 2fr 5fr; 
     grid-template-rows: 1fr; 
     gap: 0px 0px;
     grid-template-areas: 
