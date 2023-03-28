@@ -31,7 +31,7 @@ The proposed use cases should address one of the main areas identified by the pr
 
 The total available budget is 5.580.900€.
 
-The publication of the Open Call is foreseen within November 2023.
+The publication of the Open Call is foreseen within October 2023.
 
 
 ## Submissions
