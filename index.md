@@ -1,6 +1,7 @@
 ---
 layout: splash
 permalink: /
+favicon: favicon.png
 classes:
   - landing
   - dark-theme
