@@ -7,9 +7,7 @@ order: 10
 sidebar:
 - image: assets/images/logos/partners_logos/pngs/ERC_Logo.png
   image_alt: logo
-  text: Ericsson supports, with the 5G Stand-alone infraestructure deployed, all Spanish verticals through 5TONIC (The open reasearch and innovation laboratory focused on 5G Technologies) located in IMDEA Networks in Leganés (Madrid).
-
-Ericsson supports WP2, WP3, WP4 and WP5. For WP2 are also editors of the Deliverable: 2.1 "Preliminary design aspects for Platforms and Networks solutions". For the WP3, WP4 and WP5 supports the Uses cases located in Spain: UC1 Smart Crowd Monitoring, UC10 Inmersive Fan engagement and UC7 Remote Proctoring, supporting with their network infraestructure, KPI monitoring and also contributing in the deliverables.
+  text: Ericsson supports, with the 5G Stand-alone infraestructure deployed, all Spanish verticals through 5TONIC (The open reasearch and innovation laboratory focused on 5G Technologies) located in IMDEA Networks in Leganés (Madrid). Ericsson supports WP2, WP3, WP4 and WP5. For WP2 are also editors of the Deliverable: 2.1 "Preliminary design aspects for Platforms and Networks solutions". For the WP3, WP4 and WP5 supports the Uses cases located in Spain: UC1 Smart Crowd Monitoring, UC10 Inmersive Fan engagement and UC7 Remote Proctoring, supporting with their network infraestructure, KPI monitoring and also contributing in the deliverables.
   title: Role
 title: ERC
 ---
