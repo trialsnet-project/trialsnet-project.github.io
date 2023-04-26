@@ -7,7 +7,10 @@ order: 11
 sidebar:
 - image: assets/images/logos/partners_logos/pngs/IIT_Logo.png
   image_alt: logo
-  text: TBC
+  text: IIT is involved and leader in the Use Case 9 in WP 4.
   title: Role
 title: IIT
 ---
+
+IIT strives to excel in basic and applied research to address the big challenges of humanity. IIT research builds upon four broad research domains: Computational Science, Life Tech, Nanomaterials and Robotics. IIT counts a network of state-of-the-art laboratories all over in Italy.
+{: .text-justify}
