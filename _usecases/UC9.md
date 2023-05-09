@@ -2,12 +2,15 @@
 date: 23-01-06 11:10:16.097903
 excerpt: Adaptive Control of Hannes Prosthetic Device
 header:
-  teaser: https://via.placeholder.com/200x200.png
+  teaser: assets/images/uc9-small.png
 order: 8
 sidebar:
-- image: https://via.placeholder.com/350x250.png
+- image: assets/images/uc9.png
   image_alt: logo
-  text: Here we discuss the Objective of the UC
+  text: Improve the user experience using the prosthesis, through the design of advanced control capabilities for prosthetic devices using AI techniques and their deployment on the Hannes arm, leveraging on radio connectivity to provide sufficient computing power.
   title: Objective
-title: Use Case 9
+title: Use Case 9 - Adaptive Control of Hannes Prosthetic Device
 ---
+Upper limb prosthetic systems have the potential of being life changing devices for amputees. However, an excessive cognitive load requested to the user for driving them might be a possible reason for rejection. In recent shared autonomy frameworks this is mitigated since a semi-autonomous control system reduces explicit user inputs, by using sensory information (e.g., color images, electromyography, etc.). However, processing and extracting meaningful data from this kind of information requires the employment of AI methods, mainly based on Deep Neural Networks, which run on specialized HW that might be hardly embedded in a wearable device. This use case involves the design of advanced control capabilities for prosthetic devices using AI techniques and their deployment on the Hannes arm. The aim is to improve the user experience using the prosthesis, leveraging on radio connectivity to provide sufficient computing power to the prosthesis to deploy recent AI methods with high reliability and minimal latency. In this use case, the Hannes prosthesis will be used and will be equipped with sensors providing images of the environment (i.e., the object to be grasped) and Electromyography (EMG) signals measuring the muscle activation of the user. The aim is to introduce sensor-driven autonomous behavior to reduce the need of explicit control by the user during a prosthetic object grasping. Therefore, in the target efficient shared autonomy control system, AI methods are used to control arm’s joints using the sensory information from the prosthesis (EMG as well as images from an embedded camera). Thus, the task is to interpret the user’s grasp intention exploiting sensory information and control some of the available joints accordingly, such as the wrist and the thumb. Information from other types of sensors, such as IMU and EMG signals mounted on the prosthesis, can be considered, in addition to images, for this purpose. All these sensors stream information at high frame rates and convey useful information for the on-line prosthesis control. For this reason, high and stable data rates are required. The AI methods that will be employed are based on Deep Neural Networks and require powerful and specialized HW for both training and deployment. At the same time the control system is requested to be reactive to user’s intention changes and modifications of the surrounding environment. For this reason, the required computation will be delocalized at the edge of the Network and an ultra-reliable low latency connection will allow the continuous interaction between the sensors, the device and the AI machine that will be located outside the prosthesis. 
+The system will control a part of the Degrees of Freedom (DoF) of the prosthesis while the user is driving it and controls the remaining ones. Therefore, the system needs to be accurate, reactive and highly reliable. However, being embedded in a wearable device, it presents specific constraints in terms of efficiency as well, motivating the adoption of devices that have small footprints in terms of power consumption, space and weight.
+{: .text-justify}
