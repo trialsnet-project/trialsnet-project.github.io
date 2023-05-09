@@ -2,7 +2,7 @@
 date: 23-01-06 11:10:16.090954
 excerpt: Smart Crowd Monitoring
 header:
-  teaser: https://via.placeholder.com/200x200.png
+  teaser: assets/images/uc1-small.png
 order: 0
 sidebar:
 - image: assets/images/uc1.png
