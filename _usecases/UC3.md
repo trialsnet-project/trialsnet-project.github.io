@@ -7,7 +7,7 @@ order: 2
 sidebar:
 - image: assets/images/uc3.png
   image_alt: logo
-  text: Here we discuss the Objective of the UC
+  text: Handling ground operations at the airport APRON using autonomous and smart systems.
   title: Objective
 title: Use Case 3 - Autonomous APRON
 ---
