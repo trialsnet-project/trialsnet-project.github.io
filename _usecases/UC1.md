@@ -5,7 +5,7 @@ header:
   teaser: https://via.placeholder.com/200x200.png
 order: 0
 sidebar:
-- image: https://via.placeholder.com/350x250.png
+- image: https://github.com/trialsnet-project/trialsnet-project.github.io/blob/master/assets/images/uc1.png
   image_alt: logo
   text: Ensure security and safety of people at highly busy areas.
   title: Objective
