@@ -3,7 +3,7 @@ date: 23-01-06 11:10:16.101346
 excerpt: Extended XR Museums Experience
 header:
   teaser: assets/images/uc13-small.png
-order: 13
+order: 14
 sidebar:
 - image: assets/images/uc13.png
   image_alt: logo
