@@ -7,7 +7,7 @@ order: 3
 sidebar:
 - image: assets/images/logos/partners_logos/pngs/NXW_Logo.png
   image_alt: logo
-  text: NXW will be supporting the execution of the use cases number 2,3 and 5, across the Italian and Greek cluster. Moreover, NXW will be contributing to the design/development of the Trialsnet Platform in WP2 and leading the Integration task (T2.3).
+  text: NXW will assist in the implementation of the Athens Airport use cases and will be involved in the Metaverse Use Case. Furthermore, NXW will be actively contributing to the design and development of the TrialsNet Platform, leading the Integration task.
   title: Role
 title: NXW
 ---
