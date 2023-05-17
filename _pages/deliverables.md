@@ -25,7 +25,7 @@ toc: true
 
 ## WP5 Use cases for culture, tourism & entertainment
 
-1. D5.1 Use Cases definition for Culture, Tourism and Entertainment (CTE) domain
+1. [D5.1 Use Cases definition for Culture, Tourism and Entertainment (CTE) domain](https://zenodo.org/record/7944732#.ZGTK_exByrc) (pending approval)
 1. D5.2 First results of Use cases implementation for CTE domain
 1. D5.3 Use cases final implementation and trials results for CTE domain
 
