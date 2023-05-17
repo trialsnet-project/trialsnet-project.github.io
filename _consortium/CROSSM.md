@@ -7,7 +7,7 @@ order: 18
 sidebar:
 - image: assets/images/logos/partners_logos/pngs/CROSSM_Logo.png
   image_alt: logo
-  text: Leader in Task 5.3 Parks in Metaverse and Task 5.4 Extended XR Museum Experience 
+  text: Leader in Task 5.3 Parks in Metaverse and Task 5.4 Extended XR Museum Experience, contributor to Task 3.5 Control Room in the metaverse.
   title: Role
 title: CROSSM
 ---
