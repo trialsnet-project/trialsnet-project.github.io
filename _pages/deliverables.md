@@ -19,7 +19,7 @@ toc: true
 
 ## WP4 Use cases for ehealth & emergency
 
-1. D4.1 Use Cases definition for eHealth and Emergency (eHE) domain
+1. [D4.1 Use Cases definition for eHealth and Emergency (eHE) domain](https://zenodo.org/record/7944692#.ZGTIG-xByrc) (pending approval)
 1. D4.2 First results of Use cases implementation for eHE domain
 1. D4.3 Use cases final implementation and trials results for eHE domain
 
