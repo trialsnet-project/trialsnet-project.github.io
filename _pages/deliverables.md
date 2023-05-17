@@ -13,7 +13,7 @@ toc: true
 		
 ## WP3 Use cases for infrastructure, transportation, security & safety
 
-1. D3.1 Use cases definition for Infrastructure, Transportation and Security & Safety (ITSS) domain
+1. [D3.1 Use cases definition for Infrastructure, Transportation and Security & Safety (ITSS) domain](https://zenodo.org/record/7944485#.ZGTAnexByrc)
 1. D3.2 First results of Use cases implementation for ITSS domain
 1. D3.3 Use cases final implementation and trials results for ITSS domain
 
