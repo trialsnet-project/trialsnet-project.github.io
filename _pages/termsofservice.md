@@ -8,8 +8,6 @@ classes:
 toc: true
 ---
 
-## TrialsNet Terms of Service
-
 All rights reserved. All logos are fully subject to the copyright of the holders/sources and are not to be employed for personal purposes, of any kind, by users of this information service. Any use for personal purposes requires the express consent of the holder. Users may download files at their own risk. We assume no liability for any damage arising directly or indirectly from downloading or using these files.
 {: .text-justify}
 
