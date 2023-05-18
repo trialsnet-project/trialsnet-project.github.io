@@ -12,35 +12,36 @@ toc: true
 This Privacy Notice will inform you as to how the TrialsNet Consortium (hereinafter referred to as the “Consortium”, “we”, “us” and “our”) collects and processes information about you and in particular your personal data. We hereby assure you that this Privacy and Personal Data Protection Policy (“Policy”) fully respects and complies with EU Regulation 679/2016 (“Regulation”) and any other relevant legislation.
 {: .text-justify}
 
-The processing of personal data, such as name, address or e-mail address of a data subject shall always be in line with the General Data Protection Regulation (GDPR), and in accordance with the country-specific data protection regulations applicable to the DAEMON Consortium. Through this data protection declaration, we would like to inform anyone concerned and the general public of the nature, scope, and purpose of the personal data we collect, use and process. Furthermore, data subjects are informed, by means of this data protection declaration, of the rights to which they are entitled.
-As the data controller, the DAEMON Consortium has implemented numerous technical and organizational measures to ensure comprehensive protection of personal data processed through this website.
+The processing of personal data, such as name, address or e-mail address of a data subject shall always be in line with the General Data Protection Regulation (GDPR), and in accordance with the country-specific data protection regulations applicable to the TrialsNet Consortium. Through this data protection declaration, we would like to inform anyone concerned and the general public of the nature, scope, and purpose of the personal data we collect, use and process. Furthermore, data subjects are informed, by means of this data protection declaration, of the rights to which they are entitled.
+{: .text-justify}
 
+As the data controller, the TrialsNet Consortium has implemented numerous technical and organizational measures to ensure comprehensive protection of personal data processed through this website.
+{: .text-justify}
+
+## Useful Definitions
+
+- **Personal Data** is any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, indicatively by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
+
+- **Personal data breach** is a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to personal data transmitted, stored or otherwise processed.
+
+- **Controller** is the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data.
+
+- **Processor** is a natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.
+
+- **Processing** is any operation or set of operations which is performed on personal data or on sets of personal data, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
+
+- **Third Party** is a natural or legal person, public authority, agency or body other than the data subject, the controller, the processor and persons who, under the direct authority of the controller or processor, are authorised to process personal data.
+
+- **Consent** of the data subject is any freely given, specific, informed and unambiguous indication of the data subject’s wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her.
  
 
-Useful Definitions
-Personal Data
-Personal Data is any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, indicatively by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
-Personal data breach
-Personal data breach is a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to personal data transmitted, stored or otherwise processed.
-Controller
-Controller is the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data.
-Processor
-Processor is a natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.
-Processing
-Processing is any operation or set of operations which is performed on personal data or on sets of personal data, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
-Third party
-Third Party is a natural or legal person, public authority, agency or body other than the data subject, the controller, the processor and persons who, under the direct authority of the controller or processor, are authorised to process personal data.
-Consent
-Consent of the data subject is any freely given, specific, informed and unambiguous indication of the data subject’s wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her.
- 
-
-The Controller
-Regarding the personal data in cases where as a Project Consortium, we determine the purposes and means of the processing, the Data Controller is the DAEMON Consortium.
-
+## The Controller
+Regarding the personal data in cases where as a Project Consortium, we determine the purposes and means of the processing, the Data Controller is the TrialsNet Consortium.
+{: .text-justify}
  
 
 Principles we adhere to
-At DAEMON Consortium, we are committed to and adhering to the following principles of processing personal data in accordance with Article 5 of the Regulation. The personal data is:
+At TrialsNet Consortium, we are committed to and adhering to the following principles of processing personal data in accordance with Article 5 of the Regulation. The personal data is:
 
 processed lawfully, fairly and in a transparent manner in relation to the data subject (principle of ‘lawfulness, fairness and transparency’);
 collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes (principle of ‘purpose limitation’);
@@ -53,11 +54,11 @@ Finally, we are able to demonstrate compliance with the aforementioned principle
  
 
 Collection of Personal Data
-The DAEMON Consortium as the Data Controller collects Personal Data from you within the purposes of research and the project’s scope. So, in the following cases:
+The TrialsNet Consortium as the Data Controller collects Personal Data from you within the purposes of research and the project’s scope. So, in the following cases:
 
 When you contact us directly or indirectly (e.g. through the project’s webpage and/or e-mail, or through our partners, or through our Social Media pages, etc.), in order to be informed regarding the Project or ask for relevant information;
 If you fill in any of our documents or subscribe to our newsletter;
-DAEMON Consortium may also publish video or photographs of images in case of events or workshops, provided that the relevant data subject gave its consent to the publication of it. There is no transfer of this personal data to third parties outside the same DAEMON Consortium.
+TrialsNet Consortium may also publish video or photographs of images in case of events or workshops, provided that the relevant data subject gave its consent to the publication of it. There is no transfer of this personal data to third parties outside the same TrialsNet Consortium.
  
 
 Minors’ Personal Data
@@ -71,7 +72,7 @@ The categories of data subjects include:
 Partners of the Consortium.
 Users visiting the project website.
 Social Media users.
-DAEMON Platform users.
+TrialsNet Platform users.
 General Public.
 Kind of Personal Data we may collect about you
 Data from the following categories of personal information about you may be collected and processed per case in order to serve the purpose of the data collection and in accordance with the relevant legal basis as described in this Policy:
