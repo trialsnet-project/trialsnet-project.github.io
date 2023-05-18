@@ -126,3 +126,5 @@ toc: false
   margin-right: 3%;
 }
 </style>
+
+[Terms of Service](https://trialsnet.eu/tos/) | [Privacy Policy](https://trialsnet.eu/privacypolicy/)
