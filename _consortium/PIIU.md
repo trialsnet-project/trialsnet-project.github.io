@@ -11,3 +11,5 @@ sidebar:
   title: Role
 title: PIIU
 ---
+PIIU is a leading international non-profit Institute based in Italy, with significant experience in European large scale research projects in the area of collaborative R&D in ICT. PIIU provides comprehensive services for initiating, managing and supporting collaborative research projects, initiatives and programmes in the ICT sector.
+{: .text-justify}
