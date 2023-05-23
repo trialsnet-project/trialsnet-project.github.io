@@ -2,7 +2,7 @@
 title:  "TrialsNet at the Design Thinking Workshop"
 excerpt: "TrialsNet will participate at the Design Thinking Workshop in Turin (Italy)"
 categories: 
-  - News
+  - Events
 ---
 
 Starting on May the 3rd 2023, at the Casa delle Tecnologie emergenti di Torino - CTE NEXT, a series of design thinking workshops will be held to co-design Turin experiences, together with the project stakeholders and end-users.
