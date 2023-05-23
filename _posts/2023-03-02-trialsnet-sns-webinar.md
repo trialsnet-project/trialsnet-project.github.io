@@ -2,7 +2,7 @@
 title:  "TrialsNet participated in the 1st SNS JU Lunch Time Webinar"
 excerpt: "Silvia Provvedi, project Coordinator of TrialsNet presented the project in the 1st Lunch Time Webinar organized by the SNS JU."
 categories: 
-  - News
+  - Events
 ---
 
 Silvia Provvedi, project Coordinator of TrialsNet presented the project in the 1st Lunch Time Webinar organized by the SNS JU. Silvia introduced the project objectives, the methodology, and the project plans for the [Open Call](/open-call).
