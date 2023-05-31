@@ -81,6 +81,9 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
+after_footer_scripts     :
+  - /assets/js/cookie-consent.js
+
 # Social Sharing
 twitter:
   username               : trialsnet
