@@ -38,3 +38,6 @@ The publication of the Open Call is foreseen within October 2023.
 
 Come back soon for further details.
 Don't miss these funding opportunity!
+
+## Contact
+For questions related to the Open Call, you can mail opencall.trialsnet@netcom.it.uc3m.es
