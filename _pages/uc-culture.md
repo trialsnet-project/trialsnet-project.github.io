@@ -39,3 +39,5 @@ The CTE domain offers the possibility to stretch the network performance require
 
 **Live Events** \: SNS and B5G systems can also be used to enhance the experience of live events, such as concerts, sporting events, and theatre performances. For example, 5G technology can be used to create virtual reality experiences that allow people to attend live events from anywhere in the world, providing a more accessible and inclusive entertainment experience and promote cross collaboration and interaction as well as democratizing cultural experience for all. 
 {: .text-justify}
+
+In the context of the Culture, Tourism & Entertainment domain, TrialsNet will implement and trial the 5 representative use cases described [here](/usecases).
