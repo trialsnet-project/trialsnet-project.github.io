@@ -7,37 +7,29 @@ classes:
   - dark-theme
 toc: true
 ---
-
 ## Overview
-
-By applying to the Open Call, applicants could enter in the TrialsNet project receiving up to 300.000 euros per pilot and up to 200.000 euros per applicant. 
+TrialsNet invites European third parties such as verticals, companies (including SMEs), research centres or any other relevant entity as well as facilities and infrastructure owners, to participate in its large-scale trials activities through the implementation of additional, diversified, and heterogeneous vertical use cases, to support\:
 {: .text-justify}
 
-TrialsNet will invite European third parties such as companies, research centers or any other relevant entity as well as facilities and infrastructure owners, to undertake a set of new or complementary 5G use cases to further enrich the main areas of interest and to perform related large-scale trials.
+- The deployment of new trials on the project’s platform and network solutions, as well as
 {: .text-justify}
-
+- The extension of its infrastructure domain in other geographical locations in Europe (complementing the main clusters)
+{: .text-justify}
+By applying to the Open Call, third parties could enter in TrialsNet project receiving up to 200.000 € per applicant or up to 300.000 € for multiple-applicant (i.e. independent trial)
+{: .text-justify}
 
 ## Details
-
-The proposed use cases should address one of the main areas identified by the project:
-
- - Infrastructure
- - Environment
- - Security & Safety
- - eHealth and emergency relief
- - Culture
- - Education
- - Media & Entertainment
-
+The proposed use cases and trials should address one of the main areas identified by the project:
+{: .text-justify}
+- Infrastructure
+- Transposrtation
+- Security & Safety
+- eHealth and Emergency
+- Culture
+- Tourism
+- Entertainment
 The total available budget is 5.580.900€.
-
-The publication of the Open Call is foreseen within October 2023.
-
-
-## Submissions
-
-Come back soon for further details.
-Don't miss these funding opportunity!
+The Open Call will be launched the 16th October 2023.
 
 ## Contact
 For questions related to the Open Call, you can mail opencall.trialsnet@netcom.it.uc3m.es
