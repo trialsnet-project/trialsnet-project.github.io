@@ -21,11 +21,8 @@ excerpt: "Trials Supported By Smart Networks Beyond 5G."
 **Goal**\: TrialsNet will deploy full large-scale trials to implement a heterogenous and comprehensive set of innovative 6G applications based on various technologies such as Cobots, Metaverse, massive twinning, Internet of Senses, and others, covering three relevant domains of the urban ecosystems in Europe identified as i) Infrastructure, Transportation, Security & Safety, ii) eHealth & Emergency, and iii) Culture, Tourism & Entertainment
 
 # TrialsNet domains
-| Infrastructure, Transportation, Security & Safety | eHealth & Emergency | Culture, Tourism & Entertainment |
-|:------:|:------:|:-----:| 
-| testo1 | testo2 | testo3|
 
-[<img src="assets/images/unsplash-gallery-image-1-th.jpg" width="30%" height="30%">](/usecases/) [<img src="assets/images/unsplash-gallery-image-2-th.jpg" width="30%" height="30%">](/usecases/) [<img src="assets/images/unsplash-gallery-image-3-th.jpg" width="30%" height="30%">](/usecases/)
+[<img src="assets/images/unsplash-gallery-image-1-th.jpg" title="eHealth & Emergency" width="30%" height="30%">](/usecases/) [<img src="assets/images/unsplash-gallery-image-2-th.jpg" width="30%" height="30%">](/usecases/) [<img src="assets/images/unsplash-gallery-image-3-th.jpg" width="30%" height="30%">](/usecases/)
 
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
