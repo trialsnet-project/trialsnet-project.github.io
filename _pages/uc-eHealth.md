@@ -1,5 +1,5 @@
 ---
-permalink: /un-eHealth/
+permalink: /uc-eHealth/
 title: "eHealth & Emergency Domain"
 layout: single
 toc: true
