@@ -22,8 +22,9 @@ excerpt: "Trials Supported By Smart Networks Beyond 5G."
 
 # TrialsNet domains
 | Infrastructure, Transportation, Security & Safety | eHealth & Emergency | Culture, Tourism & Entertainment |
-|:-----:| :-----:| :-----:| 
+|:------:|:------:|:-----:| 
 | testo1 | testo2 | testo3|
+
 [<img src="assets/images/unsplash-gallery-image-1-th.jpg" width="30%" height="30%">](/usecases/) [<img src="assets/images/unsplash-gallery-image-2-th.jpg" width="30%" height="30%">](/usecases/) [<img src="assets/images/unsplash-gallery-image-3-th.jpg" width="30%" height="30%">](/usecases/)
 
 feature_row:
