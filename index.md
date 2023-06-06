@@ -22,7 +22,7 @@ excerpt: "Trials Supported By Smart Networks Beyond 5G."
 
 # TrialsNet domains
 
-| [<img src="assets/images/unsplash-gallery-image-1-th.jpg">](/usecases/) | [<img src="assets/images/unsplash-gallery-image-2-th.jpg">](/usecases/) | [<img src="assets/images/unsplash-gallery-image-3-th.jpg">](/usecases/) |
+| [<img src="assets/images/unsplash-gallery-image-1-th.jpg" width="25%">](/usecases/) | [<img src="assets/images/unsplash-gallery-image-2-th.jpg" width="25%">](/usecases/) | [<img src="assets/images/unsplash-gallery-image-3-th.jpg" width="25%">](/usecases/) |
 |--------|---------|----------|
 
 feature_row:
