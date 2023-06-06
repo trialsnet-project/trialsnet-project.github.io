@@ -28,6 +28,10 @@ excerpt: "Trials Supported By Smart Networks Beyond 5G."
 
 [<img src="assets/images/news.jpeg" title="News and Events" width="90%" height="30%">](/news-events/)
 
+# Consortium
+
+[<img src="assets/images/consortium-logo.png" title="Consortium" width="90%" height="30%">](/consortium/)
+
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
