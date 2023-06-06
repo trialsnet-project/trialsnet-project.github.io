@@ -1,6 +1,6 @@
 ---
 permalink: /uc-culture/
-title: "Culture, Tourism & Entertainment"
+title: "Culture, Tourism & Entertainment Domain"
 layout: single
 toc: true
 ---
