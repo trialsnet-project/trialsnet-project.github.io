@@ -9,10 +9,28 @@
     height: 10%; 
   }
 
-  .page__footer {
+
+
+.page__footer {
     color: #314D8A;
     background-color: #DBE5F1
 }
 
   .footer_eu-logo { grid-area: Logo; text-align: center;margin: auto;}
   .footer_eu-text { grid-area: Text; }
+
+
+  h1 {
+    color:#314D8A;
+}
+
+  h2 {
+    color:#314D8A;
+}
+
+h3 {
+  color:#314D8A;
+}
+
+.toc .nav__title {
+    background: #314D8A;
