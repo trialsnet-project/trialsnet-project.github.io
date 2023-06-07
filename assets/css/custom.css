@@ -8,5 +8,11 @@
       "Logo Text"; 
     height: 10%; 
   }
+
+  .page__footer {
+    color: #314D8A;
+    background-color: #DBE5F1
+}
+
   .footer_eu-logo { grid-area: Logo; text-align: center;margin: auto;}
   .footer_eu-text { grid-area: Text; }
