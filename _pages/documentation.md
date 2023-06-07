@@ -1,6 +1,6 @@
 ---
 permalink: /documentation/
-title: "Documents of the TrialsNet projects"
+title: "Documents of the TrialsNet project"
 layout: single
 toc: true
 ---

@@ -9,7 +9,7 @@
     height: 10%; 
   }
 
-
+.page__title { color: red; text-decoration: none; }
 
 .page__footer {
     color: #314D8A;
@@ -20,9 +20,6 @@
   .footer_eu-text { grid-area: Text; }
 
 
-  h1 {
-    color:#314D8A;
-}
 
   h2 {
     color:#314D8A;
@@ -34,3 +31,4 @@ h3 {
 
 .toc .nav__title {
     background: #314D8A;
+}
