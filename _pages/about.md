@@ -30,7 +30,7 @@ To achieve the objectives reported above, TrialsNet will deploy full large-scale
 The use cases will be developed over wide coverage areas with the involvement of extended sets of real users in 4 geographical clusters, located in Italy, Spain, Greece and Romania respectively. The use cases will be transversal meaning that the pan-European clusters of TrialsNet will target use cases for the identified domains and, most importantly, different implementations of the same use case could be developed in more clusters. This approach will allow for a holistic evaluation of the network KPIs and KVIs of the 6G applications in different contexts and scenarios, including different network deployments and solutions.
 {: .text-justify}
 
-{% include figure image_path="/assets/images/clusters_map.png" alt="The TrialsNet clusters map." caption="The TrialsNet clusters map." out.width="50%"%}
+{% include figure image_path="/assets/images/clusters_map.png" alt="The TrialsNet clusters map." caption="The TrialsNet clusters map." %}
 
 In support to the use cases implementation, TrialsNet will design and deploy platforms and network solu-tions with advanced functionalities such as dynamic slicing management, E2E orchestration, NFV, MEC and AI/ML methods that will be trialed on 3GPP and O-RAN network architectures. Design objectives of sus-tainability and affordability of the deployed network solutions will be also considered in both design and operational phases. 
 {: .text-justify}
@@ -67,14 +67,14 @@ The TrialsNet consortium includes 23 partners from 6 different countries (Italy,
 
 {% include figure image_path="/assets/images/consTrialsNet.png" alt="The TrialsNet consortium." caption="The TrialsNet consortium." %}
 
-1. ERICSSON TELECOMUNICAZIONI SPA :it: 
-1. TELECOM ITALIA SPA :it: 
-1. ORANGE ROMANIA SA :romania:
-1. NEXTWORKS :it:
-1. WINGS ICT SOLUTIONS INFORMATION & COMMUNICATION TECHNOLOGIES IKE :greece:
-1. UNIVERSIDAD CARLOS III DE MADRID :es:
-1. INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM :belgium:
-1. YERBA BUENA VR EUROPE SL :es:
+1. [Ericsson Telecomunicazioni SPA](https://trialsnet.eu/consortium/TEI/) :it: 
+1. [Telecom Italia ITALIA SPA](https://trialsnet.eu/consortium/TIM/) :it: 
+1. [Orange Romania SA](https://trialsnet.eu/consortium/ORO/) :romania:
+1. [Nextworks](https://trialsnet.eu/consortium/NXW/) :it:
+1. [Wings ICT Solutions Information & Communication Technologies IKE](https://trialsnet.eu/consortium/WINGS/) :greece:
+1. [Universidad Carlos III DE Madrid](https://trialsnet.eu/consortium/UC3M/) :es:
+1. [Interuniversitais Micro-Electronica Centrum](https://trialsnet.eu/consortium/IMEC/) :belgium:
+1. [Yerba Buena VR Europe SL](https://trialsnet.eu/consortium/YBVR/) :es:
 1. CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI :it: 
 1. TELEFONICA INVESTIGACION Y DESARROLLO SA :es:
 1. ERICSSON ESPANA SA :es:
