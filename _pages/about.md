@@ -43,8 +43,6 @@ TrialsNet has defined a proper methodology based on the iterative approach, star
 
 {% include figure image_path="/assets/images/methodology.png" alt="The TrialsNet project methodology." caption="The TrialsNet project methodology." %}
 
-## [Methodology](/methodology/)
-
 ## Work Packages
 {% include figure image_path="/assets/images/trialsnet-wps.png" alt="The Work Packages of the TrialsNet project." caption="The Work Packages of the TrialsNet project." %}
 
@@ -63,7 +61,11 @@ The management of the project is ensured by WP1 and the handling of Open Calls b
 Finally, the WP8 has been established to strengthen the activities related the ethic implications related to the use cases implementation.
 {: .text-justify}
 
-## [Consortium](/consortium/)
+## Consortium
+The TrialsNet consortium includes 23 partners from 6 different countries (Italy, Greece, Spain, Romania, Belgium, and UK) providing a very well-balanced choice of stakeholders addressing a heterogeneous variety of vertical customers, vertical solutions and technology providers, network infrastructure as well as network operators to respond in the best way to the call and validate a consistent set of European beyond 5G/6G applications in the context of large-scale trials with verticals.
+{: .text-justify}
+
+{% include figure image_path="/assets/images/consTrialsNet.png" alt="The TrialsNet consortium." caption="The TrialsNet consortium." %}
 
 1. ERICSSON TELECOMUNICAZIONI SPA :it: 
 1. TELECOM ITALIA SPA :it: 
