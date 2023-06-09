@@ -30,7 +30,7 @@ To achieve the objectives reported above, TrialsNet will deploy full large-scale
 The use cases will be developed over wide coverage areas with the involvement of extended sets of real users in 4 geographical clusters, located in Italy, Spain, Greece and Romania respectively. The use cases will be transversal meaning that the pan-European clusters of TrialsNet will target use cases for the identified domains and, most importantly, different implementations of the same use case could be developed in more clusters. This approach will allow for a holistic evaluation of the network KPIs and KVIs of the 6G applications in different contexts and scenarios, including different network deployments and solutions.
 {: .text-justify}
 
-{% include figure image_path="/assets/images/clusters_map.png" alt="The TrialsNet clusters map." caption="The TrialsNet clusters map." %}{width=50%}
+{% include figure image_path="/assets/images/clusters_map.png" alt="The TrialsNet clusters map." caption="The TrialsNet clusters map." out.width="50%"%}
 
 In support to the use cases implementation, TrialsNet will design and deploy platforms and network solu-tions with advanced functionalities such as dynamic slicing management, E2E orchestration, NFV, MEC and AI/ML methods that will be trialed on 3GPP and O-RAN network architectures. Design objectives of sus-tainability and affordability of the deployed network solutions will be also considered in both design and operational phases. 
 {: .text-justify}
