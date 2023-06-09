@@ -75,18 +75,18 @@ The TrialsNet consortium includes 23 partners from 6 different countries (Italy,
 1. [Universidad Carlos III DE Madrid](https://trialsnet.eu/consortium/UC3M/) :es:
 1. [Interuniversitais Micro-Electronica Centrum](https://trialsnet.eu/consortium/IMEC/) :belgium:
 1. [Yerba Buena VR Europe SL](https://trialsnet.eu/consortium/YBVR/) :es:
-1. CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI :it: 
-1. TELEFONICA INVESTIGACION Y DESARROLLO SA :es:
-1. ERICSSON ESPANA SA :es:
-1. FONDAZIONE ISTITUTO ITALIANO DI TECNOLOGIA :it: 
-1. ATHENS INTERNATIONAL AIRPORT S.A. :greece:
-1. SCUOLA SUPERIORE DI STUDI UNIVERSITARI E DI PERFEZIONAMENTO S ANNA :it: 
-1. PROMOZIONE PER L INNOVAZIONE FRA INDUSTRIA E UNIVERS ASSOCIAZIONE :it: 
-1. COMUNE DI TORINO :it: 
-1. UNIVERSITATEA TEHNICA GHEORGHE ASACHI DIN IASI :romania:
-1. PROSEGUR GLOBAL SIS ROW SL :es:
-1. CROSSMEDIA BELGIQUE :belgium:
-1. DIMOS ATHINAION EPICHEIRISI MICHANOGRAFISIS :greece:
-1. CONSIGLIO NAZIONALE DELLE RICERCHE :it: 
-1. ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS :greece:
-1. REAL WIRELESS LIMITED :uk:
+1. [Consorzio Nazionale Interuniversitario per le Telecomunicazioni](https://trialsnet.eu/consortium/CNIT/) :it: 
+1. [Telefónica Investigación y Desarrollo SA](https://trialsnet.eu/consortium/TID/) :es:
+1. [Ericsson España SA](https://trialsnet.eu/consortium/ERC/) :es:
+1. [Fondazione Istituto Italiano di Tecnolocia](https://trialsnet.eu/consortium/IIT/) :it: 
+1. [Athens International Airport S.A.]() :greece:
+1. [Scuola Superiore di Studi Universitari e di Perfezionamento S Anna](https://trialsnet.eu/consortium/SSSA/) :it: 
+1. [Promozione per l'innovazione fra Industria ed Università](https://trialsnet.eu/consortium/PIIU/) :it: 
+1. [Comune di Torino](https://trialsnet.eu/consortium/COTO/) :it: 
+1. [Universitate tehnica Gheorghe Asachi Din Iasi](https://trialsnet.eu/consortium/TUIASI/) :romania:
+1. [Prosegur Global SIS ROW SL](https://trialsnet.eu/consortium/PROS/) :es:
+1. [Crossmedia Belgique](https://trialsnet.eu/consortium/CROSSM/) :belgium:
+1. [Dimos Athinaion Epicheirisi Michanografisis](https://trialsnet.eu/consortium/DAEM/) :greece:
+1. [Consiglio Nazionale Delle Ricerche](https://trialsnet.eu/consortium/CNR/) :it: 
+1. [Ethniko Kentro Erevnas Kai Technologikis Anaptyxis](https://trialsnet.eu/consortium/CERTH/) :greece:
+1. [Real Wireless Limited](https://trialsnet.eu/consortium/RW/) :uk:
