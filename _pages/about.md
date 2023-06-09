@@ -10,55 +10,40 @@ toc: true
 
 ## Overview
 
-TrialsNet will deploy full large-scale trials to implement a heterogenous and comprehensive set of innovative 6G applications based on various technologies such as cobots, metaverse, massive twinning, Internet of Senses, and covering three relevant domains of the urban ecosystems in Europe identified by: 
+TrialsNet will target a set of technical, performance and productivity objectives which will impact the current 5G ecosystem substantially, effectively leading the B5G technology wave that is expected to take place dur-ing the project lifetime and drawing compelling requirements towards the next generation of mobile net-works. The objectives defined by TrialsNet are the following\:
+{: .text-justify}
+- Objective 1\: Trialling of 6G Applications 
+- Objective 2\: Enhance B5G networks to support 6G applications 
+- Objective 3\: Introduce societal benefits in different areas, thanks to 6G Apps 
+- Objective 4\: Large scale deployment of B5G Networks 
+- Objective 5\: Achieve Industrial Impact  
+- Objective 6\: Achieve Scientific and Standardization Impact 
+- Objective 7\: Create an ecosystem of verticals and technology providers in the trial sites 
+
+## Framework
+
+To achieve the objectives reported above, TrialsNet will deploy full large-scale trials to implement a heterogenous and comprehensive set of innovative 6G applications based on various technologies such as Cobots, Metaverse, massive twinning, Internet of Senses, and others, covering three relevant domains of the urban ecosystems in Europe identified as i) Infrastructure, Transportation, Security & Safety, ii) eHealth & Emergency, and iii) Culture, Tourism & Entertainment. In the context of these three domains, TrialsNet will design and implement 13 representative use cases mapped as follows.
 {: .text-justify}
 
+{% include figure image_path="/assets/images/use_cases_mapping.png" alt="The TrialsNet use cases mapping." caption="The TrialsNet use cases mapping." %}
 
-1. Infrastructure, Transportation, Security & Safety, 
-1. eHealth & Emergency, 
-1. Culture, Tourism & Entertainment. 
-
-There will be 13 representative use cases developed over wide coverage areas with the involvement of extended sets of real users in 4 geographical clusters, in Italy, Spain, Greece and Romania. The use cases will be transversal, each single use case will be potentially implementable over different clusters, thus allowing for a holistic evaluation of the network KPIs.
-Targeting to improve the “liveability” of the urban environment in the different domains, TrialsNet will also pursue the objective to: 
+The use cases will be developed over wide coverage areas with the involvement of extended sets of real users in 4 geographical clusters, located in Italy, Spain, Greece and Romania respectively. The use cases will be transversal meaning that the pan-European clusters of TrialsNet will target use cases for the identified domains and, most importantly, different implementations of the same use case could be developed in more clusters. This approach will allow for a holistic evaluation of the network KPIs and KVIs of the 6G applications in different contexts and scenarios, including different network deployments and solutions.
 {: .text-justify}
 
-1. understand where current networks are not sufficient to assure the performance needed by the use cases, and to 
-1. derive the new requirements for next generation mobile networks. 
+{% include figure image_path="/assets/images/clusters_map.png" alt="The TrialsNet clusters map." caption="The TrialsNet clusters map." %}
 
-To achieve this, TrialsNet will design and deploy platforms and network solutions with advanced functionalities based on dynamic slicing management, E2E orchestration, NFV, MEC and AI/ML methods to be trialled on 3GPP and O-RAN network architectures. Design objectives of sustainability and affordability of the deployed systems will be also treated with the highest priority.
+In support to the use cases implementation, TrialsNet will design and deploy platforms and network solu-tions with advanced functionalities such as dynamic slicing management, E2E orchestration, NFV, MEC and AI/ML methods that will be trialed on 3GPP and O-RAN network architectures. Design objectives of sus-tainability and affordability of the deployed network solutions will be also considered in both design and operational phases. 
 {: .text-justify}
 
-Finally, TrialsNet will also develop appropriate technical assessment frameworks mapping quantitative and qualitative measures and visualizing the dynamics of the use cases for society acceptance. Proper KVIs will be monitored, proved and refined to provide a socio-technical vision towards early adoption of 6G solutions.
+In addition to the KPIs evaluation methodology based on the trials’ activities, TrialsNet will also develop appropriate technical assessment frameworks, mapping quantitative and qualitative measures and visualizing the dynamics of the use cases for society acceptance. Proper KVIs will be monitored, proved, and refined to provide a socio-technical vision towards early adoption of 6G solutions.
 {: .text-justify}
 
-## Objectives
-
-
-1. Trialling of 6G Applications
-    1. Successfully support the applications in large scale environments
-    2. Successfully support the applications in large scale environments
-1. Enhance B5G networks to support 6G applications
-    1. Understand the requirements of the 6G-Applications
-    2. Improve network components to support 6G applications
-1. Introduce societal benefits in different areas, thanks to 6G Apps
-1. Large scale deployment of B5G Networks
-    1. Provide pervasive B5G KPIs in different scenarios
-    2. Understanding and enforcing the sustainability of the deployed system
-
-## [Methodology](/methodology/)
-
-The TrialsNet framework is composed of a set of 13 innovative use cases that leverage 5G and beyond, to improve the urban environment in many ways as discussed previously. In a nutshell, TrialsNet will:
-{: .text-justify}
-
--	Provide Large scale deployment of 5G and beyond network technology in different clusters, providing the KPIs required to support them in a sustainable way
--	Use cases that will employ innovative 6G technology such as Cobots, Extended Reality, and Massive Twining that may stress the network beyond the capabilities that are currently provided by the available technology.
--	Learning from these activities to understand 
-    - where the needed network capabilities are not sufficient to provide the performance requirements needed by the developed use cases, and in this way 
-    - devising the new requirements for the forthcoming generation of mobile networks.
--	Refine and optimize the operation of the network and the use case application to mitigate the impact of the KPIs that cannot be achieved by the current generation of technology. 
+TrialsNet has defined a proper methodology based on the iterative approach, starting from the assessment of the current capabilities of the state-of-the-art mobile network solutions, will iteratively perform the four main phases of Deployment, Trials, Evaluation and Optimize. Based on this approach, and through to the introduction of TrialsNet’s innovations as well as the collection of the feedbacks from the involved users, TrialsNet will aim to i) understand where current networks are not sufficient to fulfil the performance requirements of  the use cases, and to ii) derive the new requirements for next generation mobile networks.
 {: .text-justify}
 
 {% include figure image_path="/assets/images/methodology.png" alt="The TrialsNet project methodology." caption="The TrialsNet project methodology." %}
+
+## [Methodology](/methodology/)
 
 ### Work Packages
 {% include figure image_path="/assets/images/trialsnet-wps.png" alt="The Work Packages of the TrialsNet project." caption="The Work Packages of the TrialsNet project." %}
