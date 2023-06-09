@@ -22,7 +22,7 @@ excerpt: "TRials Supported By Smart Networks Beyond 5G."
 
 # TrialsNet domains
 
-![eHealth & Emergency](/path/to/unsplash-gallery-image-1-th.jpg){:width="30%"}
+![eHealth & Emergency](assets/images/unsplash-gallery-image-1-th.jpg){:width="30%"}
 
 [<img src="assets/images/unsplash-gallery-image-1-th.jpg" caption="eHealth & Emergency" width="30%" height="30%">](/uc-eHealth/) [<img src="assets/images/unsplash-gallery-image-2-th.jpg" alt="Infrastructure, Transportation, Security & Safety" title="Infrastructure, Transportation, Security & Safety" width="30%" height="30%">](/uc-infrastructure/) [<img src="assets/images/unsplash-gallery-image-3-th.jpg" alt="" width="30%" height="30%">](/uc-culture/)
 
