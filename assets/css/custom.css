@@ -1,11 +1,11 @@
 .footer_eu {
     font-size: 0.75em;
     display: grid; 
-    grid-template-columns: 2fr 5fr; 
+    grid-template-columns: 2fr 3fr 2fr; 
     grid-template-rows: 1fr; 
-    gap: 0px 0px;
+    gap: 0px 0px 0px;
     grid-template-areas: 
-      "Logo Text"; 
+      "Logo Text Twitter"; 
     height: 10%; 
   }
 
@@ -17,7 +17,8 @@
 }
 
   .footer_eu-logo { grid-area: Logo; text-align: center;margin: auto;}
-  .footer_eu-text { grid-area: Text; }
+  .footer_eu-text { grid-area: Text; text-align: center;margin: auto;}
+  .footer_twitter { grid-area: Twitter; text-align: center;margin: auto; }
 
 
 
