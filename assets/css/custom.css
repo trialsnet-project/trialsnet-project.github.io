@@ -21,7 +21,9 @@
   .footer_twitter { grid-area: Twitter; text-align: center;margin: auto; }
 
 
-
+h1 {
+    color:#314D8A;
+}
 
 h2 {
     color:#314D8A;
