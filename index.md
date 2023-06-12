@@ -12,6 +12,39 @@ header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "TRials Supported By Smart Networks Beyond 5G."
+feature_row:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "placeholder image 2"
+    title: "Infrastructure, Transportation, Security & Safety"
+    excerpt: "Infrastructure, Transportation, Security & Safety use cases."
+    url: "/uc-eHealth/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "placeholder image 1"
+    title: "eHealth & Emergency"
+    excerpt: "e-Health use cases"
+    url: "/uc-infrastructure/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    title: "Culture, Tourism & Entertainment"
+    excerpt: "Culture, Tourism & Entertainment use cases."
+    url: "/uc-culture/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_row2:
+  - image_path: /assets/images/news.jpg
+    alt: "placeholder image 2"
+    title: "News and Events"
+    excerpt: 'Stay up to date on the latest news and activities of the TrialsNet project. Here, we aim to deliver timely and reliable information that keeps you informed on the projects activities.'
+    url: "/news-events"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 
 --- 
 **Motivation**\: Smart Cities have already attracted attention as one of the possible solutions to improve “livability” and people’s quality of life. Beyond 5G and 6G are candidate technologies to positively impact aspects of immense social value as sustainability, resilience, inclusion, trust, security, etc.'
@@ -22,11 +55,11 @@ excerpt: "TRials Supported By Smart Networks Beyond 5G."
 
 # TrialsNet domains
 
-[<img src="assets/images/unsplash-gallery-image-1-th.jpg" caption="eHealth & Emergency" width="30%" height="30%">](/uc-eHealth/) [<img src="assets/images/unsplash-gallery-image-2-th.jpg" alt="Infrastructure, Transportation, Security & Safety" title="Infrastructure, Transportation, Security & Safety" width="30%" height="30%">](/uc-infrastructure/) [<img src="assets/images/unsplash-gallery-image-3-th.jpg" alt="" width="30%" height="30%">](/uc-culture/)
+{% include feature_row %}
 
-# News and Event
 
-[<img src="assets/images/news.jpeg" title="News and Events" width="90%" height="30%">](/news-events/)
+
+{% include feature_row id="feature_row2" type="left" %}
 
 # Consortium
 
@@ -34,11 +67,11 @@ excerpt: "TRials Supported By Smart Networks Beyond 5G."
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
 
 
-<!--{% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+
+
+<!--{% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="center" %}-->

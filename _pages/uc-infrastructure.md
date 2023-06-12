@@ -2,6 +2,8 @@
 permalink: /uc-infrastructure/
 title: "Infrastructure, Transportation, Security & Safety Domain"
 layout: single
+classes:
+  - wide-post
 toc: true
 ---
 In the following some examples are reported on how SNS and future network technologies can bring benefits for Infrastructure, Transportation, and Security & Safety domain and that will be deployed as part of the large-scale trials performed by TrialsNet. 

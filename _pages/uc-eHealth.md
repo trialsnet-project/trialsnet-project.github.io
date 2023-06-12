@@ -2,6 +2,8 @@
 permalink: /uc-eHealth/
 title: "eHealth & Emergency Domain"
 layout: single
+classes:
+  - wide-post
 toc: true
 ---
 eHealth is certainly one of the most promising fields in which new technologies will play a fundamental role. Impacts are expected to be essentially in three main areas reported hereafter\: 

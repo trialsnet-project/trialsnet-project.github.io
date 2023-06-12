@@ -2,6 +2,8 @@
 permalink: /uc-culture/
 title: "Culture, Tourism & Entertainment Domain"
 layout: single
+classes:
+  - wide-post
 toc: true
 ---
 The CTE domain offers the possibility to stretch the network performance requirements because it needs in all the scenarios low latency, high bandwidth availability and reliable performance for all the users involved. For example, VR and AR can be used to enhance the visitor experience at cultural heritage sites and museums, providing interactive and immersive experiences and educational opportunities. In the entertainment industry, B5G technologies can enhance the quality and reliability of streaming services, allowing for a more seamless and enjoyable experience for consumers. Therefore, the CTE domain can greatly benefit from B5G technologies. From a societal perspective, culture, tourism, and entertainment are significant drivers of economic growth, job creation, and social development. The integration of SNS and B5G technologies can help to further stimulate these industries by creating new business opportunities and improving the delivery of cultural and entertainment services. Additionally, it can also help to promote cultural exchange and understanding, fostering a more diverse and inclusive society. It is also important for stakeholders to consider the opportunities and challenges posed by these technologies and work together to ensure that they are used in ways that are beneficial for society.  Some examples in which SNS and B5G technologies can impact the CTE domain are provided below. 
