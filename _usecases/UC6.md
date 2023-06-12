@@ -1,5 +1,6 @@
 ---
 date: 23-01-06 11:10:16.095500
+excerpt: 
 header:
   teaser: assets/images/uc6-small.png
 order: 6
