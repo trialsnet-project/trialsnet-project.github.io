@@ -3,6 +3,8 @@ permalink: /methodology/
 title: "TrialsNet Project Methodology"
 layout: single
 toc: true
+classes:
+  - wide-post
 ---
 ## Overall Framework
 

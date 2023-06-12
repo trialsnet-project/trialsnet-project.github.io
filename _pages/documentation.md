@@ -2,6 +2,8 @@
 permalink: /documentation/
 title: "Documents of the TrialsNet project"
 layout: single
+classes:
+  - wide-post
 toc: true
 ---
 

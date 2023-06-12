@@ -2,6 +2,8 @@
 permalink: /publications/
 title: "TrialsNet Project Publications"
 layout: single
+classes:
+  - wide-post
 toc: true
 ---
 

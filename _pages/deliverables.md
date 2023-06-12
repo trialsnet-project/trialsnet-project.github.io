@@ -2,6 +2,8 @@
 permalink: /deliverables/
 title: "TrialsNet Project Deliverables"
 layout: single
+classes:
+  - wide-post
 toc: true
 ---
 ## WP2 Platforms & network solutions

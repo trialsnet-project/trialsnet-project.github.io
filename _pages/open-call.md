@@ -5,6 +5,7 @@ layout: single
 classes:
   - landing
   - dark-theme
+  - wide-post
 toc: true
 ---
 ## Overview

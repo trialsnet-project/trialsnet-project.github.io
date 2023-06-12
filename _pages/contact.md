@@ -2,6 +2,8 @@
 permalink: /contact/
 title: "Contact us"
 layout: single
+classes:
+  - wide-post
 toc: false
 ---
 
