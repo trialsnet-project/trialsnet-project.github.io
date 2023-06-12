@@ -29,7 +29,9 @@ The proposed use cases and trials should address one of the main areas identifie
 - Culture
 - Tourism
 - Entertainment
+
 The total available budget is 5.580.900€.
+
 The Open Call will be launched the 16th October 2023.
 
 ## Contact
