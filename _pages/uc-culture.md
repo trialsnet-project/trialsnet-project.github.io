@@ -1,11 +1,18 @@
 ---
 permalink: /uc-culture/
 title: "Culture, Tourism & Entertainment Domain"
-layout: single
+layout: uc-collection
+collection: usecases
+entries_layout: grid
+filter: wp5
 classes:
+  - landing
+  - dark-theme
   - wide-post
-toc: true
+
 ---
+
+
 The CTE domain offers the possibility to stretch the network performance requirements because it needs in all the scenarios low latency, high bandwidth availability and reliable performance for all the users involved. For example, VR and AR can be used to enhance the visitor experience at cultural heritage sites and museums, providing interactive and immersive experiences and educational opportunities. In the entertainment industry, B5G technologies can enhance the quality and reliability of streaming services, allowing for a more seamless and enjoyable experience for consumers. Therefore, the CTE domain can greatly benefit from B5G technologies. From a societal perspective, culture, tourism, and entertainment are significant drivers of economic growth, job creation, and social development. The integration of SNS and B5G technologies can help to further stimulate these industries by creating new business opportunities and improving the delivery of cultural and entertainment services. Additionally, it can also help to promote cultural exchange and understanding, fostering a more diverse and inclusive society. It is also important for stakeholders to consider the opportunities and challenges posed by these technologies and work together to ensure that they are used in ways that are beneficial for society.  Some examples in which SNS and B5G technologies can impact the CTE domain are provided below. 
 {: .text-justify}
 
@@ -42,4 +49,7 @@ The CTE domain offers the possibility to stretch the network performance require
 **Live Events** \: SNS and B5G systems can also be used to enhance the experience of live events, such as concerts, sporting events, and theatre performances. For example, 5G technology can be used to create virtual reality experiences that allow people to attend live events from anywhere in the world, providing a more accessible and inclusive entertainment experience and promote cross collaboration and interaction as well as democratizing cultural experience for all. 
 {: .text-justify}
 
-In the context of the Culture, Tourism & Entertainment domain, TrialsNet will implement and trial the 5 representative use cases described [here](/usecases).
+
+### Use Cases 
+
+

@@ -9,7 +9,7 @@
     height: 10%; 
   }
 
-.page__title { color: red; text-decoration: none; }
+.page__title { color: #314D8A; text-decoration: none; }
 
 .page__footer {
     color: #314D8A;
@@ -19,6 +19,7 @@
   .footer_eu-logo { grid-area: Logo; text-align: center;margin: auto;}
   .footer_eu-text { grid-area: Text; text-align: center;margin: auto;}
   .footer_twitter { grid-area: Twitter; text-align: center;margin: auto; }
+
 
 
 
