@@ -1,6 +1,6 @@
 ---
 date: 23-01-06 11:10:16.095500
-excerpt: <span style="color:white">MCI and Emergency Rescue in Populated Area</span>
+excerpt: MCI and Emergency Rescue in Populated Area
 header:
   teaser: assets/images/uc6-small.png
 order: 6
