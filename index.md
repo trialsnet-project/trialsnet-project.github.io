@@ -13,19 +13,19 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "TRials Supported By Smart Networks Beyond 5G."
 feature_row:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Infrastructure, Transportation, Security & Safety"
-    excerpt: "Revolutionizing infrastructure, transportation, security, and safety through advanced technologies and innovative strategies for a connected, resilient, and secure future"
-    url: "/uc-eHealth/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 1"
     title: "eHealth & Emergency"
     excerpt: "Leveraging digital health solutions and rapid emergency response strategies to enhance healthcare access and save lives in critical situations."
+    url: "/uc-eHealth/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "placeholder image 2"
+    title: "Infrastructure, Transportation, Security & Safety"
+    excerpt: "Revolutionizing infrastructure, transportation, security, and safety through advanced technologies and innovative strategies for a connected, resilient, and secure future"
     url: "/uc-infrastructure/"
     btn_label: "Read More"
     btn_class: "btn--primary"

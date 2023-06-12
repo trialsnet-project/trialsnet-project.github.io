@@ -4,6 +4,7 @@ excerpt: Control Room in Metaverse
 header:
   teaser: assets/images/uc5-small.png
 order: 5
+wp: wp3
 sidebar:
 - image: assets/images/uc5.png
   image_alt: logo

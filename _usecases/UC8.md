@@ -4,6 +4,7 @@ excerpt: Smart Ambulance
 header:
   teaser: assets/images/uc8-small.png
 order: 8
+wp: wp4
 sidebar:
 - image: assets/images/uc8.png
   image_alt: logo

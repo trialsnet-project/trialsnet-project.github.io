@@ -4,6 +4,7 @@ excerpt: Extended XR Museums Experience
 header:
   teaser: assets/images/uc13-small.png
 order: 14
+wp: wp5
 sidebar:
 - image: assets/images/uc13.png
   image_alt: logo

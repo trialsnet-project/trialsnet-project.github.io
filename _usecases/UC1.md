@@ -3,7 +3,9 @@ date: 23-01-06 11:10:16.090954
 excerpt: Smart Crowd Monitoring
 header:
   teaser: assets/images/uc1-small.png
+
 order: 0
+wp: wp3
 sidebar:
 - image: assets/images/uc1.png
   image_alt: logo

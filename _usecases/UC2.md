@@ -4,6 +4,7 @@ excerpt: Proactive Public Infrastructure Assets Management
 header:
   teaser: assets/images/uc2-small.png
 order: 2
+wp: wp3
 sidebar:
 - image: assets/images/uc2.png
   image_alt: logo

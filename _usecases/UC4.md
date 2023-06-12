@@ -4,6 +4,7 @@ excerpt: Smart Traffic Management
 header:
   teaser: assets/images/uc4-small.png
 order: 4
+wp: wp3
 sidebar:
 - image: assets/images/uc4.png
   image_alt: logo

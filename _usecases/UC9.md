@@ -4,6 +4,7 @@ excerpt: Adaptive Control of Hannes Prosthetic Device
 header:
   teaser: assets/images/uc9-small.png
 order: 9
+wp: wp4
 sidebar:
 - image: assets/images/uc9.png
   image_alt: logo

@@ -4,6 +4,7 @@ excerpt: Autonomous APRON
 header:
   teaser: assets/images/uc3-small.png
 order: 3
+wp: wp3
 sidebar:
 - image: assets/images/uc3.png
   image_alt: logo

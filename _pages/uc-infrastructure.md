@@ -1,10 +1,14 @@
 ---
 permalink: /uc-infrastructure/
 title: "Infrastructure, Transportation, Security & Safety Domain"
-layout: single
+layout: uc-collection
+collection: usecases
+entries_layout: grid
+filter: wp3
 classes:
+  - landing
+  - dark-theme
   - wide-post
-toc: true
 ---
 In the following some examples are reported on how SNS and future network technologies can bring benefits for Infrastructure, Transportation, and Security & Safety domain and that will be deployed as part of the large-scale trials performed by TrialsNet. 
 {: .text-justify}
@@ -24,4 +28,4 @@ The growing size of cities and increasing population mobility have determined a 
 The high concentration of people in public areas, stadiums, sports facilities and concert areas and the social impact of these types of events make security a crucial issue for each city. In championships, where there may be a high level of rivalry between teams, there is a higher risk of violence and incidents. In most extreme cases, relevant international competitions may be subject to terrorist threats. Critical areas, such as the access to the facilities, corridors and stands must be controlled and monitored, as well as the game area itself to avoid incursions or throwing objects. Additionally, security and safety measures are needed within the tourist and cultural places in urban areas - outdoor and indoor. New SNS and B5G (towards 6G) systems can utilize cameras, sensors, XR, metaverse, and digital twin solutions to assist in prevention, management and simulation of emergency conditions for safety and security of people and operators. 
 {: .text-justify}
 
-In the context of the Infrastructure, Transportation, Security & Safety domain, TrialsNet will implement and trial the 6 representative use cases described [here](/usecases).
+### Use Cases 

@@ -4,6 +4,7 @@ excerpt: Smart Crowd Monitoring
 header:
   teaser: assets/images/uc1i-small.png
 order: 1
+wp: wp3
 sidebar:
 - image: assets/images/uc1i.png
   image_alt: logo
