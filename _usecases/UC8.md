@@ -1,6 +1,6 @@
 ---
 date: 23-01-06 11:10:16.097117
-excerpt: Smart Ambulance
+excerpt: " "
 header:
   teaser: assets/images/uc8-small.png
 order: 8
