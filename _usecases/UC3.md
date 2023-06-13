@@ -1,6 +1,6 @@
 ---
 date: 23-01-06 11:10:16.093071
-excerpt: Autonomous APRON
+excerpt: " "
 header:
   teaser: assets/images/uc3-small.png
 order: 3
