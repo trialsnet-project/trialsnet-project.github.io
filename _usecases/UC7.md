@@ -4,6 +4,7 @@ excerpt: Remote Proctoring
 header:
   teaser: assets/images/uc7-small.png
 order: 7
+wp: wp4
 sidebar:
 - image: assets/images/uc7.png
   image_alt: logo
