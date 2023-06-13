@@ -1,6 +1,6 @@
 ---
 date: 23-01-06 11:10:16.090954
-excerpt: Smart Crowd Monitoring
+excerpt: " "
 header:
   teaser: assets/images/uc1i-small.png
 order: 1
