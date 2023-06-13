@@ -1,6 +1,6 @@
 ---
 date: 23-01-06 11:10:16.096314
-excerpt: Remote Proctoring
+excerpt: " "
 header:
   teaser: assets/images/uc7-small.png
 order: 7
