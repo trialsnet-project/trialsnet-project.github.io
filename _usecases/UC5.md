@@ -1,6 +1,6 @@
 ---
 date: 23-01-06 11:10:16.094689
-excerpt: Control Room in Metaverse
+excerpt: " "
 header:
   teaser: assets/images/uc5-small.png
 order: 5
