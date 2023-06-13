@@ -4,6 +4,7 @@ excerpt: MCI and Emergency Rescue in Populated Area
 header:
   teaser: assets/images/uc6-small.png
 order: 6
+wp: wp4
 sidebar:
 - image: assets/images/uc6.png
   image_alt: logo
