@@ -1,6 +1,6 @@
 ---
 date: 23-01-06 11:10:16.093872
-excerpt: Smart Traffic Management
+excerpt: " "
 header:
   teaser: assets/images/uc4-small.png
 order: 4
