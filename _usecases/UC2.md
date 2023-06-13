@@ -1,6 +1,6 @@
 ---
 date: 23-01-06 11:10:16.092200
-excerpt: Proactive Public Infrastructure Assets Management
+excerpt: " "
 header:
   teaser: assets/images/uc2-small.png
 order: 2
