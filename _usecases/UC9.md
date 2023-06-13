@@ -1,6 +1,6 @@
 ---
 date: 23-01-06 11:10:16.097903
-excerpt: Adaptive Control of Hannes Prosthetic Device
+excerpt: " "
 header:
   teaser: assets/images/uc9-small.png
 order: 9
