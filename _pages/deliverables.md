@@ -8,7 +8,7 @@ toc: true
 ---
 ## WP2 Platforms & network solutions
 
-1. D2.1 Preliminary design aspects for Platforms and Networks solutions
+1. [D2.1 Preliminary design aspects for Platforms and Networks solutions](https://zenodo.org/record/8108305) (pending approval)
 1. D2.2	Intermediate design of Platforms and Networks solutions
 1. D2.3	Final design of Platforms and Networks solutions
 1. D2.4	Final Platforms and Networks solutions integration and deployments
