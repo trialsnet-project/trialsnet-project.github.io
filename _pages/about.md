@@ -11,7 +11,7 @@ toc: true
 
 ## Overview
 
-TrialsNet will target a set of technical, performance and productivity objectives which will impact the current 5G ecosystem substantially, effectively leading the B5G technology wave that is expected to take place dur-ing the project lifetime and drawing compelling requirements towards the next generation of mobile net-works. The objectives defined by TrialsNet are the following\:
+TrialsNet will target a set of technical, performance and productivity objectives which will impact the current 5G ecosystem substantially, effectively leading the B5G technology wave that is expected to take place dur-ing the project lifetime and drawing compelling requirements towards the next generation of mobile networks. The objectives defined by TrialsNet are the following\:
 {: .text-justify}
 - **Objective 1**\: Trialling of 6G Applications 
 - **Objective 2**\: Enhance B5G networks to support 6G applications 
