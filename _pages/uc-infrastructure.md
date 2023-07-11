@@ -1,6 +1,6 @@
 ---
 permalink: /uc-infrastructure/
-title: "Infrastructure, Transportation, Security & Safety Domain"
+title: "Infrastructure, Transportation, Security & Safety domain"
 layout: uc-collection
 collection: usecases
 entries_layout: grid
