@@ -11,7 +11,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "TRials Supported By Smart Networks Beyond 5G."
+excerpt: "TRials Supported By Smart Networks Beyond 5G"
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
@@ -47,11 +47,11 @@ feature_row2:
     btn_class: "btn--primary"
 
 --- 
-**Motivation**\: Smart Cities have already attracted attention as one of the possible solutions to improve “livability” and people’s quality of life. Beyond 5G and 6G are candidate technologies to positively impact aspects of immense social value as sustainability, resilience, inclusion, trust, security, etc.'
+**Motivation**\: Smart Cities have already attracted attention as one of the possible solutions to improve “livability” and people’s quality of life. Beyond 5G and 6G are candidate technologies to positively impact aspects of immense social value as sustainability, resilience, inclusion, trust, security, etc.
 
 **Vision**\: TrialsNet vision is to enable the realization of compelling societal values through the implementation of 5G and beyond applications, which will be propaedeutic for the transition towards the next generation of mobile networks.
 
-**Goal**\: TrialsNet will deploy full large-scale trials to implement a heterogenous and comprehensive set of innovative 6G applications based on various technologies such as Cobots, Metaverse, massive twinning, Internet of Senses, and others, covering three relevant domains of the urban ecosystems in Europe identified as i) Infrastructure, Transportation, Security & Safety, ii) eHealth & Emergency, and iii) Culture, Tourism & Entertainment
+**Goal**\: TrialsNet will deploy full large-scale trials to implement a heterogenous and comprehensive set of innovative 6G applications based on various technologies such as Cobots, Metaverse, massive twinning, Internet of Senses, and others, covering three relevant domains of the urban ecosystems in Europe identified as i) Infrastructure, Transportation, Security & Safety, ii) eHealth & Emergency, and iii) Culture, Tourism & Entertainment.
 
 # TrialsNet domains
 
