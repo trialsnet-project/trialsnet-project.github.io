@@ -14,9 +14,7 @@ eHealth is certainly one of the most promising fields in which new technologies 
 {: .text-justify}
 
 - **Data transmission**\: increasingly performing technologies in terms of bitrate, latency, security, and resilience enable previously unfeasible use cases.  
-
 - **Peripheral devices**\: These are innovative viewers for augmented reality/virtual reality (AR/VR) or ever more innovative prostheses. 
-
 - **Software solutions**\: mainly based on innovative techniques of machine learning (ML) and AI. 
 
 In the following sections it is reported how SNS and future network technologies can benefit eHE domain and that will be deployed as part of the trials performed by TrialsNet.  
