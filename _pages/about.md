@@ -69,11 +69,11 @@ The TrialsNet consortium includes 23 partners from 6 different countries (Italy,
 {% include figure image_path="/assets/images/consTrialsNet.png" alt="The TrialsNet consortium." caption="The TrialsNet consortium." %}
 
 1. [Ericsson Telecomunicazioni SPA](https://trialsnet.eu/consortium/TEI/) :it: 
-1. [Telecom Italia ITALIA SPA](https://trialsnet.eu/consortium/TIM/) :it: 
+1. [Telecom Italia SPA](https://trialsnet.eu/consortium/TIM/) :it: 
 1. [Orange Romania SA](https://trialsnet.eu/consortium/ORO/) :romania:
 1. [Nextworks](https://trialsnet.eu/consortium/NXW/) :it:
 1. [Wings ICT Solutions Information & Communication Technologies IKE](https://trialsnet.eu/consortium/WINGS/) :greece:
-1. [Universidad Carlos III DE Madrid](https://trialsnet.eu/consortium/UC3M/) :es:
+1. [Universidad Carlos III de Madrid](https://trialsnet.eu/consortium/UC3M/) :es:
 1. [Interuniversitais Micro-Electronica Centrum](https://trialsnet.eu/consortium/IMEC/) :belgium:
 1. [Yerba Buena VR Europe SL](https://trialsnet.eu/consortium/YBVR/) :es:
 1. [Consorzio Nazionale Interuniversitario per le Telecomunicazioni](https://trialsnet.eu/consortium/CNIT/) :it: 
