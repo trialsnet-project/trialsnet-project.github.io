@@ -32,7 +32,7 @@ The use cases will be developed over wide coverage areas with the involvement of
 {: .text-justify}
 
 <p align="center">
-![The TrialsNet clusters map.](/assets/images/clusters_map.png){:width="50%"}
+<img src="/assets/images/clusters_map.png" alt="The TrialsNet clusters map" width=50%>
 </p>
 
 In support to the use cases implementation, TrialsNet will design and deploy platforms and network solu-tions with advanced functionalities such as dynamic slicing management, E2E orchestration, NFV, MEC and AI/ML methods that will be trialed on 3GPP and O-RAN network architectures. Design objectives of sus-tainability and affordability of the deployed network solutions will be also considered in both design and operational phases. 
