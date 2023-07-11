@@ -80,7 +80,7 @@ The TrialsNet consortium includes 23 partners from 6 different countries (Italy,
 1. [Telefónica Investigación y Desarrollo SA](https://trialsnet.eu/consortium/TID/) :es:
 1. [Ericsson España SA](https://trialsnet.eu/consortium/ERC/) :es:
 1. [Fondazione Istituto Italiano di Tecnolocia](https://trialsnet.eu/consortium/IIT/) :it: 
-1. [Athens International Airport S.A.]() :greece:
+1. [Athens International Airport S.A.](https://trialsnet.eu/consortium/AIA/) :greece:
 1. [Scuola Superiore di Studi Universitari e di Perfezionamento S Anna](https://trialsnet.eu/consortium/SSSA/) :it: 
 1. [Promozione per l'innovazione fra Industria ed Università](https://trialsnet.eu/consortium/PIIU/) :it: 
 1. [Comune di Torino](https://trialsnet.eu/consortium/COTO/) :it: 
