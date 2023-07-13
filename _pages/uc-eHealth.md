@@ -5,6 +5,7 @@ layout: uc-collection
 collection: usecases
 entries_layout: grid
 filter: wp4
+toc: true
 classes:
   - landing
   - dark-theme
