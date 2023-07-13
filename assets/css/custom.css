@@ -16,9 +16,11 @@
     background-color: #DBE5F1
 }
 
-  .footer_eu-logo { grid-area: Logo; text-align: center;margin: auto;}
-  .footer_eu-text { grid-area: Text; text-align: center;margin: auto;}
-  .footer_twitter { grid-area: Twitter; text-align: center;margin: auto; }
+.footer_eu-logo { grid-area: Logo; text-align: center;margin: auto;}
+.footer_eu-text { grid-area: Text; text-align: center;margin: auto;}
+.footer_twitter { grid-area: Twitter; text-align: center;margin: auto; }
+
+.entries-grid-ucrow {display: inline-block;}
 
 
 h1 {
