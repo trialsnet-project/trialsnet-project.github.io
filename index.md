@@ -36,16 +36,6 @@ feature_row:
     url: "/uc-culture/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-
-feature_row2:
-  - image_path: /assets/images/news.jpg
-    alt: "placeholder image 2"
-    title: "News and Events"
-    excerpt: 'Stay up to date on the latest news and activities of the TrialsNet project. Here, we aim to deliver timely and reliable information that keeps you informed on the projects activities.'
-    url: "/news-events"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
 --- 
 **Motivation**\: Smart Cities have already attracted attention as one of the possible solutions to improve “livability” and people’s quality of life. Beyond 5G and 6G are candidate technologies to positively impact aspects of immense social value as sustainability, resilience, inclusion, trust, security, etc.
 
@@ -59,7 +49,17 @@ feature_row2:
 
 
 
-{% include feature_row id="feature_row2" type="left" %}
+<!--{% include feature_row id="feature_row2" type="left" %}-->
+
+# News and Events
+
+Stay up to date on the [latest news and activities](/news-events) of the TrialsNet project. Here, we aim to deliver timely and reliable information that keeps you informed on the projects activities.
+
+<div class="entries-{{ entries_layout }}-newsrow">
+  {% include documents-news-collection.html collection='posts' sort_by=page.sort_by sort_order=page.sort_order type='grid'  %}
+</div>
+
+
 
 # Consortium
 

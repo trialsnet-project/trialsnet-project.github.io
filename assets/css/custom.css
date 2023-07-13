@@ -21,6 +21,7 @@
 .footer_twitter { grid-area: Twitter; text-align: center;margin: auto; }
 
 .entries-grid-ucrow {display: inline-block;}
+.entries-grid-newsrow {display: inline-block;}
 
 
 h1 {
