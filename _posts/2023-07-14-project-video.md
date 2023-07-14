@@ -11,4 +11,4 @@ A video presenting the TrialsNet project is now available. Enjoy!
 
 Sharing is caring:
 
-[![Facebook](/assets/images/icons/facebook.jpg){:width="7%"}](https://www.facebook.com/sharer.php?u=https://trialsnet.eu/news/project-video/) [![Reddit](/assets/images/icons/reddit.jpg){:width="7%"}](https://reddit.com/submit?url=https://trialsnet.eu/news/project-video/&title=TrialsNet)
+[![Facebook](/assets/images/icons/facebook.jpg){:width="7%"}](https://www.facebook.com/sharer.php?u=https://trialsnet.eu/news/project-video/) [![Reddit](/assets/images/icons/reddit.jpg){:width="7%"}](https://reddit.com/submit?url=https://trialsnet.eu/news/project-video/&title=TrialsNet) [![Twitter](/assets/images/icons/twitter.jpg){:width="7%"}](https://twitter.com/intent/tweet?url=https://trialsnet.eu/news/project-video/&text=TrialsNet)
