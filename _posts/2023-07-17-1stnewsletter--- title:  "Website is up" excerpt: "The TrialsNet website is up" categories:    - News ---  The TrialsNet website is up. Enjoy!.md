@@ -1,0 +1,8 @@
+---
+title:  "TrialsNet Six Months Digest #"
+excerpt: "TrialsNet first newsletter is now available"
+categories: 
+  - News
+---
+
+TrialsNet first newsletter is available (here)[https://lnkd.in/dc8e5Cxi]. It presents the project and its team, collects the main events, achievements, and created value of the first 6 months of project execution, including something about our project methodology and come interesting news. Don't miss it!
