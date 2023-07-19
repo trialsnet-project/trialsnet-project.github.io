@@ -55,7 +55,7 @@ feature_row:
 
 Stay up to date on the [latest news and activities](/news-events) of the TrialsNet project. Here, we aim to deliver timely and reliable information that keeps you informed on the projects activities.
 
-<div class="entries-{{ entries_layout }}-newsrow">
+<div class="entries-grid-newsrow">
   {% include documents-news-collection.html collection='posts' sort_by=page.sort_by sort_order=page.sort_order type='grid'  %}
 </div>
 
