@@ -14,7 +14,7 @@ classes:
 
 ---
 
-13 Use Cases have been designed and will be implemented in TrialsNet as forerunners for the 6G activities. The Use Cases address three main domains\: Infrastructure, Transportation and Security & Safety (ITSS), eHealth & Emergency, and Culture, Tourism & Entertainment.
+TrialsNet will design and implement 13 representative use cases as forerunners for the transition towards 6G covering the three relevant domains of i) Infrastructure, Transportation, Security & Safety, ii) eHealth & Emergency, and iii) Culture, Tourism & Entertainment
 {: .text-justify}
 
 
