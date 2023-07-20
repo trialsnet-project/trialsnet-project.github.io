@@ -1,11 +1,13 @@
 main:
   - title: "Project Overview"
     url: /about/
+  - title: "Project Overview"
+    url: /uc-gallery/
   - title: "Documentation"
     url: /documentation/
-  - title: "News and Events"
-    url: /news-events/
   - title: "Open Call"
     url: /open-call/
+  - title: "News and Events"
+    url: /news-events/
   - title: "Contact Us"
     url: /contact/
