@@ -20,7 +20,7 @@ TrialsNet will design and implement 13 representative use cases as forerunners f
 
 ### Infrastructure, Transportation, and Security & Safety  
 
-Infrastructure, Transportation, and Security & Safety (ITSS) represent key domains of the urban ecosystems in Europe. ITSS Use Cases (UCs) target improving the “liveability” of the urban environment in the ITSS domain, by decreasing the negative effects (congestion, sprawl, pollution, inequality, etc.) of collapsing metropolises, as it is of utmost importance to ensure that cities are safe, affordable, and sustainable for all. Also, the UCs will have positive impacts on Societal Values such as Trust, Resilience, Security, Sustainability, Trustworthiness, Automation, and Service Availability. In this context, five different UCs have been designed, as described in the following.
+Infrastructure, Transportation, and Security & Safety (ITSS) represent one of the key domains of the urban ecosystems in Europe. ITSS use cases target improving the “liveability” of the urban environment by decreasing the negative effects (congestion, sprawl, pollution, inequality, etc.) of collapsing metropolises, as it is of utmost importance to ensure that cities are safe, affordable, and sustainable for all.
 {: .text-justify}
 
 
@@ -31,7 +31,7 @@ Infrastructure, Transportation, and Security & Safety (ITSS) represent key domai
 
 ### eHealth & Emergency  
 
-eHealth is certainly one of the most promising fields in which new technologies will play a fundamental role. In particular, SNS and future network technologies can benefit telemedicine, remote monitoring, control of prostheses, and emergency management. In this context, four different UCs have been designed, as described in the following.
+eHealth is certainly one of the most promising fields in which new technologies will play a fundamental role. In particular, SNS and future network technologies can benefit (i) telemedicine, allowing to transmit data about a patient’s health to healthcare professionals in real time, even in mobility situations, permitting pre-hospital identification of the correct diagnosis, (ii) remote monitoring, allowing even in areas not equipped with departments for certain medical specializations, to be assisted by the specialized medical doctors, especially in the surgical field, (iii) control of prostheses, allowing to connect a prosthetic device control system with AI technologies for reducing the need for explicit control by the user and thus their cognitive load for driving it, and making the movements of the wearer more natural, and (iv) emergency, allowing flexibility to address different dynamic plans and guidelines over standard predefined Emergency Action Plans.
 {: .text-justify}
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
@@ -41,7 +41,7 @@ eHealth is certainly one of the most promising fields in which new technologies 
 
 ### Culture, Tourism & Entertainment  
 
-Trials in this domain will be based on various technologies such as robots, metaverse, sensors, and cameras, covering the relevant domain of the urban ecosystems in Europe, focusing on the Culture, Tourism, and Entertainment aspects. In this context, the following four UCs have been designed.
+Trials in this domain will be based on various 6G candidate technologies such as robots, metaverse, advanced sensors and cameras, focusing on the Culture, Tourism and Entertainment aspects.
 {: .text-justify}
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
