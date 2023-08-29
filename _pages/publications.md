@@ -16,4 +16,6 @@ toc: true
 
 ## Conferences
 
-TBC
+- Patachia, C., Mihai, R. and Iordache, M., 2023. [6G Initial Developments for Flagship Applications Experiments](https://zenodo.org/record/8131471). ECAI-2023 Romania IEEE.
+
+- Rusca, R., Carluccio, A., Gasco, D., and Giaccone, P., 2023. [Privacy-Aware Crowd Monitoring and WiFi Traffic Emulation for Effective Crisis Management](https://zenodo.org/record/8221688).  International Conference on Information and Communication Technologies for Disaster Management (ICT-DM).
