@@ -29,6 +29,8 @@ All the TrialsNet documents can be found on the [TrialsNet Zenodo Community](htt
 
 ### Webinars
 
+- Ericsson Telecomunicazioni, 2023. [SNS Launch Time Webinar 1 - Introducing the SNS projects](https://smart-networks.europa.eu/event/sns-lunchtime-webinar-1-introducing-the-sns-projects-part-1-of-4/). 6GSNS.
+
 ### Workshops
 
 ### Journal special Issues
