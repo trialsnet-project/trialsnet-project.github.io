@@ -17,6 +17,10 @@ All the TrialsNet documents can be found on the [TrialsNet Zenodo Community](htt
 
 ### Press Releases
 
+- Comune di Torino, 2023. [TRials supported by Smart Networks beyond 5G](https://www.torinoeuprojects.it/en/trialsnet/).  Project Info Page COTO.
+
+- Comune di Torino, 2023. [A gennaio parte "Trialsnet", il nuovo progetto europeo che va oltre il 5G]([https://www.torinoeuprojects.it/en/trialsnet/](https://www.torinocitylab.it/it/news/793-a-gennaio-parte-trialsnet-il-nuovo-progetto-europeo-che-va-oltre-il-5g)).  TorinoCityLab (IT).
+
 - Ericsson Telecomunicazioni, 2023. [Così la tecnologia cambia la quotidianità. Viaggio nel Centro Ricerca e Sviluppo Ericsson](https://tg24.sky.it/tecnologia/now/2023/06/29/viaggio-centro-ricerca-sviluppo-ericsson-genova). SkyTG24 article (IT).
 
 - Orange Romania and Universitate tehnica Gheorghe Asachi Din Iasi, 2023. [Research projects that shape the future of Europe and Romania](https://start-up.ro/proiectele-de-cercetare-care-creeaza-viitorul-de-maine-al-europei/). start-up.ro (RO).
