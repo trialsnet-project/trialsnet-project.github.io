@@ -17,7 +17,15 @@ All the TrialsNet documents can be found on the [TrialsNet Zenodo Community](htt
 
 ### Press Releases
 
+- Ericsson Telecomunicazioni, 2023. [Così la tecnologia cambia la quotidianità. Viaggio nel Centro Ricerca e Sviluppo Ericsson](https://tg24.sky.it/tecnologia/now/2023/06/29/viaggio-centro-ricerca-sviluppo-ericsson-genova). SkyTG24 article (IT).
+
+- Orange Romania and Universitate tehnica Gheorghe Asachi Din Iasi, 2023. [Research projects that shape the future of Europe and Romania](https://start-up.ro/proiectele-de-cercetare-care-creeaza-viitorul-de-maine-al-europei/). start-up.ro (RO).
+
+- Orange Romania and Universitate tehnica Gheorghe Asachi Din Iasi, 2023. [6 projects for future 6G technologies that are developed in Romania](https://www.nwradu.ro/2023/04/6-proiecte-viitoarele-tehnologii-6g-lucreaza-romania/). nwradu.ro (RO).
+
 ### Presentations
+
+- Papagiannopoulos, N. and Bradford, J., 2023. [5G deployment models and beyond 5G future developments](https://zenodo.org/record/8269628). Passenger Terminal Expo 2023.
 
 ### Webinars
 
