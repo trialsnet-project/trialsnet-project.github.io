@@ -1,6 +1,6 @@
 ---
 title:  "Project video"
-excerpt: /assets/images/methodology.png
+excerpt: "A TrialsNet video is now available"
 categories: 
   - News
 ---
