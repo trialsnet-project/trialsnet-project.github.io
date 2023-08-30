@@ -1,6 +1,6 @@
 ---
 title:  "Project video"
-excerpt: "/assets/images/methodology.png"
+excerpt: /assets/images/methodology.png
 categories: 
   - News
 ---
