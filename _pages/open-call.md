@@ -9,7 +9,7 @@ classes:
 toc: true
 ---
 ## Overview
-TrialsNet invites European third parties such as verticals, companies (including SMEs), research centres or any other relevant entity as well as facilities and infrastructure owners, to participate in its large-scale trials activities through the implementation of additional, diversified, and heterogeneous vertical use cases, to support\:
+TrialsNet invites European third parties such as verticals, companies (including SMEs), research centres, or any other relevant entity as well as facilities and infrastructure owners, to participate in its large-scale trials activities through the implementation of additional, diversified, and heterogeneous vertical use cases, to support\:
 {: .text-justify}
 
 - The deployment of new trials on the project’s platform and network solutions, as well as
@@ -32,7 +32,8 @@ The proposed use cases and trials should address one of the main areas identifie
 
 The total available budget is 5.580.900€.
 
-The Open Call will be launched the 16th October 2023.
+The Open Call will be launched on the 16th of October 2023 and will have a submission deadline on the 19th of January 2024, for an expected participation duration of 12 months. The proposals should be submitted in English.
+{: .text-justify}
 
 ## Contact
 For questions related to the Open Call, you can mail opencall.trialsnet@netcom.it.uc3m.es
