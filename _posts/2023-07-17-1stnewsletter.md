@@ -1,6 +1,7 @@
 ---
 title:  "TrialsNet Six Months Digest #1"
-excerpt: "TrialsNet first newsletter is now available"categories: 
+excerpt: "TrialsNet first newsletter is now available"
+categories: 
   - News
 ---
 
