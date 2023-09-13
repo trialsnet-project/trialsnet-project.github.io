@@ -1,7 +1,5 @@
 ---
 title:  "TrialsNet Six Months Digest #1"
-header:
-  teaser: /assets/images/designThinking.png
 excerpt: "TrialsNet first newsletter is now available"categories: 
   - News
 ---
