@@ -8,11 +8,21 @@ classes:
   - wide-post
 toc: true
 ---
-## THE TRIALSNET OPEN CALL IS OPENING 16TH OCTOBER 2023
-By applying to the Open Call, applicants could enter in the TrialsNet project receiving up to 300.000 euros per application. TrialsNet invites European third parties such as companies, research centers or any other relevant entity as well as facilities and infrastructure owners, to undertake a set of new or complementary 5G use cases to further enrich the main areas of interest and to perform related large-scale trials\:
+# Overview
+
+**TRIALSNET OPEN CALL IS OPENING 16TH OCTOBER 2023**
+
+TrialsNet invites European third parties such as verticals, companies (including SMEs), research centres, or any other relevant entity as well as facilities and infrastructure owners, to participate in its large-scale trials activities through the implementation of additional, diversified, and heterogeneous vertical use cases, to support\:
 {: .text-justify}
 
-## Details
+- The deployment of new trials on the project’s platform and network solutions, as well as
+{: .text-justify}
+- The extension of its infrastructure domain in other geographical locations in Europe (complementing the main clusters)
+{: .text-justify}
+By applying to the Open Call, third parties could enter in TrialsNet project receiving up to 200.000 € per applicant or up to 300.000 € for multiple-applicant (i.e. independent trial)
+{: .text-justify}
+
+## Scope
 The proposed use cases and trials should address one of the main areas identified by the project:
 {: .text-justify}
 - Infrastructure
@@ -23,19 +33,32 @@ The proposed use cases and trials should address one of the main areas identifie
 - Tourism
 - Entertainment
 
-The total available budget is 5.580.900€.
+The total available budget is **5.580.900€**.
+
+# Submission Instructions
+## Feasibility Check
+
+## Final Submission
+
+## Submission portal
+
+Submit your application here
+{: .text-justify} 
+
+## Key Information
 
 | Project Acronym: TrialsNet                                 	|                                              	|
 |------------------------------------------------------------	|----------------------------------------------	|
-| Project full name                                          	| TRials supported by Smart Networks beyond 5G 	|
-| EU Program                                                 	| HORIZON-JU-SNS-2022-STREAM-D                 	|
 | Call Opening                                               	| 16 October 2023                              	|
-| Deadline                                                   	| 19 January 2024                              	|
-| Expected duration of participation                         	| 12 months                                    	|
-| Maximum   amount of financial support for each application 	| 300.000 euros                                	|
-| Call identifier                                            	| TrialsNet Open Call                          	|
-| Proposal language submission                               	| English                                      	|
-| Information Contact                                        	| opencall.trialsnet@netcom.it.uc3m.es         	|
+| Feasibility Check Deadline                                 	| 20 December 2023                              |
+| Final Submission Deadline                                   | 19 January 2024                              	|
+| Tentative Notification Date                                 | XXX XXXX 2024                               	|
+| Expected project duration                                 	| 12 months                                    	|
+| Tentative starting date                                   	| Jun 2024                                    	|
+| Max. Financial support for each application (single applicant)| 200.000 euros                              	|
+| Max. Financial support for each application (multiple applicants)| 300.00 euros                            	|
+| Submission Language                                       	| English                                      	|
+| Information Contact                                        	| opencall@trialsnet.eu                         |
 
 ## Open Call material
 
@@ -43,38 +66,89 @@ The total available budget is 5.580.900€.
 - Sites Description
 - Declaration Of Honour
 - KPIs
-- FAQs
 
-## Open Call Webinar
+## Open Call Webinars
 
-Project TRIALSNET will organize a first webinar on the Open Call on First week of November? 11h00-12h30.To attend the event, please fill in the registration form.
+TrialsNet will organize a series of webinar to provide more details about the Open Call to possible applicants.
+
+### 1st TrialsNet Webinar
+
+- 7 November 2023 ; 11.00 13.00 CET [Register Here](https://ec.europa.eu/eusurvey/runner/TrialsNetOpenCallWebinar2023)
+
+
+# FAQ
+
+## Do we get a notification when an application submission is made?
+
+Yes, you will get an email from the project.
+
+## Do we get a notification about the results of the Open Call?
+
+Yes, you will get an email from the project.
+
+## How will we be paid by the project?
+The payment is scheduled in three parts, subject to the level of development of the action, the submission of deliverables and the accomplishment of KPIs as reflected in the description of the trial:
+{: .text-justify}
+- 20% of the assigned Grant after 1 month from the Grant signature against presentation of a detailed plan of activities
+- 65% at competition of the contracted activities
+- 15% when the EC will accept the projects final results
+
+## What is the situation with IPR in the open call projects?
+
+The grant awarded to the chosen applicants will not impact the ownership of any pre-existing intellectual property, including background technologies, designs, works, inventions, software, data, techniques, know-how, or materials. The third-party that contributes with TRIALSNET will retain ownership of their pre-existing  intellectual property.
+{: .text-justify}
+The results of the trials should be freely used by the project for internal or external dissemination activity.
 {: .text-justify}
 
-## Submission Instructions
-### Submission Deadline
+## What kinds of stakeholders can participate in the TrialsNet open calls?
+Applications to the Open Calls can be made by both private and public organisations from industry and research (not individual researchers), located within the EU Member States or Associated Countries. 
+{: .text-justify}
 
-The online Application Form shall be completed any time after the launch of the Open Call (16 October 2023) until 19 January 2024 (05:00:00 PM CET).
-{: .text-justify} 
+## Can an individual based in the European Union participate in an Open Call project?
+No. In the project’s General Agreement and DoA, it is specified under grant eligibility, including definition of persons or categories that might receive financial support, as follows:
+{: .text-justify}
+> Any legal entity in Europe and Associated country.
 
-### Format
-- Applications should be written in English, be readable, accessible and printable.
-- The lenght limits, and sections subject to limits, will be clearly shown in the application templates in the Funding Box Tenders Portal electronic submission system. 
+## Typically, funding within Innovation action projects for-profit companies is 70%. Is this the case with funding for-profit companies participating in the open calls?
 
-### Content
+No. Private for-profit companies (whether big, medium, or small) can receive 100% of the funding. All contracted applicants will receive 100% of the presented costs.
+{: .text-justify}
 
-- The applicant shall indicate the estimated allocation of resources (person-months) and costs, specifying a budgetary breakdown per direct cost item (staff, travel and subsistence). A 25% (calculated on direct costs) flat rate as overhead costs may be added.
-- The total costs allocated for the application must be below the ceiling of 200.000 euros for Option 1; 300.000 euros for Option 2;
-- All contracted applicants will receive 100% of the presented costs.
-- A single applicant may receive up to € 200,000.
+## Can we apply to other SNS project’s Open Call(s) at the same time as applying to TrialsNet Open Call?
 
-### Proposal evaluation
-The evaluation is limited to 60 eligible proposals; priority is given by the time stamp of the completion and submission of the proposal.
-{: .text-justify} 
+There is nothing to prohibit application to TrialsNet at the same time as an application to another SNS projects Open Call; however, under no circumstances double funding is admissible for the same activity.
+{: .text-justify}
 
-### Submission portal
+## Can more than one participant organisation team up to apply for a single project? How payments will be managed?
 
-Submit your application here
-{: .text-justify} 
+Yes, but only to a maximum of three partners, as follows: 
+- The target number of participants per proposal is one partner (Coordinator only) or maximum three partners (1 Coordinator and 2 Distinct partners). 
+- Also note that in the case of three partners, the proposal would be submitted by one (1) Coordinating partner and the subgrant agreement would be with the Coordinating partner only and the payments will be made to the Coordinator partner, who will distribute payment to the other consortium member.
+{: .text-justify}
 
-### Contact
-If you have any question on the Open Call, contact us at opencall.trialsnet@netcom.it.uc3m.es
+## Will participant organisations be required to sign a Declaration of Honour (DoH)?
+
+Yes. A Declaration of Honour will be requested to be signed once the final eligibility checks are made at the end of the evaluation period. All participant organisations in the project team should sign a DoH and return a signed copy to the designated TrialsNet contact email.  A template for the DoH is available on the Open Call website for you to examine.
+{: .text-justify}
+
+## Can UK, Hungarian, or Swiss companies or organisations participate?
+
+Yes, they can. However, at the current time they are ineligible for funding; however, this may change in future calls. 
+{: .text-justify}
+
+## Which EU and Associated Countries are eligible for funding?
+The following EU Members States are eligible: 
+
+Austria, Belgium, Bulgaria, Croatia, Republic of Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain and Sweden.
+{: .text-justify}
+
+Any of the Associated Countries listed below:
+
+Armenia, Bosnia and Herzegovina, Faroe Islands, Georgia, Iceland, Israel, Kosovo, Moldova, Montenegro, North Macedonia, Norway, Serbia, Tunisia, Turkey, Ukraine. 
+The above list is correct as of September 2023. Please note that it might change in the future.
+{: .text-justify}
+
+
+
+# Contact
+If you have any question on the Open Call, contact us at opencall@trialsnet.eu
