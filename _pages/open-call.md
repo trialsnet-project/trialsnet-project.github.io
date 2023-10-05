@@ -30,7 +30,7 @@ TrialsNet is giving the opportunity to the applicants of the Open Call to partic
 Further details about TrialsNet sites and related infrastructures, use cases and the project’s overall framework including KPIs/KVIs overview are reported in the documentation provided in the Support material section. 
 {: .text-justify}
 
-For any further question, applicants can contact the project at opencall@trialsnet.eu.
+For any further question, applicants can contact the project at [opencall@trialsnet.eu](mailto:opencall@trialsnet.eu) .
 {: .text-justify} 
 # Grants
 
@@ -39,10 +39,16 @@ TrialsNet allocates in total €5.580.900 to provide financial support to the se
 # Submission information 
 
 - **Proposals submission deadline**: The application form shall be completed any time between the launch of the Open Call and the **19th of January 2024 at 17:00 CET**. 
+{: .text-justify} 
 - **Submission portal**: The proposals shall be submitted through the Funding Box tenders portal. 
+{: .text-justify} 
 - **Proposal evaluation**: The evaluation is limited to 60 eligible proposals; priority will be given by the time stamp of the completion and submission of the proposal. 
-- **Feasibility check**: The Open Call applicants are encouraged to contact the TrialsNet consortium to share their intentions of contribution in order to verify the feasibility of the proposal and to receive informal and not binding feedback on it. To perform the feasibility check, the applicants need to fulfill the provided Feasibility Check Form and send it to opencall@trialsnet.eu indicating in the subject the short name of the proposal. A draft version of the proposal can be also attached to provide more detailed information. Received requests will be processed according to their arrival and feedbacks will be provided not later than 5 working days. Feasibility check requests can be submitted until the **10th of December 2023 at 17:00 CET**. 
-- **Help Desk**: If you have any question on the Open Call contact us at opencall@trialsnet.eu 
+{: .text-justify} 
+- **Feasibility check**: The Open Call applicants are encouraged to contact the TrialsNet consortium to share their intentions of contribution in order to verify the feasibility of the proposal and to receive informal and not binding feedback on it. To perform the feasibility check, the applicants need to fulfill the provided Feasibility Check Form and send it to [opencall@trialsnet.eu](mailto:opencall@trialsnet.eu) 
+ indicating in the subject the short name of the proposal. A draft version of the proposal can be also attached to provide more detailed information. Received requests will be processed according to their arrival and feedbacks will be provided not later than 5 working days. Feasibility check requests can be submitted until the **10th of December 2023 at 17:00 CET**.
+ {: .text-justify} 
+- **Help Desk**: If you have any question on the Open Call contact us at [opencall@trialsnet.eu](mailto:opencall@trialsnet.eu). 
+{: .text-justify} 
 
 # Webinars
 
@@ -54,13 +60,13 @@ If you miss the webinar, the recording of the session will be published on Trial
 {: .text-justify}
 # Support material
 
-- Guide for Applicants 
-- Declaration of Honour for Applicants 
-- TrialsNet Sites and Use Cases description 
-- TrialsNet framework and KPIs/KVIs overview 
-- Feasibility Check Form 
+- [Guide for Applicants](/assets/pdf/TrialsNet_Open Call_Guide_for_Applicants.pdf) 
+- [Declaration of Honour for Applicants](/assets/pdf/TrialsNet_Declaration_of_Honour_for_Applicants.pdf) 
+- [TrialsNet Sites and Use Cases description](/assets/pdf/"C:\Users\mgram\TrialsNet_Open_Call_Sites_and_Use Cases_description.pdf") 
+- [TrialsNet framework and KPIs/KVIs overview](/assets/pdf/TrialsNet_Open_Call_TrialsNet_framework_and_KPIs-KVIs_overview.pdf) 
+- [Feasibility Check Form](#) 
 
 # FAQ
 
-Please refer to our dedicated FAQs page for more details.
+Please refer to our dedicated [FAQs](/open-call-faq/) page for more details.
 {: .text-justify}
