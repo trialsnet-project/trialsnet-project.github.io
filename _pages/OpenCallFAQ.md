@@ -70,7 +70,7 @@ Yes, but only to a maximum of three partners, as follows: The target number of p
 
 ## Is it mandatory to request for a Feasibility Check of the proposal?
 {: .text-justify} 
-No, the Feasibility Check is not mandatory but is quite encouraged in order to verify the feasibility of the proposal and to receive an informal and not binding feedback on it. The online Feasibility Check Form is accessible through the [Open Call])(/open-call) page.
+No, the Feasibility Check is not mandatory but is quite encouraged in order to verify the feasibility of the proposal and to receive an informal and not binding feedback on it. The online Feasibility Check Form is accessible through the [Open Call](/open-call) page.
 {: .text-justify} 
 
 ## Will participant organisations be required to sign a Declaration of Honour (DoH)?
