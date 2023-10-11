@@ -39,3 +39,12 @@ h3 {
 .toc .nav__title {
     background: #314D8A;
 }
+
+#general-faqs {
+  margin-top: 1em
+}
+
+
+#technical-faqs {
+  margin-top: 2em
+}
