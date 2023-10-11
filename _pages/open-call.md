@@ -68,5 +68,5 @@ If you miss the webinar, the recording of the session will be published on [Tria
 - [Feasibility Check Form](#) 
 
 # FAQs
-Please refer to our dedicated [FAQs](/open-call-faq/) page for more details.
+Please refer to our dedicated [FAQs page](/open-call-faq/) for more details.
 {: .text-justify}
