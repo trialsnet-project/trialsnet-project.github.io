@@ -37,7 +37,7 @@ Regarding Hungary, following the Council Implementing Decision 2022/2506, as of 
     - Entities for which a public interest trust can exercise a decisive influence and control (case-by-case assessment based on the criteria set by the EU legislation on mergers and anti-money laundering, i.e. [Article 3 of Council Regulation (EC) No 139/2004 of 20 January 2004 on the control of concentrations between undertakings](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32004R0139&qid=1676555455906) and [Article 3(6)(a)(i) of Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32015L0849&qid=1676555505400).
 
 
-Please refer to [this page](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq/22172;type=0,1;categories=;tenders=;programme=null;keyword=Hungary;freeTextSearchKeyword=hungary;matchWholeText=true;period=null;status=0;sortQuery=publicationDate;faqListKey=faqSearchTablePageState) of the EU Funding and Tender Portal for the most updated information on the concerned Hungarin entities.
+Please refer to [this page](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq/22172;type=0,1;categories=;tenders=;programme=null;keyword=Hungary;freeTextSearchKeyword=hungary;matchWholeText=true;period=null;status=0;sortQuery=publicationDate;faqListKey=faqSearchTablePageState) of the EU Funding and Tender Portal for the most updated information on the concerned Hungarian entities.
 {: .text-justify}
 
 
