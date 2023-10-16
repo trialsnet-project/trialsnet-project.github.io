@@ -10,7 +10,7 @@ toc: true
 ---
 
 # Overview
-**TRIALSNET OPEN CALL IS OPENING THE 16TH OF OCTOBER 2023!**
+**TRIALSNET OPEN CALL IS OPEN!**
 
 TrialsNet invites European third parties such as verticals, companies (including SMEs), research centers or any other relevant entity, as well as facilities and infrastructure owners, to participate in its large-scale trials activities through the implementation of additional, diversified, and heterogeneous vertical use cases. The proposed use cases and trials should address one of the main areas identified by the project:
 {: .text-justify}
