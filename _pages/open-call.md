@@ -65,7 +65,9 @@ If you miss the webinar, the recording of the session will be published on [Tria
 - [Declaration of Honour for Applicants](/assets/pdf/TrialsNet_Declaration_of_Honour_for_Applicants.pdf){:target="_blank"} 
 - [TrialsNet Sites and Use Cases description](/assets/pdf/TrialsNet_Open_Call_Sites_and_Use_Cases_description.pdf){:target="_blank"} 
 - [TrialsNet framework and KPIs/KVIs overview](/assets/pdf/TrialsNet_Open_Call_TrialsNet_framework_and_KPIs-KVIs_overview.pdf){:target="_blank"} 
-- [Feasibility Check Form](https://forms.office.com/Pages/ResponsePage.aspx?id=6N9rm859HEmcImIU4jR481dA1Ah3JrZAhtDZwTYq661UNEdUTjNMMlpLWDU4RUpGNExaUzk3WDJCWC4u) 
+- [Feasibility Check Form](https://forms.office.com/Pages/ResponsePage.aspx?id=6N9rm859HEmcImIU4jR481dA1Ah3JrZAhtDZwTYq661UNEdUTjNMMlpLWDU4RUpGNExaUzk3WDJCWC4u)
+- [Proposal template](https://github.com/trialsnet-project/trialsnet-project.github.io/raw/master/assets/docx/TrialsNet_Open_Call_Proposal_Template.docx)
+- [Budget Request template](https://github.com/trialsnet-project/trialsnet-project.github.io/raw/master/assets/docx/TrialsNet_Open_Call_Budget_Template.docx)
 
 # FAQs
 Please refer to our dedicated [FAQs page](/open-call-faq/) for more details.
