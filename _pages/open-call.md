@@ -10,7 +10,7 @@ toc: true
 ---
 
 # Overview
-**TRIALSNET OPEN CALL IS NOW OPEN!**
+**TRIALSNET OPEN CALL IS NOW OPEN! NEW MATERIAL IS AVAILABLE!**
 
 TrialsNet invites European third parties such as verticals, companies (including SMEs), research centers or any other relevant entity, as well as facilities and infrastructure owners, to participate in its large-scale trials activities through the implementation of additional, diversified, and heterogeneous vertical use cases. The proposed use cases and trials should address one of the main areas identified by the project:
 {: .text-justify}
@@ -46,7 +46,7 @@ TrialsNet allocates in total **€5.580.900** to provide financial support to th
 {: .text-justify} 
 - **Proposal evaluation**: The evaluation is limited to 60 eligible proposals; priority will be given by the time stamp of the completion and submission of the proposal. 
 {: .text-justify} 
-- **Feasibility check**: The Open Call applicants are encouraged to contact the TrialsNet consortium to share their intentions of contribution in order to verify the feasibility of the proposal and to receive informal and not binding feedback on it. To perform the feasibility check, the applicants need to fill out the provided [Feasibility Check Form](https://forms.office.com/Pages/ResponsePage.aspx?id=6N9rm859HEmcImIU4jR481dA1Ah3JrZAhtDZwTYq661UNEdUTjNMMlpLWDU4RUpGNExaUzk3WDJCWC4u). A **draft version of the proposal** (applicants are invited to use the [proposal template](https://github.com/trialsnet-project/trialsnet-project.github.io/raw/master/assets/docx/TrialsNet_Open_Call_Proposal_Template.docx) provided by TrialsNet) can also be sent to [opencall@trialsnet.eu](mailto:opencall@trialsnet.eu) (indicating in the subject the short name of the proposal) to provide more detailed information in support of the [Feasibility Check Form](https://forms.office.com/Pages/ResponsePage.aspx?id=6N9rm859HEmcImIU4jR481dA1Ah3JrZAhtDZwTYq661UNEdUTjNMMlpLWDU4RUpGNExaUzk3WDJCWC4u). Received requests will be processed according to their arrival and feedback will be provided not later than 5 working days.
+- **Feasibility check**: The Open Call applicants are encouraged to contact the TrialsNet consortium to share their intentions of contribution in order to verify the feasibility of the proposal and to receive informal and not binding feedback on it. To perform the feasibility check, the applicants need to fill out the provided [Feasibility Check Form](https://forms.office.com/Pages/ResponsePage.aspx?id=6N9rm859HEmcImIU4jR481dA1Ah3JrZAhtDZwTYq661UNEdUTjNMMlpLWDU4RUpGNExaUzk3WDJCWC4u). A **draft version of the proposal** (applicants are invited to use the [proposal template](/assets/docx/TrialsNet_Open_Call_Proposal_Template.docx){:target="_blank"} provided by TrialsNet) can also be sent to [opencall@trialsnet.eu](mailto:opencall@trialsnet.eu) (indicating in the subject the short name of the proposal) to provide more detailed information in support of the [Feasibility Check Form](https://forms.office.com/Pages/ResponsePage.aspx?id=6N9rm859HEmcImIU4jR481dA1Ah3JrZAhtDZwTYq661UNEdUTjNMMlpLWDU4RUpGNExaUzk3WDJCWC4u). Received requests will be processed according to their arrival and feedback will be provided not later than 5 working days.
 Feasibility check requests can be submitted until the **10th of December 2023 at 17:00 CET**.
  {: .text-justify} 
 - **Help Desk**: If you have any questions on the Open Call contact us at [opencall@trialsnet.eu](mailto:opencall@trialsnet.eu). 
@@ -61,13 +61,13 @@ If you miss the webinar, the recording of the session will be published on [Tria
 {: .text-justify}
 
 # Support material
-- [Guide for Applicants](/assets/pdf/TrialsNet_Open_Call_Guide_for_Applicants.pdf){:target="_blank"} 
+- [Guide for Applicants](/assets/pdf/TrialsNet_Open_Call_Guide_for_Applicants.pdf){:target="_blank"} (updated 26/10/2023)
 - [Declaration of Honour for Applicants](/assets/pdf/TrialsNet_Declaration_of_Honour_for_Applicants.pdf){:target="_blank"} 
 - [TrialsNet Sites and Use Cases description](/assets/pdf/TrialsNet_Open_Call_Sites_and_Use_Cases_description.pdf){:target="_blank"} 
 - [TrialsNet framework and KPIs/KVIs overview](/assets/pdf/TrialsNet_Open_Call_TrialsNet_framework_and_KPIs-KVIs_overview.pdf){:target="_blank"} 
 - [Feasibility Check Form](https://forms.office.com/Pages/ResponsePage.aspx?id=6N9rm859HEmcImIU4jR481dA1Ah3JrZAhtDZwTYq661UNEdUTjNMMlpLWDU4RUpGNExaUzk3WDJCWC4u)
-- [Proposal template](https://github.com/trialsnet-project/trialsnet-project.github.io/raw/master/assets/docx/TrialsNet_Open_Call_Proposal_Template.docx)
-- [Budget Request template](https://github.com/trialsnet-project/trialsnet-project.github.io/raw/master/assets/docx/TrialsNet_Open_Call_Budget_Template.docx)
+- [Proposal template](/assets/docx/TrialsNet_Open_Call_Proposal_Template.docx){:target="_blank"} (new!)
+- [Budget Request template](/assets/docx/TrialsNet_Open_Call_Budget_Template.docx){:target="_blank"} (new!)
 
 # FAQs
 Please refer to our dedicated [FAQs page](/open-call-faq/) for more details.
