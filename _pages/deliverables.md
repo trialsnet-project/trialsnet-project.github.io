@@ -33,6 +33,6 @@ toc: true
 
 ## WP6 Validation & dissemination 
 
-- D6.1 First report on validation and dissemination activities (10/23)
+- [D6.1 First report on validation and dissemination activities](https://zenodo.org/records/10058287) (pending approval)
 - D6.2 Second report on validation and dissemination activities (11/24)
 - D6.3 Final report on validation and dissemination activities (12/25)
