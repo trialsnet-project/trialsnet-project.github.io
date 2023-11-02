@@ -58,7 +58,7 @@ Feasibility check requests can be submitted until the **10th of December 2023 at
 # Webinars
 TrialsNet will organize a series of webinars to provide the applicants with useful information about the Open Call.
 {: .text-justify}
-- **First Open Call Webinar, 11:00-12:30 CET, Thursday 7th of November 2023** ([register here](https://ec.europa.eu/eusurvey/runner/TrialsNetOpenCallWebinar2023){:target="_blank"})
+- **First Open Call Webinar, 11:00-12:30 CET, Tuesday 7th of November 2023** ([register here](https://ec.europa.eu/eusurvey/runner/TrialsNetOpenCallWebinar2023){:target="_blank"})
 
 If you miss the webinar, the recording of the session will be published on [TrialsNet Youtube channel](https://www.youtube.com/@trialsnet). 
 {: .text-justify}
