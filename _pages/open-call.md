@@ -10,9 +10,13 @@ toc: true
 ---
 
 # News
-**16/10/2023 - TRIALSNET OPEN CALL IS NOW OPEN!**
+**13/11/2023 - REGISTRATIONS FOR THE SECOND OPEN CALL WEBINAR ARE NOW OPEN!**
+
+**07/11/2023 - FIRST OPEN CALL WEBINAR VIDEO RECORDING AND SLIDES ARE AVAILABLE!**
 
 **26/10/2023 - TEMPLATES FOR PROPOSAL AND BUDGET REQUEST ARE AVAILABLE!**
+
+**16/10/2023 - TRIALSNET OPEN CALL IS NOW LIVE!**
 
 # Overview
 TrialsNet invites European third parties such as verticals, companies (including SMEs), research centers or any other relevant entity, as well as facilities and infrastructure owners, to participate in its large-scale trials activities through the implementation of additional, diversified, and heterogeneous vertical use cases. The proposed use cases and trials should address one of the main areas identified by the project:
@@ -64,13 +68,13 @@ TrialsNet will organize a series of webinars to provide the applicants with usef
 {: .text-justify}
 
 # Support material
-- [Guide for Applicants](/assets/pdf/TrialsNet_Open_Call_Guide_for_Applicants.pdf){:target="_blank"} (**updated 26/10/2023**)
+- [Guide for Applicants](/assets/pdf/TrialsNet_Open_Call_Guide_for_Applicants.pdf){:target="_blank"} (**latest version 26/10/2023**)
 - [Declaration of Honour for Applicants](/assets/pdf/TrialsNet_Declaration_of_Honour_for_Applicants.pdf){:target="_blank"} 
 - [TrialsNet Sites and Use Cases description](/assets/pdf/TrialsNet_Open_Call_Sites_and_Use_Cases_description.pdf){:target="_blank"} 
 - [TrialsNet framework and KPIs/KVIs overview](/assets/pdf/TrialsNet_Open_Call_TrialsNet_framework_and_KPIs-KVIs_overview.pdf){:target="_blank"} 
 - [Feasibility Check Form](https://forms.office.com/Pages/ResponsePage.aspx?id=6N9rm859HEmcImIU4jR481dA1Ah3JrZAhtDZwTYq661UNEdUTjNMMlpLWDU4RUpGNExaUzk3WDJCWC4u)
-- [Proposal template](/assets/docx/TrialsNet_Open_Call_Proposal_Template.docx){:target="_blank"} (**new!**)
-- [Budget Request template](/assets/docx/TrialsNet_Open_Call_Budget_Template.docx){:target="_blank"} (**new!**)
+- [Proposal template](/assets/docx/TrialsNet_Open_Call_Proposal_Template.docx){:target="_blank"}
+- [Budget Request template](/assets/docx/TrialsNet_Open_Call_Budget_Template.docx){:target="_blank"}
 
 # FAQs
 Please refer to our dedicated [FAQs page](/open-call-faq/) for more details.
