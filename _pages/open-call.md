@@ -64,7 +64,7 @@ TrialsNet will organize a series of webinars to provide the applicants with usef
 {: .text-justify}
 - **First Open Call Webinar, 11:00-12:30 CET, Tuesday 7th of November 2023** (webinar recording available [here](https://www.youtube.com/watch?v=z6t0SZdueF8), webinar material available [here](https://drive.google.com/drive/folders/1TUfzECX9U6Due_3Llq0mcsTDhxYij_4b?usp=sharing)).
 {: .text-justify}
-- **Second Open Call Webinar, 11:00-12:30 CET, Tuesday 5th of December 2023** (please register [here](https://ec.europa.eu/eusurvey/runner/TrialsNetOpenCall2ndWebinarForApplicants)).
+- **Second Open Call Webinar, 11:00-12:30 CET, Tuesday 5th of December 2023** (please register [here](https://ec.europa.eu/eusurvey/runner/TrialsNetOpenCall2ndWebinarForApplicants)). Webinar [link](https://eu.  bbcollab.com/collab/ui/session/guest/b49826e9241b41728a50c2a9708ffbf1).
 {: .text-justify}
 
 # Support material
