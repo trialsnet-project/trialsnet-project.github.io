@@ -113,6 +113,22 @@ The payment is scheduled in three parts, subject to the level of development of 
 - 15% when the EC will accept the projects final results.
 {: .text-justify}
 
+## Should the Declaration of Honour be signed too?
+{: .text-justify}
+Declaration of Honour should be signed and submitted during the contracting phase by the selected applicants. 
+{: .text-justify}
+
+## How does the partnership work? Does only the leader need to complete the application form or also the other partners have to apply? If only the leader has to worry about filling out the tender, how are payments made? 
+{: .text-justify}
+
+The leading applicant should fill all requested information, including those of the other partners. The payment schedule is defined in the Guide for Applicants; payments will be done through the leading applicant. Since the contracting phase, 
+{: .text-justify}
+
+## How do we solve the GDPR-related issues when we need to collect user-related data?
+{: .text-justify}
+
+In accordance with GDPR regulations, a main pronciple is established to prevent the exchange of personal data among different stakeholders, participants, or applicants. This ensures that all personal data and related information remain within the purview of a single partner. Additionally, several documents, currently not public, will be discolsuede post-contract, as the contractual agreement will delineate intellectual property rights (IPR) and document accessibility. It is emphasised that adherence to the existing GDPR rules is imperative, given your membership in the European Union and the operational status of the GDPR directive in member countries.
+{: .text-justify}
 
 # Technical FAQs
 
@@ -135,4 +151,14 @@ The grant awarded to the chosen applicants will not impact the ownership of any 
 The results of the trials should be freely used by the project for internal or external dissemination activity.
 {: .text-justify}
 
+## Can local private networks, which are foreseen by 5G, constitute a possible evolution of a private FWA network and be the subject of a case study? 
+{: .text-justify}
 
+Yes, if it clearly shows how will contribute to the 5G evolution.
+{: .text-justify}
+
+## Do you expect the “Challenges” described in your use cases to be addressed as a priority in Cascade Funding proposals regarding the types of proposals that improve current use cases?
+{: .text-justify}
+
+Certainly not. We treat all proposals equally, without assigning any prioritization. Although challenges have been presented, we have identified certain aspects or complexities; however, it is crucial to note that these do not constitute a definitive priority.
+{: .text-justify}
