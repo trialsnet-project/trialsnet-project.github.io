@@ -10,6 +10,7 @@ toc: true
 ---
 
 # Last news
+**10/12/2023 - FEASIBILITY CHECK SUBMISSION DEADLINE HAS NOW PASSED. DUE TO THE SHEER AMOUNT OF SUBMISSIONS PLEASE ALLOW SOME SLIGHT DELAYS FROM OUR SIDE **
 **06/12/2023 - RECORDING AND SLIDES OF THE SECOND OPEN CALL WEBINAR ARE AVAILABLE!**
 
 # Overview
@@ -47,9 +48,8 @@ TrialsNet allocates in total **€5.580.900** to provide financial support to th
 {: .text-justify} 
 - **Proposal evaluation**: The evaluation is limited to 60 eligible proposals; priority will be given by the time stamp of the completion and submission of the proposal. 
 {: .text-justify} 
-- **Feasibility check**: The Open Call applicants are encouraged to contact the TrialsNet consortium to share their intentions of contribution in order to verify the feasibility of the proposal and to receive informal and not binding feedback on it. To perform the feasibility check, the applicants need to fill out the provided [Feasibility Check Form](https://forms.office.com/Pages/ResponsePage.aspx?id=6N9rm859HEmcImIU4jR481dA1Ah3JrZAhtDZwTYq661UNEdUTjNMMlpLWDU4RUpGNExaUzk3WDJCWC4u). A **draft version of the proposal** (applicants are invited to use the [proposal template](/assets/docx/TrialsNet_Open_Call_Proposal_Template.docx){:target="_blank"} provided by TrialsNet) can also be sent to [opencall@trialsnet.eu](mailto:opencall@trialsnet.eu) (indicating in the subject the short name of the proposal) to provide more detailed information in support of the [Feasibility Check Form](https://forms.office.com/Pages/ResponsePage.aspx?id=6N9rm859HEmcImIU4jR481dA1Ah3JrZAhtDZwTYq661UNEdUTjNMMlpLWDU4RUpGNExaUzk3WDJCWC4u). Received requests will be processed according to their arrival and feedback will be provided not later than 5 working days.
-Feasibility check requests can be submitted until the **10th of December 2023 at 17:00 CET**.
- {: .text-justify} 
+- **Feasibility check**: The Open Call applicants are encouraged to contact the TrialsNet consortium to share their intentions of contribution in order to verify the feasibility of the proposal and to receive informal and not binding feedback on it. The Feasibility Check period closed on **10th of December 2023 at 17:00 CET**.
+{: .text-justify} 
 - **Help Desk**: If you have any questions on the Open Call contact us at [opencall@trialsnet.eu](mailto:opencall@trialsnet.eu). 
 {: .text-justify} 
 
