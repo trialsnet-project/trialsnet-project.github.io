@@ -10,8 +10,11 @@ toc: true
 ---
 
 # Last news
-**10/12/2023 - FEASIBILITY CHECK SUBMISSION DEADLINE HAS NOW PASSED. DUE TO THE SHEER AMOUNT OF SUBMISSIONS PLEASE ALLOW SOME SLIGHT DELAYS FROM OUR SIDE **
+
+**10/12/2023 - FEASIBILITY CHECK SUBMISSION DEADLINE HAS NOW PASSED. DUE TO THE SHEER AMOUNT OF SUBMISSIONS PLEASE ALLOW SOME SLIGHT DELAYS FROM OUR SIDE**
+{: .text-justify}
 **06/12/2023 - RECORDING AND SLIDES OF THE SECOND OPEN CALL WEBINAR ARE AVAILABLE!**
+{: .text-justify}
 
 # Overview
 TrialsNet invites European third parties such as verticals, companies (including SMEs), research centers or any other relevant entity, as well as facilities and infrastructure owners, to participate in its large-scale trials activities through the implementation of additional, diversified, and heterogeneous vertical use cases. The proposed use cases and trials should address one of the main areas identified by the project:
