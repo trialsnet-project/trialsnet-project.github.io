@@ -38,6 +38,7 @@ feature_row:
     btn_class: "btn--primary"
 --- 
 
+
 **Motivation**\: Smart Cities have already attracted attention as one of the possible solutions to improve “livability” and people’s quality of life. Beyond 5G and 6G are candidate technologies to positively impact aspects of immense social value as sustainability, resilience, inclusion, trust, security, etc.
 
 **Vision**\: TrialsNet vision is to enable the realization of compelling societal values through the implementation of 5G and beyond applications, which will be propaedeutic for the transition towards the next generation of mobile networks.
