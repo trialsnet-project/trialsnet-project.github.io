@@ -11,6 +11,13 @@ toc: true
 
 # General FAQs
 
+## I noticed today (15th of January) that the banner "Current proposals are below the 60 proposals limit" on your official site is no longer present. Have you reached the limit of proposals? Is it still possible to submit our application?
+{: .text-justify}
+
+The limit of proposals defined in the Guide for Applicants has been reached on the 14th of January. The eligibility check is ongoing. Further proposals can still be submitted until the deadline, but the evaluation is not guaranteed.
+{: .text-justify}
+
+
 ## Which EU and Associated Countries are eligible for funding?
 {: .text-justify}
 The following EU Members States (September 2023): 
