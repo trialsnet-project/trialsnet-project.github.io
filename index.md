@@ -38,9 +38,6 @@ feature_row:
     btn_class: "btn--primary"
 --- 
 
-**Important notice: the Open Call is receiving submissions.** Current proposals are below the [Guide for Applicants'](/assets/pdf/TrialsNet_Open_Call_Guide_for_Applicants.pdf){:target="_blank"} maximum limit.
-{: .notice--success}
-
 **Motivation**\: Smart Cities have already attracted attention as one of the possible solutions to improve “livability” and people’s quality of life. Beyond 5G and 6G are candidate technologies to positively impact aspects of immense social value as sustainability, resilience, inclusion, trust, security, etc.
 
 **Vision**\: TrialsNet vision is to enable the realization of compelling societal values through the implementation of 5G and beyond applications, which will be propaedeutic for the transition towards the next generation of mobile networks.
