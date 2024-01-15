@@ -9,6 +9,12 @@ classes:
 toc: true
 ---
 
+# Latest News
+
+15/1/2024 - The [FAQs page](/open-call-faq/) has been updated.
+{: .text-justify}
+
+
 # Overview
 TrialsNet invites European third parties such as verticals, companies (including SMEs), research centers or any other relevant entity, as well as facilities and infrastructure owners, to participate in its large-scale trials activities through the implementation of additional, diversified, and heterogeneous vertical use cases. The proposed use cases and trials should address one of the main areas identified by the project:
 {: .text-justify}
