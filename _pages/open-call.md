@@ -11,7 +11,7 @@ toc: true
 
 # Latest News
 
-15/1/2024 - The [FAQs page](/open-call-faq/) has been updated.
+19/1/2024 - The Call is **Closed**.
 {: .text-justify}
 
 
