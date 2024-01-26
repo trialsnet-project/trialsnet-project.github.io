@@ -15,5 +15,5 @@ As planned in our road towards extensive, on-field trial, this week, in the 5Ton
 The next steps will be (i) analyzing the collected data and (ii) preparing for the on-field trial, including the identified needed adjustments.
 {: .text-justify}
 
-{% include figure image_path="/assets/images/uc10test2.png" alt="5Tonic core infrastructure for the UC testing." caption="5Tonic core infrastructure for the UC testing." %}
+{% include video id="QbxJMuJg1A8" provider="youtube"%}
 
