@@ -15,9 +15,6 @@ toc: true
 **Thank you to the candidates for their interest and application to the Trialsnet open call.** The results will be sent to the applicants by the 15th of March 2024.
 {: .notice--info}
 
-19/1/2024 - The Call is **Closed**.
-{: .text-justify}
-
 
 # Overview
 TrialsNet invites European third parties such as verticals, companies (including SMEs), research centers or any other relevant entity, as well as facilities and infrastructure owners, to participate in its large-scale trials activities through the implementation of additional, diversified, and heterogeneous vertical use cases. The proposed use cases and trials should address one of the main areas identified by the project:
