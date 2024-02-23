@@ -11,6 +11,10 @@ toc: true
 
 # Latest News
 
+
+**Thank you to the candidates for their interest and application to the Trialsnet open call.** The results will be sent to the applicants by the 15th of March 2024.
+{: .notice--info}
+
 19/1/2024 - The Call is **Closed**.
 {: .text-justify}
 
