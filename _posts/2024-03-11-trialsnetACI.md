@@ -1,6 +1,6 @@
 ---
-title:  "TrialsNet at ACI Worls Webinar for Private Wireless Networks"
-excerpt: "TrialsNet partners presented the Airport Use Case at the ACI Worls Webinar for Private Wireless Networks"
+title:  "TrialsNet at ACI World Webinar for Private Wireless Networks"
+excerpt: "TrialsNet partners presented the Airport Use Case at the ACI World Webinar for Private Wireless Networks"
 categories: 
   - Events
 header:
@@ -19,4 +19,7 @@ The presented use cases included:
 - Service Robots for Enhanced Passenger's Experience
 - Autonomous APRON
 
-{% include figure image_path="/assets/images/news/aia1.jpeg" alt="Use case presentation at ACI Worls Webinar for Private Wireless Networks." caption="Use case presentation at ACI Worls Webinar for Private Wireless Networks." %}
+The event was very successful with a global audience of about 160 attendees, and received very positive comments.
+{: .text-justify}
+
+{% include figure image_path="/assets/images/news/aia1.jpeg" alt="Use case presentation at ACI World Webinar for Private Wireless Networks." caption="Use case presentation at ACI World Webinar for Private Wireless Networks." %}
