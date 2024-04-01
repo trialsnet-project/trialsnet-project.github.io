@@ -16,7 +16,7 @@ toc: true
 ## WP3 Use Cases for Infrastructure, Environment, Security & Safety
 
 - [D3.1 Use cases definition for Infrastructure, Transportation and Security & Safety (ITSS) domain](https://zenodo.org/record/7944485#.ZGTAnexByrc) (pending approval)
-- D3.2 First results of Use cases implementation for ITSS domain (03/24)
+- [D3.2 First results of Use cases implementation for ITSS domain](https://zenodo.org/records/10895792) (pending approval)
 - D3.3 Use cases final implementation and trials results for ITSS domain (07/25)
 
 ## WP4 Use Cases for eHealth and Emergency
