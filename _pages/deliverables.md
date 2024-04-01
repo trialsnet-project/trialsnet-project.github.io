@@ -22,13 +22,13 @@ toc: true
 ## WP4 Use Cases for eHealth and Emergency
 
 - [D4.1 Use Cases definition for eHealth and Emergency (eHE) domain](https://zenodo.org/record/7944692#.ZGTIG-xByrc) (pending approval)
-- D4.2 First results of Use cases implementation for eHE domain (03/24)
+- [D4.2 First results of Use cases implementation for eHE domain](https://zenodo.org/records/10902549) (pending approval)
 - D4.3 Use cases final implementation and trials results for eHE domain (07/25)
 
 ## WP5 Use Cases for Culture, Tourism & Entertainment
 
 - [D5.1 Use Cases definition for Culture, Tourism and Entertainment (CTE) domain](https://zenodo.org/record/7944732#.ZGTK_exByrc) (pending approval)
-- D5.2 First results of Use cases implementation for CTE domain (03/24)
+- [D5.2 First results of Use cases implementation for CTE domain](https://zenodo.org/records/10902824) (pending approval)
 - D5.3 Use cases final implementation and trials results for CTE domain (07/25)
 
 ## WP6 Validation & dissemination 
