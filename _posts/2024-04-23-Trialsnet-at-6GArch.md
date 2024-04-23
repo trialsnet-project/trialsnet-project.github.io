@@ -8,7 +8,7 @@ header:
 ---
 
 Last Sunday, April 21st, TrialsNet participated in the [6GArch Workshop](https://wcnc2024.ieee-wcnc.org/workshop/ws-12-6garch-3rd-workshop-6g-architecture), the 3rd Workshop on 6G Architecture, co-located with IEEE WCNC 2024, in Dubai.
-Marco Gramaglia represented the project in the organization committee, that composed a [program](https://wcnc2024.ieee-wcnc.org/workshop/ws-12-6garch-3rd-workshop-6g-architecture/program) of 12 Technical Papers, one keynote and a panel. 
+Marco Gramaglia represented the project in the organization committee, which composed a [program](https://wcnc2024.ieee-wcnc.org/workshop/ws-12-6garch-3rd-workshop-6g-architecture/program) of 12 Technical Papers, one keynote and a panel. 
 {: .text-justify}
 
 Hassan Osman, representing TrialsNet, presented a paper on the KVI framework proposed in the project, a topic that will be extensively covered in the WP6 Deliverables.
