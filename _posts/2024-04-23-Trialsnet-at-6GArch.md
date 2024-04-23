@@ -18,4 +18,4 @@ Marco Gramaglia has also been moderating a panel on Network Sustainability (Hass
 The workshop was well attended, with a lot of questions, especially in the Network Sustainability part.
 {: .text-justify}
 
-{% include figure image_path="/assets/images/news/6GArch24.jpeg" alt="The Panel on Network Sustainability at the 6GArch Workshop" caption="The Panel on Network Sustainability at the 6GArch Workshop." %}
+{% include figure image_path="/assets/images/6GArch24.jpeg" alt="The Panel on Network Sustainability at the 6GArch Workshop" caption="The Panel on Network Sustainability at the 6GArch Workshop." %}
