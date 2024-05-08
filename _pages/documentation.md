@@ -47,6 +47,8 @@ All the TrialsNet documents can be found on the [TrialsNet Zenodo Community](htt
 
 - Gramaglia, M., 2024. [Architectural Considerations Enabling the IMT 2030 Framework by European 6G R&D Activities](https://www.eucnc.eu/programme/workshops/workshop-8/). EuCNC 6G Summit 2024, Antwerp, Belgium.
 
+- TrialsNet, 2024. [SNS Stream B/D Projects Workshop on KPIs and KVIs](https://smart-networks.europa.eu/event/sns-stream-b-d-projects-webinar/). 6GSNS, Online.
+
 ### Journal special Issues
 
 ### Whitepapers
