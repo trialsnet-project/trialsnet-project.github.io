@@ -32,3 +32,5 @@ toc: true
 
 - Cuervo Bello, R., Slamnik-Kriještorac, N., Marquez-Barja, J.M., 2024. [Zero-touch Service Management for 6G verticals: Smart Traffic Management Case Study](https://doi.org/10.1109/CCNC51664.2024.10454808). IEEE Consumer Communications & Networking Conference (CCNC) 2024.
 
+- Provvedi, S., Trogolo, A., Gramaglia, M., Comsa, C.R., Patachia – Sultanoiu, C., Di Giglio, A., Vidal Palma, A., Georgakopoulos, A., Demestichas, P., 2024. [TrialsNet: TRials Supported By Smart Networks Beyond 5G](https://zenodo.org/records/11151280). European Conference on Networks and Communications (EuCNC) & 6G Summit 2024 Invited Paper.
+
