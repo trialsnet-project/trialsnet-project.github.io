@@ -35,10 +35,24 @@ All the TrialsNet documents can be found on the [TrialsNet Zenodo Community](htt
 
 - Ericsson Telecomunicazioni, 2023. [SNS Launch Time Webinar 1 - Introducing the SNS projects](https://smart-networks.europa.eu/event/sns-lunchtime-webinar-1-introducing-the-sns-projects-part-1-of-4/). 6GSNS.
 
+- Promozione per l’innovazione fra Industria ed Università (PIIU) and Ericsson Telecomunicazioni, 2023. [From 5G To 6G Opportunities For European Start ups And SMEs](https://www.youtube.com/watch?v=yCoEvSo9dpY). European DIGITAL SME Alliance.
+
+- TrialsNet Partners, 2023. [TrialsNet first Open Call Webinar](https://www.youtube.com/watch?v=z6t0SZdueF8).
+
+- TrialsNet Partners, 2023. [TrialsNet second Open Call Webinar](https://www.youtube.com/watch?v=bZCsWRjWVGI).
+
 ### Workshops
+
+- Gramaglia, M., 2024. [6GARCH: THE 3RD WORKSHOP ON 6G ARCHITECTURE](https://wcnc2024.ieee-wcnc.org/workshop/ws-12-6garch-3rd-workshop-6g-architecture). Dubai, United Arab Emirates.
+
+- Gramaglia, M., 2024. [Architectural Considerations Enabling the IMT 2030 Framework by European 6G R&D Activities](https://www.eucnc.eu/programme/workshops/workshop-8/). EuCNC 6G Summit 2024, Antwerp, Belgium.
 
 ### Journal special Issues
 
 ### Whitepapers
+
+- Gasco, D., Rusca, R., Casetti, C., Giaccone, P., 2023. [Enhancing Crowd-Monitoring Through WiFi Fingerprint Analysis](https://doi.org/10.5281/zenodo.10017685). Technical report on Zenodo.
+
+- Carluccio, A., Rusca, R., Casetti, C., Giaccone, P., 2023. [Privacy-Preserving People Flow Monitoring with Bloom Filters](https://doi.org/10.5281/zenodo.10017642). Technical report on Zenodo.
 
 ### Leaflets and brochures
