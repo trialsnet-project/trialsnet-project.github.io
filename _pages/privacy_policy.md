@@ -40,6 +40,8 @@ As the data controller, the TrialsNet Consortium has implemented numerous techni
 Regarding the personal data in cases where as a Project Consortium, we determine the purposes and means of the processing, the Data Controller is the TrialsNet Consortium.
 {: .text-justify}
  
+Relevant partners have appointed a representative, who is aware of the project activities.
+{: .text-justify}
 
 ## Principles we adhere to
 At TrialsNet Consortium, we are committed to and adhering to the following principles of processing personal data in accordance with Article 5 of the Regulation. The personal data is\:
