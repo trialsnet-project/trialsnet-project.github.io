@@ -41,18 +41,14 @@ The selected third parties are mostly split between single applicants and consor
 {: .text-justify}
 {% include figure image_path="/assets/images/news/stats1.png" alt="Distribution of thhird parties by type." caption="Distribution of third parties by type." %}
 
-Applications arrived from 27 different countries, covering most of the European Union, and even beyond! The detailed distribution of applicants by country of origin is reported in the following figure.
+Selected third parties will implement their trials in 12 different sites. The detailed distribution of third parties by trial location is reported in the following figure.
 {: .text-justify}
-{% include figure image_path="/assets/images/applicantCountry.png" alt="Distribution of applicants by country of origin." caption="Distribution of applicants by country of origin." %}
+{% include figure image_path="/assets/images/news/stats2.png" alt="Distribution of third parties by trial location." caption="Distribution of third parties by trial location." %}
 
-The received applications covered all the three domains defined in our project, i.e., Infrastructure, Transportation, Security & Safety, eHealth & Emergency, and Culture, Tourism & Entertainment, being the first one the most represented (see details in the following figure).
+The selected third parties cover all the three domains defined in our project, i.e., Infrastructure, Transportation, Security & Safety, eHealth & Emergency, and Culture, Tourism & Entertainment, being the first one the most represented (see details in the following figure).
 {: .text-justify}
-{% include figure image_path="/assets/images/domainDistribution.png" alt="Distribution of proposals by domain." caption="Distribution of proposals by domain." %}
+{% include figure image_path="/assets/images/news/stats3.png" alt="Distribution of third parties by domain." caption="Distribution of third parties by domain." %}
 
-Finally, the target locations for the use cases proposed in the received applications are also fairly distributed among the project sites and other locations (option 2). See the detailed distribution in the following figure.
-{: .text-justify}
-{% include figure image_path="/assets/images/locationDistribution.png" alt="Distribution of proposals by implementation site." caption="Distribution of proposals by implementation site." %}
-
-The following steps are to conclude the feasibility check of the received proposals and to proceed with the contracting phase with the winning participants.
-We wish good luck to all the applicants!
+A kick-off meeting has been held with all the selected third parties, while the following step is a physical meeting in the next project plenary in Turin (Italy).
+See you all there!
 {: .text-justify}
