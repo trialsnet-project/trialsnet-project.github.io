@@ -11,8 +11,7 @@ toc: true
 
 # Latest News
 
-
-**Thank you to the candidates for their interest and application to the Trialsnet open call.** The results will be sent to the applicants by the 15th of March 2024.
+TrialsNet successfully finalized its Open Call. We onboarded 24 third parties who were designated subsequent to the selection process. You can find details about the selected third parties [here](https://trialsnet.eu/news/opencallres2/).
 {: .notice--info}
 
 
