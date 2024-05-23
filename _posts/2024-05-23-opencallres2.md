@@ -15,13 +15,31 @@ OPEN CALL SHORTLISTED PROJECTS:
 1. Ground Transportation Systems Italia - Connected Rails: Evaluating 5G for Autonomous Tram Operations (Transportation)
 2. ZELUS PC - 5G-enabled Secure Surveillance System (5GS3) (Security & Safety)
 3. Domethics srl - Turin5Games (Entertainment)
+4. Stendhapp srl - Torino 4U: 10 things to see around you (Culture)
+5. Allbesmart LDA - 6GVision: Improvement of the 5GOpen testbed at imec with vision-aided mmW gNB (Culture, Tourism & Entertainment)
+6. Alpha Unmanned Systems S.L. - SkyLink Vision (Security & Safety)
+7. EURIX SRL - CITY4ALL (Security & Safety)
+8. A.R. TOUR SRL - 5G AUGMENTED REALITY TOUR FOR THE UNESCO SITE “HISTORICAL CENTER OF NAPLES” (Culture, Tourism)
+9. Nemergent Solutions SL - AI/ML-based Preventive and Reactive Emergency handling  (AI-PREMSET-MCX) (Security & Safety)
+10. PLEGMA LABS TECHNOLOGIES - MILESTONE - A REAL-TIME AI-ENABLED WORKER SAFETY PRESERVATION SYSTEM (Security & Safety)
+11. Neutroon Technologies S.L. - MediVision-5G (eHealth) (eHealth and Emergency)
+12. TNO - Automated Tele-Operated Sustainable (ATOS) driving (Transportation)
+13. Atos/Eviden - Remote Coordination and Interworking of First Responders in Emergency Situations (eHealth and Emergency)
+14. University of Cyprus - AdaptoFlow (Infratrsucture, Transportation and Securitiy & Safety)
+15. Milan Institute for Arts and Technology - “Remember Ascari”: MR in MAUTO – Immersive MR Experience in F1 (MAUTO)(Culture)
+16. Local AI P.C. - AI4RTC: AI applications for Real-time Charging Load Management (Transportation)
+17. Università degli Studi Roma Tre - 5GVIREH: Virtual Reality Enhanced Rehabilitation (eHealth and Emergency)
+18. Studio 5T srl - Cities Without Barriers (Infrastructure)
+19. SMARTRDI SMART RESEARCH AND DEVELOPMENT INTERNATIONAL SRL - Mobile Augmented Reality for Outdoor PoI Enrichment (Tourism)
+20. AnotheReality Srl - DREAMPARK (Entertainment)
+21. University of Pisa - COMO5: COntinuous MOnitoring of patients with chronic disease via 5G (eHealth and Emergency)
+22. CNC Solutions - P.Gounas K.Enezlis O.E. - Intelligent control of interconnected manufacturing infrastructures (i-CNC) (Infrastructure)
+23. NARA EGITIM TEKNOLOJILERI A.Ş. - METACLINIC (eHealth and Emergency)
+24. RunEL NGMT Ltd - Beyond 5G Football Stadium (Entertainment)
 
-
-
-The TrialsNet Open Call has closed, and it was a success! We received 158 proposals. One-third of them aimed at option 1 and two-thirds at option 2. 
-58% of the applications come from single applicants, the rest from consortia. The vast majority of applicants have been SMEs. The detailed distribution of applicants by type is reported in the following figure.
+The selected third parties are mostly split between single applicants and consortia, while the vast majority of them are SMEs. The detailed distribution of third parties by type is reported in the following figure.
 {: .text-justify}
-{% include figure image_path="/assets/images/applicantType.png" alt="Distribution of applicants by type." caption="Distribution of applicants by type." %}
+{% include figure image_path="/assets/images/news/stats1.png" alt="Distribution of thhird parties by type." caption="Distribution of third parties by type." %}
 
 Applications arrived from 27 different countries, covering most of the European Union, and even beyond! The detailed distribution of applicants by country of origin is reported in the following figure.
 {: .text-justify}
