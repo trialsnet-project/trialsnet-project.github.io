@@ -12,20 +12,9 @@ We would like to congratulate the winning applicants and we look forward to a fr
 {: .text-justify}
 
 OPEN CALL SHORTLISTED PROJECTS:
-| Applicant   |      Use Case title      |  Vertical/Domain |
-|----------|:-------------:|------:|
-| 1. Ground Transportation Systems Italia | Connected Rails: Evaluating 5G for Autonomous Tram Operations | Transportation |
-| 2. ZELUS PC |    5G-enabled Secure Surveillance System (5GS3) | Security & Safety |
-| 3. Domethics srl | Turin5Games | Entertainment |
-| 4. Stendhapp srl | Torino 4U: 10 things to see around you | Culture |
-| 5. Allbesmart LDA | 6GVision: Improvement of the 5GOpen testbed at imec with vision-aided mmW gNB | Culture, Tourism & Entertainment |
-| 6. Alpha Unmanned Systems S.L. | SkyLink Vision | Security & Safety |
-| 7. EURIX SRL | CITY4ALL | Security & Safety |
-| 8. A.R. TOUR SRL | 5G AUGMENTED REALITY TOUR FOR THE UNESCO SITE “HISTORICAL CENTER OF NAPLES” | Culture, Tourism |
-| 9. Nemergent Solutions SL | AI/ML-based Preventive and Reactive Emergency handling  (AI-PREMSET-MCX) | Security & Safety |
-| 10. PLEGMA LABS TECHNOLOGIES | MILESTONE - A REAL-TIME AI-ENABLED WORKER SAFETY PRESERVATION SYSTEM | Security & Safety |
-| 11. Neutroon Technologies S.L. | MediVision-5G (eHealth) | eHealth and Emergency |
-
+1. Ground Transportation Systems Italia - Connected Rails: Evaluating 5G for Autonomous Tram Operations (Transportation)
+2. ZELUS PC - 5G-enabled Secure Surveillance System (5GS3) (Security & Safety)
+3. Domethics srl - Turin5Games (Entertainment)
 
 
 
