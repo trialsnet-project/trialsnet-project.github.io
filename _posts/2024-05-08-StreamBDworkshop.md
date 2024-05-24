@@ -16,7 +16,7 @@ The session includes participants and presentations from the following projects:
 - Stream D projects: TrialsNet, FIDAL, TARGET-X, IMAGINE-B5G
 - Stream B projects: ORIGAMI, PRIVATEER, Deterministic6G, Hexa-X-II, SAFE-6G, 6GTandem, PREDICT-6G
 
-Agenda, additional information and the Webex link are available at the [Workshop webpage](https://smart-networks.europa.eu/event/sns-stream-b-d-projects-webinar/)
+The agenda, additional information, and the recording of the workshop are available at the [Workshop webpage](https://smart-networks.europa.eu/event/sns-stream-b-d-projects-webinar/)
 {: .text-justify}
 
 {% include figure image_path="/assets/images/news/sns-stream-bd-workshop-on-kpis-and-kvis-webinar-banner-v2-1.png" alt="SNS Stream B/D Projects Workshop on KPIs and KVIs." caption="SNS Stream B/D Projects Workshop on KPIs and KVIs." %}
