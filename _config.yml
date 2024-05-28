@@ -203,7 +203,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://www.trialsnet.eu"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fa-brands fa-square-x-twitter"
       url: "https://twitter.com/trialsnet"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -214,9 +214,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/trialsnet"
+    - label: "X"
+      icon: "fa-brands fa-square-x-twitter"
+      url: "https://x.com/trialsnet"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/trialsnet-project"
