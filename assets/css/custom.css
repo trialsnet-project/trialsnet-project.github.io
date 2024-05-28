@@ -23,6 +23,10 @@
 .entries-grid-ucrow {display: inline-block;}
 .entries-grid-newsrow {display: inline-block;}
 
+.btn--x-twitter { 
+                background-color:#000000;
+                color: #ffffff !important;
+                  } 
 
 h1 {
     color:#314D8A;
