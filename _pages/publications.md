@@ -21,6 +21,10 @@ toc: true
 
 - Lotfimahyari, I., De Giovanni, L., Gadia, D., Giaccone, P., Maggiorini, D., Palazzi, C., 2024. [MAP-MIND: An Offline Algorithm for Optimizing Game Engine Module Placement in Cloud Gaming](https://ieeexplore.ieee.org/document/10478002). IEEE Access.
 
+- Provvedi, S., 2024. [TrialsNet: TRials Supported By Smart Networks Beyond 5G](https://smart-networks.europa.eu/wp-content/uploads/2024/05/sns-journal-2024-web_.pdf). SNS JU Journal 2024.
+
+- Serrano, P., Virdis, A., Gringoli, F., Gramaglia, M., 2024. [Can I Add a VR Flow? On the Maximum Capacity of 5G to Support 360° Video](https://zenodo.org/records/12653839). IEEE Communications Magazine.
+
 
 ## Conferences
 
@@ -30,7 +34,15 @@ toc: true
 
 - Milani, M., Bega, D., Gramaglia, M., Mannweiler, C., 2023. [Optimizing Predictive Analytics in 5G Networks](https://zenodo.org/doi/10.5281/zenodo.10392209). 2023 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN).
 
+- Bianzino, A.P., Et al., 2023. [Trials Supported By Smart Networks Beyond 5G: the TrialsNet Approach](https://zenodo.org/records/12533044). IEEE Symposium on Vision and Facts on 6G and Future Networks in Europe.
+
+- Di Giglio, A., Et al., 2023. [Large-scale trialing of the B5G technology for eHealth and Emergency domains](https://zenodo.org/records/12531434). IEEE Healthcom 23.
+
 - Cuervo Bello, R., Slamnik-Kriještorac, N., Marquez-Barja, J.M., 2024. [Zero-touch Service Management for 6G verticals: Smart Traffic Management Case Study](https://doi.org/10.1109/CCNC51664.2024.10454808). IEEE Consumer Communications & Networking Conference (CCNC) 2024.
 
+- Osman, H., Bradford, J., Mitchell, S., 2024. [Bridging the Gap Between 6G Technologies and Societal Values: A Comprehensive Analysis of Key Value Indicators (KVIs) and Business Models]. IEEE WCNC conference - WS-12: 6GARCH: THE 3RD WORKSHOP ON 6G ARCHITECTURE.
+
 - Provvedi, S., Trogolo, A., Gramaglia, M., Comsa, C.R., Patachia – Sultanoiu, C., Di Giglio, A., Vidal Palma, A., Georgakopoulos, A., Demestichas, P., 2024. [TrialsNet: TRials Supported By Smart Networks Beyond 5G](https://zenodo.org/records/11151280). European Conference on Networks and Communications (EuCNC) & 6G Summit 2024 Invited Paper.
+
+- Cuervo Bello, R., Slamnik-Kriještorac, N., Pokorn, M., Hribar, J., Fortuna, C., Marquez-Barja, J.M., 2024. [Building Zero-touch Service Management Framework for Automotive Services Using the Smart Highway Testbed](https://ieeexplore.ieee.org/document/10557173). IEEE BalkanCom 2024.
 
