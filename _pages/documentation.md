@@ -77,4 +77,4 @@ All the TrialsNet documents can be found on the [TrialsNet Zenodo Community](htt
 
 ### Leaflets and brochures
 
-- [Open Call Leaflet](assets/pdf/TrialsNet_Open_Call_Leaflet.pdf)
+- [Open Call Leaflet](https://trialsnet.eu/assets/pdf/TrialsNet_Open_Call_Leaflet.pdf)
