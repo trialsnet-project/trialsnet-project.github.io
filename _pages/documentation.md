@@ -76,3 +76,5 @@ All the TrialsNet documents can be found on the [TrialsNet Zenodo Community](htt
 - Carluccio, A., Rusca, R., Casetti, C., Giaccone, P., 2023. [Privacy-Preserving People Flow Monitoring with Bloom Filters](https://doi.org/10.5281/zenodo.10017642). Technical report on Zenodo.
 
 ### Leaflets and brochures
+
+- [Open Call Leaflet](assets/pdf/TrialsNet_Open_Call_Leaflet.pdf)
