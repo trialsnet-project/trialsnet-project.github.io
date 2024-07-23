@@ -25,11 +25,29 @@ All the TrialsNet documents can be found on the [TrialsNet Zenodo Community](htt
 
 - Orange Romania and Universitate tehnica Gheorghe Asachi Din Iasi, 2023. [Research projects that shape the future of Europe and Romania](https://start-up.ro/proiectele-de-cercetare-care-creeaza-viitorul-de-maine-al-europei/). start-up.ro (RO).
 
+- Universidad Carlos 3 de Madrid, 2023. [Large-scale 6G technology trials carried out to improve the quality of life in urban environments](https://www.uc3m.es/ss/Satellite/UC3MInstitucional/en/Detalle/Comunicacion_C/1371367950715/1371215537949/Large-scale_6G_technology_trials_carried_out_to_improve_the_quality_of_life_in_urban_environments). uc3m.es.
+
+- Orange Romania, 2023. [TrialsNet Open Call promotion](https://start-up.ro/cum-pot-avea-acces-startup-urile-la-finantare-prin-programul-trialsnet/). start-up.ro (RO).
+
+- Orange Romania and Universitate tehnica Gheorghe Asachi Din Iasi, 2023. [Smart Intersection - TrialsNet](https://edition.pagesuite.com/html5/reader/production/default.aspx?pubname=&edid=ce66bffd-c269-4009-a7cd-c0e056914ad7). Business Magazin Most innovative Romanian companies 2023 (RO).
+
 - Orange Romania and Universitate tehnica Gheorghe Asachi Din Iasi, 2023. [6 projects for future 6G technologies that are developed in Romania](https://www.nwradu.ro/2023/04/6-proiecte-viitoarele-tehnologii-6g-lucreaza-romania/). nwradu.ro (RO).
+
+- PROSEGUR, 2024. [Prosegur impulsa la adopción de tecnologías 6G en la seguridad y protección de eventos multitudinarios a través del proyecto europeo TrialsNet](https://www.prosegur.com/media/articulo/prensa/prosegur-impulsa-la-adopcion-de-tecnologias-proyecto-europeo-trialsnet?utm_source=linkedin&utm_medium=social&utm_campaign=comms_prensa&utm_content=innovacion&utm_source=hootsuite&utm_medium=organic_social&utm_term=&utm_content=link&utm_campaign=adopci%C3%B3n_tecnolog%C3%ADas_6G_ESP_2024_16_05_CORPORATIVO). prosegur.com (ES).
+
+- Orange Romania, 2024. [Orange Romania presence to EuCNC & 6G Summit 2024](https://5glab.orange.ro/en/orange-romania-presence-to-eucnc-6g-summit-2024/). orange.ro.
 
 ### Presentations
 
 - Papagiannopoulos, N. and Bradford, J., 2023. [5G deployment models and beyond 5G future developments](https://zenodo.org/record/8269628). Passenger Terminal Expo 2023.
+
+- Di Giglio, A., 2023. [5G and beyond for eHealth](https://zenodo.org/records/12531592). IEEE Future Networks Tutorial 5G/6G 2023.
+
+- Papagiannopoulos, N., 2024. [The-potential-of-private-wireless-networks-for-airports-2/](https://store.aci.aero/product/the-potential-of-private-wireless-networks-for-airports-2/). ACI World.
+
+- Mihai, R., 2024. [Orange developments towards 6G future architectures](https://events.info.uaic.ro/spring-school/program.html). "Alexandru Ioan Cuza" University of Iasi - Spring School 2024.
+
+- Mihai, R., 2024. [Orange developments towards 6G future architectures](https://dasconference.ro/program.php). "Stefan cel Mare" University of Suceava - DAS conference 2024 
 
 ### Webinars
 
