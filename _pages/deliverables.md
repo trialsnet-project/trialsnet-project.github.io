@@ -40,4 +40,4 @@ toc: true
 ## WP7 Open Call and Support to Third Parties 
 
 - [D7.1 Open Call Applicant Handbook](https://zenodo.org/records/10232765) (pending approval)
-- [D7.2 - Open call launch, proposal evaluation, and grant awards](https://zenodo.org/records/13630132) (pending approval)
+- [D7.2 Open call launch, proposal evaluation, and grant awards](https://zenodo.org/records/13630132) (pending approval)
