@@ -17,19 +17,19 @@ toc: true
 
 - [D3.1 Use cases definition for Infrastructure, Transportation and Security & Safety (ITSS) domain](https://zenodo.org/record/7944485#.ZGTAnexByrc) (pending approval)
 - [D3.2 First results of Use cases implementation for ITSS domain](https://zenodo.org/records/10895792) (pending approval)
-- D3.3 Use cases final implementation and trials results for ITSS domain (07/25)
+- D3.3 Use cases final implementation and trials results for ITSS domain (09/25)
 
 ## WP4 Use Cases for eHealth and Emergency
 
 - [D4.1 Use Cases definition for eHealth and Emergency (eHE) domain](https://zenodo.org/record/7944692#.ZGTIG-xByrc) (pending approval)
 - [D4.2 First results of Use cases implementation for eHE domain](https://zenodo.org/records/10902549) (pending approval)
-- D4.3 Use cases final implementation and trials results for eHE domain (07/25)
+- D4.3 Use cases final implementation and trials results for eHE domain (09/25)
 
 ## WP5 Use Cases for Culture, Tourism & Entertainment
 
 - [D5.1 Use Cases definition for Culture, Tourism and Entertainment (CTE) domain](https://zenodo.org/record/7944732#.ZGTK_exByrc) (pending approval)
 - [D5.2 First results of Use cases implementation for CTE domain](https://zenodo.org/records/10902824) (pending approval)
-- D5.3 Use cases final implementation and trials results for CTE domain (07/25)
+- D5.3 Use cases final implementation and trials results for CTE domain (09/25)
 
 ## WP6 Validation & dissemination 
 
@@ -41,3 +41,4 @@ toc: true
 
 - [D7.1 Open Call Applicant Handbook](https://zenodo.org/records/10232765) (pending approval)
 - [D7.2 Open call launch, proposal evaluation, and grant awards](https://zenodo.org/records/13630132) (pending approval)
+- D7.3 Open Call report on achieved results and allocation of Grants (12/25)
