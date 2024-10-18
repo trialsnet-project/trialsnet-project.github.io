@@ -2,10 +2,10 @@
 date: 24-10-18 11:20:26.373200
 excerpt: 5G-enabled Secure Surveillance System (5GS3)
 header:
-  teaser: https://via.placeholder.com/200x200.png
+  teaser: /assets/images/subprojects/5gs3.png
 order: 1
 sidebar:
-- image: https://via.placeholder.com/350x250.png
+- image: /assets/images/subprojects/5gs3.png
   image_alt: logo
   text: 'Lead Company Name: RunEL NGMT Ltd Country: Israel Topic: Culture, Tourism
     & Entertainment'
