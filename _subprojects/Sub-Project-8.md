@@ -2,10 +2,10 @@
 date: 24-10-18 11:20:26.378885
 excerpt: Intelligent control of interconnected manufacturing infrastructures (i-CNC)
 header:
-  teaser: https://via.placeholder.com/200x200.png
+  teaser: /assets/images/subprojects/cnc.png
 order: 7
 sidebar:
-- image: https://via.placeholder.com/350x250.png
+- image: /assets/images/subprojects/cnc.png
   image_alt: logo
   text: 'Lead Company Name: University of Pisa Country: Italy Topic: eHealth & Emergency'
   title: Factsheet
