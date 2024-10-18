@@ -2,10 +2,10 @@
 date: 24-10-18 11:20:26.383560
 excerpt: METACLINIC
 header:
-  teaser: https://via.placeholder.com/200x200.png
+  teaser: /assets/images/subprojects/metaclinic.png
 order: 12
 sidebar:
-- image: https://via.placeholder.com/350x250.png
+- image: /assets/images/subprojects/metaclinic.png
   image_alt: logo
   text: 'Lead Company Name: Nemergent Solutions SL Country: Spain Topic: Infrastructure,
     Transportation, Security & Safety'
