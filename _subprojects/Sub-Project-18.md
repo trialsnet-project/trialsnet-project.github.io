@@ -2,10 +2,10 @@
 date: 24-10-18 11:20:26.388037
 excerpt: Turin5Games
 header:
-  teaser: https://via.placeholder.com/200x200.png
+  teaser: /assets/images/subprojects/turin5games.png
 order: 17
 sidebar:
-- image: https://via.placeholder.com/350x250.png
+- image: /assets/images/subprojects/turin5games.png
   image_alt: logo
   text: 'Lead Company Name: Atos/Eviden Country: Spain Topic: eHealth & Emergency'
   title: Factsheet
