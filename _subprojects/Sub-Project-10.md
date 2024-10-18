@@ -2,10 +2,10 @@
 date: 24-10-18 11:20:26.380765
 excerpt: 'AI4RTC: AI applications for Real-time Charging Load Management'
 header:
-  teaser: https://via.placeholder.com/200x200.png
+  teaser: /assets/images/subprojects/ai4rtc.png
 order: 9
 sidebar:
-- image: https://via.placeholder.com/350x250.png
+- image: /assets/images/subprojects/ai4rtc.png
   image_alt: logo
   text: "Lead Company Name: NARA EGITIM TEKNOLOJILERI A.\u015E. Country: Turkey Topic:\
     \ eHealth & Emergency"
