@@ -2,10 +2,10 @@
 date: 24-10-18 11:20:26.390670
 excerpt: DREAMPARK
 header:
-  teaser: https://via.placeholder.com/200x200.png
+  teaser: /assets/images/subprojects/dreampark.png
 order: 20
 sidebar:
-- image: https://via.placeholder.com/350x250.png
+- image: /assets/images/subprojects/dreampark.png
   image_alt: logo
   text: 'Lead Company Name: Local AI P.C. Country: Greece Topic: Infrastructure, Transportation,
     Security & Safety'
