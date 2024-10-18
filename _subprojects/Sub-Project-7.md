@@ -2,10 +2,10 @@
 date: 24-10-18 11:20:26.377960
 excerpt: Automated Tele-Operated Sustainable (ATOS) driving
 header:
-  teaser: https://via.placeholder.com/200x200.png
+  teaser: /assets/images/subprojects/atos.png
 order: 6
 sidebar:
-- image: https://via.placeholder.com/350x250.png
+- image: /assets/images/subprojects/atos.png
   image_alt: logo
   text: 'Lead Company Name: AnotheReality Srl Country: Italy Topic: nan'
   title: Factsheet
