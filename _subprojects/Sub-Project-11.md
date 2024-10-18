@@ -2,10 +2,10 @@
 date: 24-10-18 11:20:26.381686
 excerpt: Cities Without Barriers
 header:
-  teaser: https://via.placeholder.com/200x200.png
+  teaser: /assets/images/subprojects/barriers.png
 order: 10
 sidebar:
-- image: https://via.placeholder.com/350x250.png
+- image: /assets/images/subprojects/barriers.png
   image_alt: logo
   text: 'Lead Company Name: EURIX SRL Country: Italy Topic: Culture, Tourism & Entertainment'
   title: Factsheet
