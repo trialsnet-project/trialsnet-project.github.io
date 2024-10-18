@@ -2,10 +2,10 @@
 date: 24-10-18 11:20:26.371910
 excerpt: 'Connected Rails: Evaluating 5G for Autonomous Tram Operations'
 header:
-  teaser: https://via.placeholder.com/200x200.png
+  teaser: /assets/images/subprojects/connectedrails.png
 order: 0
 sidebar:
-- image: https://via.placeholder.com/350x250.png
+- image: /assets/images/subprojects/connectedrails.png
   image_alt: logo
   text: 'Lead Company Name: Ground Transportation Systems Italia Country: Italy Topic:
     Infrastructure, Transportation, Security & Safety'
