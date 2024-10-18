@@ -41,6 +41,6 @@ Council of April 27, 2016, on the protection of personal data.
 |:---------|:--------------|:--------------------------|
 |          |  left-aligned | a. Male                   |
 | Gender   |    centered   | b. Female                 |
-| col 3 is | right-aligned | c. I prefer not to answer |
+|          | right-aligned | c. I prefer not to answer |
 
 
