@@ -2,10 +2,10 @@
 date: 24-10-18 11:20:26.386265
 excerpt: '5GVIREH: Virtual Reality Enhanced Rehabilitation'
 header:
-  teaser: https://via.placeholder.com/200x200.png
+  teaser: /assets/images/subprojects/vireh.png
 order: 15
 sidebar:
-- image: https://via.placeholder.com/350x250.png
+- image: /assets/images/subprojects/vireh.png
   image_alt: logo
   text: 'Lead Company Name: TNO Country: Belgium Topic: Infrastructure, Transportation,
     Security & Safety'
