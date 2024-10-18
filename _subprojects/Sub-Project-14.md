@@ -2,10 +2,10 @@
 date: 24-10-18 11:20:26.384431
 excerpt: MediVision-5G (eHealth)
 header:
-  teaser: https://via.placeholder.com/200x200.png
+  teaser: /assets/images/subprojects/medivision.png
 order: 13
 sidebar:
-- image: https://via.placeholder.com/350x250.png
+- image: /assets/images/subprojects/medivision.png
   image_alt: logo
   text: 'Lead Company Name: PLEGMA LABS TECHNOLOGIES Country: Greece Topic: Infrastructure,
     Transportation, Security & Safety'
