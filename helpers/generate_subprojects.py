@@ -1,5 +1,6 @@
 import yaml
 from datetime import datetime
+import pandas as pd
 
 subp_list = [ 
 "Connected Rails: Evaluating 5G for Autonomous Tram Operations",
@@ -29,16 +30,27 @@ subp_list = [
 ]
 
 
+df = pd.read_csv('../supbweb.csv')
+
+abstracts = df['Abstract'].values
+topics = df['Topic'].values
+countries = df['Country'].values
+companies = df['Company Name'].values
+
 for i in range(len(subp_list)):
     uc_data = {}
-    uc_data["title"]=f"Sub-Project {i+1}"
+    uc_data["title"]=f"{subp_list[i]}"
     uc_data["excerpt"]=f"{subp_list[i]}"
     uc_data["header"]={"teaser":"https://via.placeholder.com/200x200.png"}
-    uc_data["sidebar"]=[{"title": "Objective","image": "https://via.placeholder.com/350x250.png","image_alt": "logo","text": "Here we discuss the Objective of the UC"}]
+    uc_data["sidebar"]=[{"title": "Factsheet","image": "https://via.placeholder.com/350x250.png","image_alt": "logo","text": f"Lead Company Name: {companies[i]} Country: {countries[i]} Topic: {topics[i]}"}]
     uc_data["order"]=i
     now = datetime.now()
     uc_data["date"]= now.strftime('%y-%m-%d %H:%M:%S.%f')
     with open(f"../_subprojects/Sub-Project-{i+1}.md", 'w') as yaml_file:
         yaml_file.write("---\n")
         yaml.dump(uc_data, yaml_file)
-        yaml_file.write("---")
+        yaml_file.write("---\n")
+        yaml_file.write(abstracts[i])
+        yaml_file.write("\n")
+        yaml_file.write("{: .text-justify}\n")
+        yaml_file.write("\n")

@@ -1,5 +1,5 @@
 ---
-date: 24-10-16 09:26:32.971328
+date: 24-10-18 11:20:26.392504
 excerpt: "\u201CRemember Ascari\u201D: MR in MAUTO \u2013 Immersive MR Experience\
   \ in F1 (MAUTO)"
 header:
@@ -8,7 +8,12 @@ order: 22
 sidebar:
 - image: https://via.placeholder.com/350x250.png
   image_alt: logo
-  text: Here we discuss the Objective of the UC
-  title: Objective
-title: Sub-Project 23
+  text: 'Lead Company Name: Studio 5T srl Country: Italy Topic: Culture, Tourism &
+    Entertainment'
+  title: Factsheet
+title: "\u201CRemember Ascari\u201D: MR in MAUTO \u2013 Immersive MR Experience in\
+  \ F1 (MAUTO)"
 ---
+Automatic analysis of the territory using common mobile devices, including smartphones and specialized devices. Through these devices, the goal is to conduct detailed analyses of the daily routes taken by individuals with disabilities.
+{: .text-justify}
+
