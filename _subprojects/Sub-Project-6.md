@@ -2,10 +2,10 @@
 date: 24-10-18 11:20:26.377011
 excerpt: MILESTONE - A REAL-TIME AI-ENABLED WORKER SAFETY PRESERVATION SYSTEM
 header:
-  teaser: https://via.placeholder.com/200x200.png
+  teaser: /assets/images/subprojects/milestone.png
 order: 5
 sidebar:
-- image: https://via.placeholder.com/350x250.png
+- image: /assets/images/subprojects/milestone.png
   image_alt: logo
   text: 'Lead Company Name: Allbesmart LDA Country: Belgium Topic: Infrastructure,
     Transportation, Security & Safety'
