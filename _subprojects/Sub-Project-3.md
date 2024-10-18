@@ -2,10 +2,10 @@
 date: 24-10-18 11:20:26.374214
 excerpt: SkyLink Vision
 header:
-  teaser: https://via.placeholder.com/200x200.png
+  teaser: /assets/images/subprojects/skylink.png
 order: 2
 sidebar:
-- image: https://via.placeholder.com/350x250.png
+- image: /assets/images/subprojects/skylink.png
   image_alt: logo
   text: 'Lead Company Name: ZELUS PC Country: Greece Topic: Infrastructure, Transportation,
     Security & Safety'
