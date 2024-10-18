@@ -2,10 +2,10 @@
 date: 24-10-18 11:20:26.385300
 excerpt: Remote Coordination and Interworking of First Responders in Emergency Situations
 header:
-  teaser: https://via.placeholder.com/200x200.png
+  teaser: /assets/images/subprojects/remotecoord.png
 order: 14
 sidebar:
-- image: https://via.placeholder.com/350x250.png
+- image: /assets/images/subprojects/remotecoord.png
   image_alt: logo
   text: 'Lead Company Name: Neutroon Technologies S.L. Country: Spain Topic: eHealth
     & Emergency'
