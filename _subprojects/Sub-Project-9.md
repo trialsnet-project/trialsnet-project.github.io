@@ -2,10 +2,10 @@
 date: 24-10-18 11:20:26.379899
 excerpt: AdaptoFlow
 header:
-  teaser: https://via.placeholder.com/200x200.png
+  teaser: /assets/images/subprojects/flow.png
 order: 8
 sidebar:
-- image: https://via.placeholder.com/350x250.png
+- image: /assets/images/subprojects/flow.png
   image_alt: logo
   text: 'Lead Company Name: Alpha Unmanned Systems S.L. Country: Spain Topic: Infrastructure,
     Transportation, Security & Safety'
