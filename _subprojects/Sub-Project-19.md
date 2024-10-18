@@ -2,10 +2,10 @@
 date: 24-10-18 11:20:26.388868
 excerpt: 'Torino 4U: 10 things to see around you'
 header:
-  teaser: https://via.placeholder.com/200x200.png
+  teaser: /assets/images/subprojects/torino4u.png
 order: 18
 sidebar:
-- image: https://via.placeholder.com/350x250.png
+- image: /assets/images/subprojects/torino4u.pngg
   image_alt: logo
   text: 'Lead Company Name: University of Cyprus Country: Cyprus Topic: Infrastructure,
     Transportation, Security & Safety'
