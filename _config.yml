@@ -184,6 +184,10 @@ collections:
     output: true
     permalink: /:collection/:path/
     sort_by: order
+  subprojects:
+    output: true
+    permalink: /:collection/:path/
+    sort_by: order
 
 # Plugins (previously gems:)
 plugins:
@@ -254,6 +258,14 @@ defaults:
   - scope:
       path: ""
       type: usecases
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _subprojects
+  - scope:
+      path: ""
+      type: subprojects
     values:
       layout: single
       author_profile: false
