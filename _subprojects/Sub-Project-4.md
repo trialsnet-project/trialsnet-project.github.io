@@ -2,10 +2,10 @@
 date: 24-10-18 11:20:26.375090
 excerpt: CITY4ALL
 header:
-  teaser: https://via.placeholder.com/200x200.png
+  teaser: /assets/images/subprojects/city4all.png
 order: 3
 sidebar:
-- image: https://via.placeholder.com/350x250.png
+- image: /assets/images/subprojects/city4all.png
   image_alt: logo
   text: 'Lead Company Name: Domethics srl Country: Italy Topic: Culture, Tourism &
     Entertainment'
