@@ -40,9 +40,23 @@ Neutrality and impartiality are guaranteed in the management and production of s
 |This innovative immersive VR experience incorporates| a.	I completely disagree|
 |state of the art technology |b.	I somewhat disagree |
 |                            |c.	Neither agree nor disagree |
-|                            |d.	I somewhat disagree |
-|                            |e.	I completely disagree |
-
-
+|                            |d.	I somewhat agree |
+|                            |e.	I completely agree |
+|This innovative immersive VR experience involves ma-| a.	I completely disagree|
+|jor technology changes on an existing product |b.	I somewhat disagree |
+|                            |c.	Neither agree nor disagree |
+|                            |d.	I somewhat agree |
+|                            |e.	I completely agree |
+|The technology of innovative immersive VR expe-| a.	I completely disagree|
+|rience is quite new to our industry  |b.	I somewhat disagree |
+|                            |c.	Neither agree nor disagree |
+|                            |d.	I somewhat agree |
+|                            |e.	I completely agree |
+|The technology incorporated in the innovative immer-| a.	I completely disagree|
+|sive VR experience always offers dramatic improve-  |b.	I somewhat disagree |
+|ments than that in existing product features (TV view-|c.	Neither agree nor disagree |
+|ing).                            |d.	I somewhat agree |
+|                            |e.	I completely agree |
+|PERCEIVED USEFULNESS         |         |
 
 
