@@ -26,9 +26,23 @@ Neutrality and impartiality are guaranteed in the management and production of s
 
 ## Questions
 
-| Question | Scale              | Options                      |
-|:---------|:-------------------|:-----------------------------|
-| Gender   | Centered           | a. Male                      |
-|          |                    | b. Female                    |
-|          |                    | c. I prefer not to answer     |
+| Question | Options                      |
+|:---------|:-----------------------------|
+| Gender   | a. Male                      |
+|          | b. Female                    |
+|          | c. I prefer not to answer    |
+|Age       | a. Below 20                  |
+|          | b. 20-29                     |
+|          | c. 30-39                     |
+|          | d. 40-49                     |
+|          | e. 50-59                     |
+|TECHNOLOGY INNOVATION          |         |
+|This innovative immersive VR experience incorporates| a.	I completely disagree|
+|state of the art technology |b.	I somewhat disagree |
+|                            |c.	Neither agree nor disagree |
+|                            |d.	I somewhat disagree |
+|                            |e.	I completely disagree |
+
+
+
 
