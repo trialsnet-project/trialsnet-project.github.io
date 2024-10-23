@@ -77,7 +77,7 @@ Neutrality and impartiality are guaranteed in the management and production of s
 
 ---
 
-## Español
+# Español
 
 ## Política de privacidad
 Este cuestionario recopila su información sociodemográfica y su opinión sobre la experiencia de realidad virtual. Usted tendrá el derecho de retirar su consentimiento en cualquier momento. Por favor, lea el siguiente aviso para entender cómo se manejarán sus datos.
@@ -96,6 +96,7 @@ Se garantiza la neutralidad e imparcialidad en la gestión y elaboración de est
 | Edad      | Menor de 20, 20-29, 30-39, 40-49, 50-59 |
 
 **INNOVACIÓN TECNOLÓGICA**
+
 | Pregunta  | Escala |
 |-----------|--------|
 | Esta experiencia inmersiva innovadora en VR incorpora tecnología de última generación | Estoy completamente en desacuerdo, Estoy algo en desacuerdo, Ni de acuerdo ni en desacuerdo, Estoy algo de acuerdo, Estoy completamente de acuerdo |
@@ -104,6 +105,7 @@ Se garantiza la neutralidad e imparcialidad en la gestión y elaboración de est
 | La tecnología incorporada en la experiencia inmersiva innovadora en VR ofrece siempre mejoras dramáticas sobre las características del producto existente (ver TV) | Estoy completamente en desacuerdo, Estoy algo en desacuerdo, Ni de acuerdo ni en desacuerdo, Estoy algo de acuerdo, Estoy completamente de acuerdo |
 
 **UTILIDAD PERCIBIDA**
+
 | Pregunta  | Escala |
 |-----------|--------|
 | Usar VR con tecnología más allá de 5G/6G me ayuda a ver eventos deportivos en casa | Estoy completamente en desacuerdo, Estoy algo en desacuerdo, Ni de acuerdo ni en desacuerdo, Estoy algo de acuerdo, Estoy completamente de acuerdo |
@@ -112,6 +114,7 @@ Se garantiza la neutralidad e imparcialidad en la gestión y elaboración de est
 | Creo que usar VR con redes más allá de 5G/6G mejoraría mi vida | Estoy completamente en desacuerdo, Estoy algo en desacuerdo, Ni de acuerdo ni en desacuerdo, Estoy algo de acuerdo, Estoy completamente de acuerdo |
 
 **FACILIDAD DE USO PERCIBIDA**
+
 | Pregunta  | Escala |
 |-----------|--------|
 | Este dispositivo/auriculares VR que usa redes más allá de 5G/6G es fácil de usar | Estoy completamente en desacuerdo, Estoy algo en desacuerdo, Ni de acuerdo ni en desacuerdo, Estoy algo de acuerdo, Estoy completamente de acuerdo |
@@ -120,6 +123,7 @@ Se garantiza la neutralidad e imparcialidad en la gestión y elaboración de est
 | Encuentro que VR con redes más allá de 5G/6G es flexible para interactuar | Estoy completamente en desacuerdo, Estoy algo en desacuerdo, Ni de acuerdo ni en desacuerdo, Estoy algo de acuerdo, Estoy completamente de acuerdo |
 
 **DISFRUTE PERCIBIDO**
+
 | Pregunta  | Escala |
 |-----------|--------|
 | Ver un partido de deportes a través de auriculares VR usando redes más allá de 5G/6G es disfrutable | Estoy completamente en desacuerdo, Estoy algo en desacuerdo, Ni de acuerdo ni en desacuerdo, Estoy algo de acuerdo, Estoy completamente de acuerdo |
@@ -128,6 +132,7 @@ Se garantiza la neutralidad e imparcialidad en la gestión y elaboración de est
 | Ver un partido de deportes a través de auriculares VR usando redes más allá de 5G/6G es interesante | Estoy completamente en desacuerdo, Estoy algo en desacuerdo, Ni de acuerdo ni en desacuerdo, Estoy algo de acuerdo, Estoy completamente de acuerdo |
 
 **EXPERIENCIA DEL CLIENTE**
+
 | Pregunta  | Escala |
 |-----------|--------|
 | Durante el partido de deportes en VR, estuve completamente involucrado | Estoy completamente en desacuerdo, Estoy algo en desacuerdo, Ni de acuerdo ni en desacuerdo, Estoy algo de acuerdo, Estoy completamente de acuerdo |
