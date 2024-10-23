@@ -75,30 +75,18 @@ Neutrality and impartiality are guaranteed in the management and production of s
 | During the VR sports match, I was fully involved | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
 | During the VR sports match, I had full concentration | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
 
-Notes:
+---
 
-Socio-demographic items were adapted from Sanchez-Cañizares et al. (2021)  
+## Español
 
-Innovation items were adapted from Ding & Ding (2022)  
-
-Perceived ease of use items were adapted from Heetae et al. (2018)  
-
-Perceived usefulness items were adapted from Heetae et al. (2018)  
-
-Perceived enjoyment items were adapted from Mclean et al. (2018)  
-
-Customer experience items were adapted from Bilgihan et al. (2013)
-
-# Español
-
-## Politica de privacidad
-Este cuestionario recopila su información sociodemográfica y su opinión sobre la experiencia de reali-dad virtual. Usted tendrá el derecho de retirar su consentimiento en cualquier momento. Por favor, lea el siguiente aviso para entender cómo se manejarán sus datos.
+## Política de privacidad
+Este cuestionario recopila su información sociodemográfica y su opinión sobre la experiencia de realidad virtual. Usted tendrá el derecho de retirar su consentimiento en cualquier momento. Por favor, lea el siguiente aviso para entender cómo se manejarán sus datos.
 
 ## Introducción 
 Se le invita a participar en una investigación llevada a cabo por Telefónica y YBVR sobre la experiencia de realidad virtual utilizando tecnología 5G/6G evolucionado. Esto forma parte del estudio cuantitativo para el caso de uso 10 de Trialsnet, un proyecto financiado por el Programa de Investigación e Innovación Horizon-JU-SNS-2022 de la Unión Europea. Su participación en este estudio es completamente voluntaria y los resultados serán anónimos. Tendrá el derecho de retirar su consentimiento en cualquier momento. Debe leer la información a continuación y hacer preguntas sobre cualquier aspecto que no entienda antes de decidir si desea o no participar. Si tiene alguna duda o pregunta, por favor, póngase en contacto con grace.burkett@ybvr.com.
 
 ## Protección de datos 
-Se garantiza la neutralidad e imparcialidad en la gestión y elaboración de estadísticas, así como la confi-dencialidad en la recopilación y el tratamiento de los datos individuales aportados. Las respuestas no serán, en ningún caso, analizadas de forma individual, sino por tratamiento estadístico agregado, en el que no es posible la identificación individual de los participantes. No se almacenarán datos personales cumpliendo con la normativa de protección de datos vigente. Toda la información -sin restricciones- será tratada de manera confidencial y de acuerdo con el Reglamento general de protección de datos (UE) 2016/679 y del Consejo de 27 de abril de 2016 de protección de datos de carácter personal. 
+Se garantiza la neutralidad e imparcialidad en la gestión y elaboración de estadísticas, así como la confidencialidad en la recopilación y el tratamiento de los datos individuales aportados. Las respuestas no serán, en ningún caso, analizadas de forma individual, sino por tratamiento estadístico agregado, en el que no es posible la identificación individual de los participantes. No se almacenarán datos personales cumpliendo con la normativa de protección de datos vigente. Toda la información será tratada de manera confidencial y de acuerdo con el Reglamento general de protección de datos (UE) 2016/679 y del Consejo de 27 de abril de 2016 de protección de datos de carácter personal.
 
 ## Preguntas
 
@@ -146,27 +134,12 @@ Se garantiza la neutralidad e imparcialidad en la gestión y elaboración de est
 | Durante el partido de deportes en VR, estuve completamente concentrado | Estoy completamente en desacuerdo, Estoy algo en desacuerdo, Ni de acuerdo ni en desacuerdo, Estoy algo de acuerdo, Estoy completamente de acuerdo |
 | Durante el partido de deportes en VR, tuve completa concentración | Estoy completamente en desacuerdo, Estoy algo en desacuerdo, Ni de acuerdo ni en desacuerdo, Estoy algo de acuerdo, Estoy completamente de acuerdo |
 
-Notes: 
-
-Preguntas Socio-demographic adaptado desde Sanchez-Cañizares et al. (2021)
-
-Preguntas Innovacion tecnologica adaptado desde Ding & Ding (2022)
-
-Preguntas Facilidad de uso percibida adaptado desde Heetae et al. (2018)
-
-Preguntas Utilidad Percibida adaptado desde Heetae et al. (2018)
-
-Preguntas Disfrute percibido adaptado desde Mclean et al. (2018)
-
-Preguntas Experiencia del Cliente adaptado desde Bilgihan et al.(2013)
+---
 
 ## References
 
-1.	Sánchez-Cañizares, S.M., Cabeza-Ramirez, L.J., Muñoz-Fernández, G., & Fuentes-Garcia, F.J. (2021). Impact of the perceived risk from Covid-19 on intention to travel. Current Issues in Tour-ism, 24, pp. 970-984. https://doi.org/10.1080/13683500.2020.1829571  
-2.	Ding, W. & Ding, J. (2022). New venture´s product innovativeness strategy, institutional envi-ronment and new product performance. Technological Forecasting and Social Change, 174, 121211. https://doi.org/10.1016/j.techfore.2021.121211
-3.	Heetae, Y., Yu, J., Zo, H. & Choi, M. (2016). User acceptance of wearable devices: An extended perspective of perceived value. Telematics and Informatics, 33, pp. 256-269. https://doi.org/10.1016/j.tele.2015.08.007 
-4.	McLean, G., Al-Nabhani, K. & Wilson, A. (2018). Developing a Mobile Applications Customer Experience Model (MACE) - Implications for Retailers. Journal of Business Research. 85, pp. 325-336. https://doi.org/10.1016/j.jbusres.2018.01.018 
-5.	Bilgihan, A., Okumus, F. & Nusair, K. (2013). Online Hotel Booking Experience: Flow Theory, Measuring Online Customer Experience and Managerial Implications. Information Technology and Tourism, 14, pp. 49-71. https://doi.org/10.1007/s40558-013-0003-3 
-
-
-
+1. Sánchez-Cañizares, S.M., Cabeza-Ramirez, L.J., Muñoz-Fernández, G., & Fuentes-Garcia, F.J. (2021). Impact of the perceived risk from Covid-19 on intention to travel. Current Issues in Tourism, 24, pp. 970-984. https://doi.org/10.1080/13683500.2020.1829571  
+2. Ding, W. & Ding, J. (2022). New venture’s product innovativeness strategy, institutional environment and new product performance. Technological Forecasting and Social Change, 174, 121211. https://doi.org/10.1016/j.techfore.2021.121211  
+3. Heetae, Y., Yu, J., Zo, H. & Choi, M. (2016). User acceptance of wearable devices: An extended perspective of perceived value. Telematics and Informatics, 33, pp. 256-269. https://doi.org/10.1016/j.tele.2015.08.007  
+4. McLean, G., Al-Nabhani, K. & Wilson, A. (2018). Developing a Mobile Applications Customer Experience Model (MACE) - Implications for Retailers. Journal of Business Research. 85, pp. 325-336. https://doi.org/10.1016/j.jbusres.2018.01.018  
+5. Bilgihan, A., Okumus, F. & Nusair, K. (2013). Online Hotel Booking Experience: Flow Theory, Measuring Online Customer Experience and Managerial Implications. Information Technology and Tourism, 14, pp. 49-71. https://doi.org/10.1007/s40558-013-0003-3  
