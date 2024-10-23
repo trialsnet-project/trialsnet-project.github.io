@@ -26,37 +26,54 @@ Neutrality and impartiality are guaranteed in the management and production of s
 
 ## Questions
 
-| Question | Options                      |
-|:---------|:-----------------------------|
-| Gender   | a. Male                      |
-|          | b. Female                    |
-|          | c. I prefer not to answer    |
-|Age       | a. Below 20                  |
-|          | b. 20-29                     |
-|          | c. 30-39                     |
-|          | d. 40-49                     |
-|          | e. 50-59                     |
-|TECHNOLOGY INNOVATION          |         |
-|This innovative immersive VR experience incorporates| a.	I completely disagree|
-|state of the art technology |b.	I somewhat disagree |
-|                            |c.	Neither agree nor disagree |
-|                            |d.	I somewhat agree |
-|                            |e.	I completely agree |
-|This innovative immersive VR experience involves ma-| a.	I completely disagree|
-|jor technology changes on an existing product |b.	I somewhat disagree |
-|                            |c.	Neither agree nor disagree |
-|                            |d.	I somewhat agree |
-|                            |e.	I completely agree |
-|The technology of innovative immersive VR expe-| a.	I completely disagree|
-|rience is quite new to our industry  |b.	I somewhat disagree |
-|                            |c.	Neither agree nor disagree |
-|                            |d.	I somewhat agree |
-|                            |e.	I completely agree |
-|The technology incorporated in the innovative immer-| a.	I completely disagree|
-|sive VR experience always offers dramatic improve-  |b.	I somewhat disagree |
-|ments than that in existing product features (TV view-|c.	Neither agree nor disagree |
-|ing).                            |d.	I somewhat agree |
-|                            |e.	I completely agree |
-|PERCEIVED USEFULNESS         |         |
+| Questions | Scale |
+|-----------|-------|
+| Gender    | Male, Female, I prefer not to answer |
+| Age       | Below 20, 20-29, 30-39, 40-49, 50-59 |
 
+**TECHNOLOGICAL INNOVATION**
+| Question  | Scale |
+|-----------|-------|
+| This innovative immersive VR experience incorporates state of the art technology | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
+| This innovative immersive VR experience involves major technological changes on an existing product | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
+| The technology of innovative immersive VR experience is quite new to our industry | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
+| The technology incorporated in the innovative immersive VR experience always offers dramatic improvements than that in existing product features (TV viewing) | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
 
+**PERCEIVED USEFULNESS**
+| Question  | Scale |
+|-----------|-------|
+| Using VR with beyond 5G/6G technology helps me watch sport event at home | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
+| I believe using VR with beyond 5G/6G network would help me be more productive | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
+| I believe using VR with beyond 5G/6G network would be useful in my sports viewing experience | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
+| I believe using VR with beyond 5G/6G network would improve my life | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
+
+**PERCEIVED EASE OF USE**
+| Question  | Scale |
+|-----------|-------|
+| This VR headset/device using beyond 5G/6G network is easy to use | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
+| Learning to use this VR headset/device using beyond 5G/6G network is easy | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
+| Instructions to navigate this VR headset/device using beyond 5G/6G network are clear and understandable | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
+| I find VR with beyond 5G/6G network flexible to interact with | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
+
+**PERCEIVED ENJOYMENT**
+| Question  | Scale |
+|-----------|-------|
+| I know watching sports game through VR headset using beyond 5G/6G network to be enjoyable | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
+| Watching sports match through VR headset using beyond 5G/6G network makes me feel good | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
+| Watching sports match through VR headset using beyond 5G/6G network is fun | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
+| Watching sports match through VR headset using beyond 5G/6G network is engaging | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
+
+**CUSTOMER EXPERIENCE**
+| Question  | Scale |
+|-----------|-------|
+| During the VR sports match, I was fully engaged | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
+| During the VR sports match, I was fully involved | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
+| During the VR sports match, I had full concentration | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
+
+Notes:
+Socio-demographic items were adapted from Sanchez-Cañizares et al. (2021) 
+Innovation items were adapted from Ding &amp; Ding (2022) 
+Perceived ease of use items were adapted from Heetae et al. (2018) 
+Perceived usefulness items were adapted from Heetae et al. (2018) 
+Perceived enjoyment items were adapted from Mclean et al. (2018)  
+Customer experience items were adapted from Bilgihan et al.(2013)
