@@ -71,9 +71,15 @@ Neutrality and impartiality are guaranteed in the management and production of s
 | During the VR sports match, I had full concentration | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
 
 Notes:
+
 Socio-demographic items were adapted from Sanchez-Cañizares et al. (2021) 
+
 Innovation items were adapted from Ding &amp; Ding (2022) 
+
 Perceived ease of use items were adapted from Heetae et al. (2018) 
+
 Perceived usefulness items were adapted from Heetae et al. (2018) 
+
 Perceived enjoyment items were adapted from Mclean et al. (2018)  
+
 Customer experience items were adapted from Bilgihan et al.(2013)
