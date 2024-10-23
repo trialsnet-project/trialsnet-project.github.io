@@ -32,6 +32,7 @@ Neutrality and impartiality are guaranteed in the management and production of s
 | Age       | Below 20, 20-29, 30-39, 40-49, 50-59 |
 
 **TECHNOLOGICAL INNOVATION**
+
 | Question  | Scale |
 |-----------|-------|
 | This innovative immersive VR experience incorporates state of the art technology | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
@@ -40,6 +41,7 @@ Neutrality and impartiality are guaranteed in the management and production of s
 | The technology incorporated in the innovative immersive VR experience always offers dramatic improvements than that in existing product features (TV viewing) | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
 
 **PERCEIVED USEFULNESS**
+
 | Question  | Scale |
 |-----------|-------|
 | Using VR with beyond 5G/6G technology helps me watch sport event at home | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
@@ -48,6 +50,7 @@ Neutrality and impartiality are guaranteed in the management and production of s
 | I believe using VR with beyond 5G/6G network would improve my life | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
 
 **PERCEIVED EASE OF USE**
+
 | Question  | Scale |
 |-----------|-------|
 | This VR headset/device using beyond 5G/6G network is easy to use | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
@@ -56,6 +59,7 @@ Neutrality and impartiality are guaranteed in the management and production of s
 | I find VR with beyond 5G/6G network flexible to interact with | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
 
 **PERCEIVED ENJOYMENT**
+
 | Question  | Scale |
 |-----------|-------|
 | I know watching sports game through VR headset using beyond 5G/6G network to be enjoyable | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
@@ -64,6 +68,7 @@ Neutrality and impartiality are guaranteed in the management and production of s
 | Watching sports match through VR headset using beyond 5G/6G network is engaging | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
 
 **CUSTOMER EXPERIENCE**
+
 | Question  | Scale |
 |-----------|-------|
 | During the VR sports match, I was fully engaged | I completely disagree, I somewhat disagree, Neither agree nor disagree, I somewhat agree, I completely agree |
@@ -72,14 +77,9 @@ Neutrality and impartiality are guaranteed in the management and production of s
 
 Notes:
 
-Socio-demographic items were adapted from Sanchez-Cañizares et al. (2021) 
-
-Innovation items were adapted from Ding &amp; Ding (2022) 
-
-Perceived ease of use items were adapted from Heetae et al. (2018) 
-
-Perceived usefulness items were adapted from Heetae et al. (2018) 
-
-Perceived enjoyment items were adapted from Mclean et al. (2018)  
-
-Customer experience items were adapted from Bilgihan et al.(2013)
+Socio-demographic items were adapted from Sanchez-Cañizares et al. (2021)  
+Innovation items were adapted from Ding & Ding (2022)  
+Perceived ease of use items were adapted from Heetae et al. (2018)  
+Perceived usefulness items were adapted from Heetae et al. (2018)  
+Perceived enjoyment items were adapted from Mclean et al. (2018)  
+Customer experience items were adapted from Bilgihan et al. (2013)
