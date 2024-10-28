@@ -12,10 +12,14 @@ toc: true
 ## Información Básica
 
 -	Responsable del tratamiento:  Prosegur Global SIS SLU (en adelante, PROSEGUR){: .text-justify}
--	Finalidad principal del tratamiento: El proyecto piloto Smart Crowd Monitoring consiste en el despliegue de aplicaciones 6G avanzadas en entornos públicos, como instalaciones deportivas o estadios, para investigar la posible mejora de procesos de seguridad de las multitudes mediante la tecnología de Inteligencia Artificial (AI).{: .text-justify}
--	Base legitimadora: el tratamiento se realizará en base al interés legítimo que PROSEGUR tiene, de acuerdo con lo dispuesto en el artículo 5.1.b y 89 del Reglamento General de Protección de Datos (RGPD), de realizar tratamientos con fines de archivo en interés público, fines de investigación científica o histórica o fines estadísticos, manteniendo las garantías adecuadas para los derechos y las libertades de los interesados.{: .text-justify}
--	Potenciales destinatarios de los datos: Terceras partes a las que PROSEGUR está obligada a transmitir información, como autoridades públicas, fuerzas y cuerpos de seguridad, jueces y tribunales, con la finalidad de dar cumplimiento con los requerimientos de dichas autoridades y la normativa aplicable, en su caso.{: .text-justify}
--	Derechos de protección de datos: usted puede revocar en cualquier momento el consentimiento otorgado para las actividades de tratamiento de datos personales por parte de PROSEGUR, así como ejercitar, si está interesado en ello, sus derechos de acceso, rectificación, supresión, oposición, limitación al tratamiento de datos, portabilidad de datos, así como a no ser objeto de decisiones automatizadas. Puede hacerlo mediante solicitud dirigida a Prosegur Global SIS SLU, enviando un email a dpo@prosegur.com, conforme se indica en el apartado “Sus derechos de Protección de Datos” de nuestra Política de Privacidad.{: .text-justify}
+-	Finalidad principal del tratamiento: El proyecto piloto Smart Crowd Monitoring consiste en el despliegue de aplicaciones 6G avanzadas en entornos públicos, como instalaciones deportivas o estadios, para investigar la posible mejora de procesos de seguridad de las multitudes mediante la tecnología de Inteligencia Artificial (AI).
+{: .text-justify}
+-	Base legitimadora: el tratamiento se realizará en base al interés legítimo que PROSEGUR tiene, de acuerdo con lo dispuesto en el artículo 5.1.b y 89 del Reglamento General de Protección de Datos (RGPD), de realizar tratamientos con fines de archivo en interés público, fines de investigación científica o histórica o fines estadísticos, manteniendo las garantías adecuadas para los derechos y las libertades de los interesados.
+{: .text-justify}
+-	Potenciales destinatarios de los datos: Terceras partes a las que PROSEGUR está obligada a transmitir información, como autoridades públicas, fuerzas y cuerpos de seguridad, jueces y tribunales, con la finalidad de dar cumplimiento con los requerimientos de dichas autoridades y la normativa aplicable, en su caso.
+{: .text-justify}
+-	Derechos de protección de datos: usted puede revocar en cualquier momento el consentimiento otorgado para las actividades de tratamiento de datos personales por parte de PROSEGUR, así como ejercitar, si está interesado en ello, sus derechos de acceso, rectificación, supresión, oposición, limitación al tratamiento de datos, portabilidad de datos, así como a no ser objeto de decisiones automatizadas. Puede hacerlo mediante solicitud dirigida a Prosegur Global SIS SLU, enviando un email a dpo@prosegur.com, conforme se indica en el apartado “Sus derechos de Protección de Datos” de nuestra Política de Privacidad.
+{: .text-justify}
 
 
 
