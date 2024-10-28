@@ -8,4 +8,4 @@ entries_layout: grid
 classes: wide
 ---
 
-The TrialsNet sub-projects from the Open Call.
+The TrialsNet [Open Call](/open-call/) selected 24 additional Use Cases related to the project topics. {: .text-justify}  
