@@ -11,7 +11,8 @@ toc: true
 
 ## Información Básica
 
--	Responsable del tratamiento:  Prosegur Global SIS SLU (en adelante, PROSEGUR){: .text-justify}
+-	Responsable del tratamiento:  Prosegur Global SIS SLU (en adelante, PROSEGUR)
+{: .text-justify}
 -	Finalidad principal del tratamiento: El proyecto piloto Smart Crowd Monitoring consiste en el despliegue de aplicaciones 6G avanzadas en entornos públicos, como instalaciones deportivas o estadios, para investigar la posible mejora de procesos de seguridad de las multitudes mediante la tecnología de Inteligencia Artificial (AI).
 {: .text-justify}
 -	Base legitimadora: el tratamiento se realizará en base al interés legítimo que PROSEGUR tiene, de acuerdo con lo dispuesto en el artículo 5.1.b y 89 del Reglamento General de Protección de Datos (RGPD), de realizar tratamientos con fines de archivo en interés público, fines de investigación científica o histórica o fines estadísticos, manteniendo las garantías adecuadas para los derechos y las libertades de los interesados.
