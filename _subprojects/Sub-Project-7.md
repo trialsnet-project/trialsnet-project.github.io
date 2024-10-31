@@ -7,10 +7,10 @@ order: 6
 sidebar:
 - image: /assets/images/subprojects/atos.png
   image_alt: logo
-  text: 'Lead Company Name: AnotheReality Srl Country: Italy Topic: nan'
+  text: 'Lead Company Name: TNO Country: The Netherlands Topic: Infrastructure, Transportation, Security & Safety'
   title: Factsheet
 title: Automated Tele-Operated Sustainable (ATOS) driving
 ---
-Design and Realisation of an Enhanced Ar&Metaverse-based platform to improve public park visiting experience, focusing on the case study of the Valentine PARK in Turin
+The Automated Tele-operated Sustainable (ATOS) Driving project explores the integration of teleoperation within Beyond 5G (B5G) and upcoming 6G network frameworks. This integration is designed to support dynamic network conditions and meet stringent teleoperation requirements. By exposing network functions through open APIs, teleoperation services can achieve real-time network performance adaptation, ensuring the reliability and efficiency needed for remote operations.
 {: .text-justify}
 
