@@ -7,8 +7,7 @@ order: 18
 sidebar:
 - image: /assets/images/subprojects/torino4u.pngg
   image_alt: logo
-  text: 'Lead Company Name: University of Cyprus Country: Cyprus Topic: Infrastructure,
-    Transportation, Security & Safety'
+  text: 'Lead Company Name: Stendhapp srl Country: Italy Topic: Culture, Tourism & Entertainment'
   title: Factsheet
 title: 'Torino 4U: 10 things to see around you'
 ---
