@@ -12,6 +12,6 @@ sidebar:
   title: Factsheet
 title: '5GVIREH: Virtual Reality Enhanced Rehabilitation'
 ---
-The goal of this pilot proposal is to assess the feasibility and benefits of exposing functions (via open APIs) in the B5G system to better support tele-operation service requirements in dynamic network conditions. In addition, the exposed APIs will support the automation of orchestration services taking into account sustainability metrics such as energy consumption of network functions (i.e., User Plane Function (UPF)).
+Virtual Reality (VR) technology, superseding in-hospital physiotherapy, while improving personalized virtual rehabilitation, Real-time Anomaly detection, and Secure data storage.
 {: .text-justify}
 
