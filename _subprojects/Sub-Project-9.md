@@ -7,7 +7,7 @@ order: 8
 sidebar:
 - image: /assets/images/subprojects/flow.png
   image_alt: logo
-  text: 'Lead Company Name: Alpha Unmanned Systems S.L. Country: Spain Topic: Infrastructure,
+  text: 'Lead Company Name: University of Cyprus Country: Cyprus Topic: Infrastructure,
     Transportation, Security & Safety'
   title: Factsheet
 title: AdaptoFlow
