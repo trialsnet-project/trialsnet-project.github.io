@@ -7,8 +7,8 @@ order: 9
 sidebar:
 - image: /assets/images/subprojects/ai4rtc.png
   image_alt: logo
-  text: "Lead Company Name: NARA EGITIM TEKNOLOJILERI A.\u015E. Country: Turkey Topic:\
-    \ eHealth & Emergency"
+  text: "Lead Company Name: Local AI P.C. Country: Greece Topic:\
+    \ Infrastructure, Transportation, Security & Safety"
   title: Factsheet
 title: 'AI4RTC: AI applications for Real-time Charging Load Management'
 ---
