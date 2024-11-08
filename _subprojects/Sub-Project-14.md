@@ -12,6 +12,6 @@ sidebar:
   title: Factsheet
 title: MediVision-5G (eHealth)
 ---
-the MILESTONE project offers a secure AI-enabled worker safety preservation system, by leveraging Plegma Labs’ IoT platform that provides AI computer vision capabilities, coupled with ExcID’s data space platform that provides digital twining functionality, rich data access API, and fine-grained access control
+MediVision-5G provides a ready-to-deploy and transportable, preconfigured 5G network + edge computing platform that requires seconds to be operational and zero knowledge from the operator. The system will also be completely autonomous: it won’t require internet connectivity to operate. The edge platform will host an AR application for medical use with several features to aid the surgeon during open and mixed surgery operations.
 {: .text-justify}
 
