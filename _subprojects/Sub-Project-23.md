@@ -8,7 +8,7 @@ order: 22
 sidebar:
 - image: /assets/images/subprojects/mauto.png
   image_alt: logo
-  text: 'Lead Company Name: Studio 5T srl Country: Italy Topic: Culture, Tourism &
+Milan Institute for Arts and TechnologyStudio 5T srl Country: Italy Topic: Culture, Tourism &
     Entertainment'
   title: Factsheet
 title: "\u201CRemember Ascari\u201D: MR in MAUTO \u2013 Immersive MR Experience in\
