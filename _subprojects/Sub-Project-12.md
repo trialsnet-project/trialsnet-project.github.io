@@ -7,8 +7,7 @@ order: 11
 sidebar:
 - image: /assets/images/subprojects/como5.png
   image_alt: logo
-  text: 'Lead Company Name: A.R. TOUR SRL Country: Italy Topic: Culture, Tourism &
-    Entertainment'
+  text: 'Lead Company Name: University of Pisa Country: Italy Topic: eHealth & Emergency'
   title: Factsheet
 title: 'COMO5: COntinuous MOnitoring of patients with chronic disease via 5G'
 ---
