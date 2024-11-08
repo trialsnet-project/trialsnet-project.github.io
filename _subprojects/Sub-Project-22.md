@@ -13,6 +13,5 @@ sidebar:
   title: Factsheet
 title: "5G AUGMENTED REALITY TOUR FOR THE UNESCO SITE \u201CHISTORICAL CENTER OF NAPLES\u201D"
 ---
-Virtual Reality (VR) technology, superseding in-hospital physiotherapy, while improving :Personalized virtual rehabilitation, Real-time Anomaly detection and Secure data storage
-{: .text-justify}
+The proposed use case is related to the conceptualization, the development and the trial of the tour for the UNESCO historic center of Naples using Augmented Reality (AR). Tourists will be able to access the tour directly from their mobile devices by scanning a QR Code and connecting to a WEB APP.{: .text-justify}
 
