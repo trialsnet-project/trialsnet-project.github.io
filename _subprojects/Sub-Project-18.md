@@ -7,7 +7,7 @@ order: 17
 sidebar:
 - image: /assets/images/subprojects/turin5games.png
   image_alt: logo
-  text: 'Lead Company Name: Atos/Eviden Country: Spain Topic: eHealth & Emergency'
+  text: 'Lead Company Name: Domethics srl Country: Italy Topic: Culture, Tourism & Entertainment'
   title: Factsheet
 title: Turin5Games
 ---
