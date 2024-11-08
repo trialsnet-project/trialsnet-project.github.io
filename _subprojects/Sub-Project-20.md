@@ -8,8 +8,8 @@ order: 19
 sidebar:
 - image: /assets/images/subprojects/6gvision.png
   image_alt: logo
-  text: 'Lead Company Name: Milan Institute for Arts and Technology Country: Italy
-    Topic: Culture, Tourism & Entertainment'
+  text: 'Lead Company Name: Allbesmart LDA Country: Belgium
+    Topic: Infrastructure, Transportation, Security & Safety'
   title: Factsheet
 title: '6GVision: Improvement of the 5GOpen testbed at imec with vision-aided mmW
   gNB'
