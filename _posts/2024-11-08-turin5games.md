@@ -14,6 +14,6 @@ The two weeks of testing will help Domethics gather data about the solution impl
 
 The event has been reported in the [national press](https://www.lastampa.it/torinosette/2024/11/01/news/videogame_le_ultime_novita-14768487/).
 
-{% include figure image_path="/assets/images/newsstampa.png" alt="Turin5Games testing on the national press." caption="Turin5Games testing on the national press." %}
+{% include figure image_path="/assets/images/news/stampa.png" alt="Turin5Games testing on the national press." caption="Turin5Games testing on the national press." %}
 
 
