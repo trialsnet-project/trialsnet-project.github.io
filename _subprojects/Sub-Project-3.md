@@ -12,6 +12,6 @@ sidebar:
   title: Factsheet
 title: SkyLink Vision
 ---
-5GS3 aims to build on top of the provisions of the TrailsNet infrastructure elements to validate a reference implementation of an airport surveillance and patrolling 5G-enabled application that is based on the collaboration of electric robots over an experimental private 5G network at the location of security and safety events, which may result in operational halts and threats to the safety of the aviation industry itself.
+The SkyLink Vision (SLV) project, powered by the advanced capabilities of 5G technology, continues to redefine the landscape of aerial surveillance and data analysis. Central to its operation is the deployment of Unmanned Aerial Vehicles (UAVs) equipped with high-resolution cameras, designed for capturing live video feeds in a multitude of environments.
 {: .text-justify}
 
