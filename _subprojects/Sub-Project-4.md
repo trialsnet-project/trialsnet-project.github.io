@@ -12,6 +12,6 @@ sidebar:
   title: Factsheet
 title: CITY4ALL
 ---
-The trial aims to assess capabilities of 5G and beyond technologies for latency and bandwidth challenging scenarios in both standard and “hot spot” crowded environments (“massive venue” scenarios) as well as system requirements and possible standardization opportunities.
+The objective of the experimentation is to create a VR game that can help raise awareness among the new generation of students about the need for a collective effort so that the communities in which we live can be truly inclusive and foster the full participation of people with disabilities.
 {: .text-justify}
 
