@@ -7,8 +7,7 @@ order: 20
 sidebar:
 - image: /assets/images/subprojects/dreampark.png
   image_alt: logo
-  text: 'Lead Company Name: Local AI P.C. Country: Greece Topic: Infrastructure, Transportation,
-    Security & Safety'
+  text: 'Lead Company Name: AnotheReality Srl Country: Italy Topic: ICulture, Tourism & Entertainment'
   title: Factsheet
 title: DREAMPARK
 ---
