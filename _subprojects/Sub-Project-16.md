@@ -7,8 +7,7 @@ order: 15
 sidebar:
 - image: /assets/images/subprojects/vireh.png
   image_alt: logo
-  text: 'Lead Company Name: TNO Country: Belgium Topic: Infrastructure, Transportation,
-    Security & Safety'
+  text: 'Lead Company Name: Università degli Studi Roma Tre Country: Italy Topic: Culture, Tourism & Entertainment'
   title: Factsheet
 title: '5GVIREH: Virtual Reality Enhanced Rehabilitation'
 ---
