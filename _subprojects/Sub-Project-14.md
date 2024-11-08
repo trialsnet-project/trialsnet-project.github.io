@@ -7,8 +7,7 @@ order: 13
 sidebar:
 - image: /assets/images/subprojects/medivision.png
   image_alt: logo
-  text: 'Lead Company Name: PLEGMA LABS TECHNOLOGIES Country: Greece Topic: Infrastructure,
-    Transportation, Security & Safety'
+  text: 'Lead Company Name: Neutroon Technologies S.L. Country: Spain Topic: eHealth & Emergency'
   title: Factsheet
 title: MediVision-5G (eHealth)
 ---
