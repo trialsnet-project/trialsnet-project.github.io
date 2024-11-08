@@ -7,8 +7,8 @@ order: 16
 sidebar:
 - image: /assets/images/subprojects/stadium.png
   image_alt: logo
-  text: 'Lead Company Name: CNC Solutions - P.Gounas K.Enezlis O.E. Country: Greece
-    Topic: Infrastructure, Transportation, Security & Safety'
+  text: 'Lead Company Name: RunEL NGMT Ltd Country: Israel
+    Topic: Culture, Tourism & Entertainment'
   title: Factsheet
 title: Beyond 5G Football Stadium
 ---
