@@ -12,10 +12,6 @@ sidebar:
   title: Factsheet
 title: Remote Coordination and Interworking of First Responders in Emergency Situations
 ---
-MediVision-5G provides a ready-to-deploy and transportable, preconfigured 5G network + edge computing
-platform that requires seconds to be operational and zero knowledge from the operator. The system will also
-be completely autonomous: it won’t require internet connectivity to operate. The edge platform will host an
-AR application for medical use with several features to aid the surgeon during open and mixed surgery
-operations.
+This use case aims at enabling the remote coordination and interworking of different public agencies or first-responders by providing a complete 5G MCx solution, which will integrate a 5G-Advanced interworking function (IWF) designed to support the delivery of MCx over 5G and the interworking with legacy critical communication systems like PBX.
 {: .text-justify}
 
