@@ -12,6 +12,6 @@ sidebar:
   title: Factsheet
 title: 5G-enabled Secure Surveillance System (5GS3)
 ---
-Operate a complex Private 5G Cellular Network embedded within a Public Network that simultaneously support SA and NSA modes in a crowded area with thousands of active cellular subscribers using data hungry new applications and services. It has to be highlighted that since the Network is part of a Tier-1 Cellular Public network it complies with all the regulations, certifications, performance requirements, security and privacy requirements of a “Carrier Grade” cellular network.
+5GS3 aims to build on top of the provisions of the TrailsNet infrastructure elements to validate a reference implementation of an airport surveillance and patrolling 5G-enabled application that is based on the collaboration of electric robots over an experimental private 5G network at the location of security and safety events, which may result in operational halts and threats to the safety of the aviation industry itself.
 {: .text-justify}
 
