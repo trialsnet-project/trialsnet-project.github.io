@@ -7,7 +7,7 @@ order: 3
 sidebar:
 - image: /assets/images/subprojects/city4all.png
   image_alt: logo
-  text: 'Lead Company Name: Domethics srl Country: Italy Topic: Culture, Tourism &
+  text: 'Lead Company Name: EURIX SRL Country: Italy Topic: Culture, Tourism &
     Entertainment'
   title: Factsheet
 title: CITY4ALL
