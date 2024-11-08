@@ -7,8 +7,7 @@ order: 4
 sidebar:
 - image: /assets/images/subprojects/premset.png
   image_alt: logo
-  text: 'Lead Company Name: Stendhapp srl Country: Italy Topic: Culture, Tourism &
-    Entertainment'
+  text: 'Lead Company Name: Nemergent Solutions SL Country: Spain Topic: Infrastructure, Transportation, Security & Safety'
   title: Factsheet
 title: AI/ML-based Preventive and Reactive Emergency handling  (AI-PREMSET-MCX)
 ---
