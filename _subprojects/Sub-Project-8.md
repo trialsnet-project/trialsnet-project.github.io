@@ -11,6 +11,6 @@ sidebar:
   title: Factsheet
 title: Intelligent control of interconnected manufacturing infrastructures (i-CNC)
 ---
-The COMO5 use case aims at demonstrating how 5G advancements can be exploited to further improve the management of patients with chronic diseases by implementing novel approaches to telemedicine that involve not only continuous monitoring but also real-time data collection / analysis and live interaction with healthcare professionals.
+Develop and assess an end-to-end use case in CNC machining that changes the current paradigm of human-based trial-and-error chattering supervision, towards a cloud-based and AI-enabled autonomous chattering control. The use case shall be able to a) measure and analyze reliably indicators related to the progress of the milling process, the machine state, and the workpiece conditions; and b) apply remote and instant decision-making that can guarantee operation compliant with the manufacturing standards.
 {: .text-justify}
 
