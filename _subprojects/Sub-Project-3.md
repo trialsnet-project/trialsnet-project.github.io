@@ -7,7 +7,7 @@ order: 2
 sidebar:
 - image: /assets/images/subprojects/skylink.png
   image_alt: logo
-  text: 'Lead Company Name: ZELUS PC Country: Greece Topic: Infrastructure, Transportation,
+  text: 'Lead Company Name: Alpha Unmanned Systems S.L. Country: Spain Topic: Infrastructure, Transportation,
     Security & Safety'
   title: Factsheet
 title: SkyLink Vision
