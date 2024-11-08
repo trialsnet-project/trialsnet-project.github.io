@@ -6,7 +6,7 @@ categories:
 header:
   teaser: /assets/images/news/stampa2.png
 ---
-In the context of a Commercial Center in Turin (Italy), the Use Case Turin5Games from TrialsNet's Open Call is live-testing 5G network for video games. The test will last 2 weeks (until November, 17th) and is allowing final users to play popular video games for free, over multiple gaming stations equipped with mobile phones and TVs. The sub-project selected video games such as Tiebreak, Fifa 24, WTA, GTA 5, and more. The games run on two servers, located in Milan (Italy) and Zurich (Switzerland), and reached through the 5G network.
+In the context of a Shopping Center in Turin (Italy), the Use Case Turin5Games from TrialsNet's Open Call is live-testing 5G network for video games. The test will last 2 weeks (until November, 17th) and is allowing final users to play popular video games for free, over multiple gaming stations equipped with mobile phones and TVs. The sub-project selected video games such as Tiebreak, Fifa 24, WTA, GTA 5, and more. The games run on two servers, located in Milan (Italy) and Zurich (Switzerland), and reached through the 5G network.
 {: .text-justify}
 
 The two weeks of testing will help Domethics gather data about the solution implementation, which will be analyzed and shared afterward.
