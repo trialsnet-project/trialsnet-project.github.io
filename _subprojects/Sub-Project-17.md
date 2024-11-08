@@ -12,6 +12,6 @@ sidebar:
   title: Factsheet
 title: Beyond 5G Football Stadium
 ---
-Develop and assess an end-to-end use case in CNC machining that changes the current paradigm of human-based trial-and-error chattering supervision, towards a cloud-based and AI-enabled autonomous chattering control. The use case shall be able to a) measure and analyze reliably indicators related to the progress of the milling process, the machine state, and the workpiece conditions; and b) apply remote and instant decision-making that can guarantee operation compliant with the manufacturing standards
+Operate a complex Private 5G Cellular Network embedded within a Public Network that simultaneously support SA and NSA modes in a crowded area with thousands of active cellular subscribers using data hungry new applications and services. It has to be highlighted that since the Network is part of a Tier-1 Cellular Public network it complies with all the regulations, certifications, performance requirements, security and privacy requirements of a “Carrier Grade” cellular network.
 {: .text-justify}
 
