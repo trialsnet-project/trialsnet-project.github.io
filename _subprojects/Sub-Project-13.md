@@ -7,8 +7,7 @@ order: 12
 sidebar:
 - image: /assets/images/subprojects/metaclinic.png
   image_alt: logo
-  text: 'Lead Company Name: Nemergent Solutions SL Country: Spain Topic: Infrastructure,
-    Transportation, Security & Safety'
+  text: 'Lead Company Name: NARA EGITIM TEKNOLOJILERI A.S. Country: Turkey Topic: eHealth & Emergency'
   title: Factsheet
 title: METACLINIC
 ---
