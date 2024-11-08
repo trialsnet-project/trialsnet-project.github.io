@@ -7,8 +7,7 @@ order: 1
 sidebar:
 - image: /assets/images/subprojects/5gs3.png
   image_alt: logo
-  text: 'Lead Company Name: RunEL NGMT Ltd Country: Israel Topic: Culture, Tourism
-    & Entertainment'
+  text: 'Lead Company Name: ZELUS PC Country: Greece Topic: Infrastructure, Transportation, Security & Safety'
   title: Factsheet
 title: 5G-enabled Secure Surveillance System (5GS3)
 ---
