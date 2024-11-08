@@ -11,6 +11,6 @@ sidebar:
   title: Factsheet
 title: Turin5Games
 ---
-This use case aims at enabling the remote coordination and interworking of different public agencies or first-responders by providing a complete 5G MCx solution, which will integrate a 5G-Advanced interworking function (IWF) designed to support the delivery of MCx over 5G and the interworking with legacy critical communication systems like PBX.
+The trial aims to assess capabilities of 5G and beyond technologies for latency and bandwidth challenging scenarios in both standard and “hot spot” crowded environments (“massive venue” scenarios) as well as system requirements and possible standardization opportunities.
 {: .text-justify}
 
