@@ -12,11 +12,6 @@ sidebar:
   title: Factsheet
 title: 'Torino 4U: 10 things to see around you'
 ---
-Introduction of AdaptoFlow for the TrialsNet UC1 and UC4. The focal point of
-AdaptoFlow is to introduce a service capable of supporting and enriching AI/ML inference for use-cases
-deployed in geo-distributed realms so that data movement, energy consumption and network bandwidth are
-reduced by adapting the intensity of the execution at runtime taking into account the evolution of the IoT
-generated data, the state of the underlying edge compute resources, and a set of predefined user preferences,
-all while still maintaining acceptable accuracy guarantees requested by the UC operators.
+The aim is to offer citizens and cultural tourists of Torino an AI powered, tailor-made, cultural proposal, exploiting the full potential of 5G and augmented reality to increase the enjoyment of cultural places and events, favoring proximity and thus more sustainable travel
 {: .text-justify}
 
