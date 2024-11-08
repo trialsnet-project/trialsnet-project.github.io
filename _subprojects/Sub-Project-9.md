@@ -12,6 +12,6 @@ sidebar:
   title: Factsheet
 title: AdaptoFlow
 ---
-The SkyLink Vision (SLV) project, powered by the advanced capabilities of 5G technology, continues to redefine the landscape of aerial surveillance and data analysis. Central to its operation is the deployment of Unmanned Aerial Vehicles (UAVs) equipped with high-resolution cameras, designed for capturing live video feeds in a multitude of environments.
+Introduction of AdaptoFlow for the TrialsNet UC1 and UC4. The focal point of AdaptoFlow is to introduce a service capable of supporting and enriching AI/ML inference for use-cases deployed in geo-distributed realms so that data movement, energy consumption and network bandwidth are reduced by adapting the intensity of the execution at runtime taking into account the evolution of the IoT generated data, the state of the underlying edge compute resources, and a set of predefined user preferences, all while still maintaining acceptable accuracy guarantees requested by the UC operators.
 {: .text-justify}
 
