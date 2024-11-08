@@ -12,6 +12,6 @@ sidebar:
   title: Factsheet
 title: MILESTONE - A REAL-TIME AI-ENABLED WORKER SAFETY PRESERVATION SYSTEM
 ---
-This project will implement and demonstrate a vision-aided proactive handover process to overcome the LOS blockage challenge in 5G FR2. Collocated with the gNB is a LIDAR sensor and an edge node for ML processing to forecast LOS blockage events
+the MILESTONE project offers a secure AI-enabled worker safety preservation system, by leveraging Plegma Labs’ IoT platform that provides AI computer vision capabilities, coupled with ExcID’s data space platform that provides digital twining functionality, rich data access API, and fine-grained access control.
 {: .text-justify}
 
