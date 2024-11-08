@@ -7,7 +7,7 @@ order: 5
 sidebar:
 - image: /assets/images/subprojects/milestone.png
   image_alt: logo
-  text: 'Lead Company Name: Allbesmart LDA Country: Belgium Topic: Infrastructure,
+  text: 'Lead Company Name: PLEGMA LABS TECHNOLOGIES Country: Greece Topic: Infrastructure,
     Transportation, Security & Safety'
   title: Factsheet
 title: MILESTONE - A REAL-TIME AI-ENABLED WORKER SAFETY PRESERVATION SYSTEM
