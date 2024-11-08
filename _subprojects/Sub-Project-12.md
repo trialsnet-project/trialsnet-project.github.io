@@ -12,6 +12,6 @@ sidebar:
   title: Factsheet
 title: 'COMO5: COntinuous MOnitoring of patients with chronic disease via 5G'
 ---
-The proposed use case is related to the conceptualization, the development and the trial of the tour for the UNESCO historic center of Naples using Augmented Reality (AR). Tourists will be able to access the tour directly from their mobile devices by scanning a QR Code and connecting to a WEB APP.
+The COMO5 use case aims at demonstrating how 5G advancements can be exploited to further improve the management of patients with chronic diseases by implementing novel approaches to telemedicine that involve not only continuous monitoring but also real-time data collection / analysis and live interaction with healthcare professionals.
 {: .text-justify}
 
