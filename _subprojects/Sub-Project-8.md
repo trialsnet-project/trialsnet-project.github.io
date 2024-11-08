@@ -7,7 +7,7 @@ order: 7
 sidebar:
 - image: /assets/images/subprojects/cnc.png
   image_alt: logo
-  text: 'Lead Company Name: University of Pisa Country: Italy Topic: eHealth & Emergency'
+  text: 'Lead Company Name: CNC Solutions - P.Gounas K.Enezlis O.E. Country: Greece Topic: Infrastructure, Transportation, Security & Safety'
   title: Factsheet
 title: Intelligent control of interconnected manufacturing infrastructures (i-CNC)
 ---
