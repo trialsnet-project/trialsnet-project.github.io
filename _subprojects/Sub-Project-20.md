@@ -14,20 +14,6 @@ sidebar:
 title: '6GVision: Improvement of the 5GOpen testbed at imec with vision-aided mmW
   gNB'
 ---
-Extension of UC 13 to include the National Museum in Turin. 
-The private 5G network that will be installed for the trial will be stressed by use of AR, VR with video
-requiring high throughput and low latency. Moreover, the Museo host several models of past
-Formula 1 cars, which will attract a passionate public which will ensure both high participation in the
-trials and further exploitation of such innovative approach to other exhibition of the kind. The main
-challenges are the following:
-- Elevated Visitor Engagement: The incorporation of AR and VR elements promises to create a
-more captivating and educational experience, fostering prolonged visitor engagement and
-encouraging repeat visits.
-- Rigorous 5G Network Stress Test: The demanding nature of AR and VR, within the museum
-setting serves as a rigorous stress test for the TrialsNet 5G network, validating its capabilities under
-high-throughput and low-latency requirements.
-- Potential for Future Exhibitions: The success of this extended use case holds the potential to
-reshape the role of private 5G networks in cultural institutions globally, paving the way for broader
-adoption and technological integration in museum landscapes.
+This project will implement and demonstrate a vision-aided proactive handover process to overcome the LOS blockage challenge in 5G FR2. Collocated with the gNB is a LIDAR sensor and an edge node for ML processing to forecast LOS blockage events
 {: .text-justify}
 
