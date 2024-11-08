@@ -7,7 +7,7 @@ order: 14
 sidebar:
 - image: /assets/images/subprojects/remotecoord.png
   image_alt: logo
-  text: 'Lead Company Name: Neutroon Technologies S.L. Country: Spain Topic: eHealth
+  text: 'Lead Company Name: Atos-Eviden Country: Spain Topic: eHealth
     & Emergency'
   title: Factsheet
 title: Remote Coordination and Interworking of First Responders in Emergency Situations
