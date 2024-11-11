@@ -1,6 +1,6 @@
 ---
-title:  "Turin5Games Live Testing in Turin"
-excerpt: "The Turin5Games Use Case from TrialsNet OpenCall is Testing 5G Technology for Videogames with Remote Server"
+title:  "Turin5Games trial in Turin"
+excerpt: "The Turin5Games sub-project from TrialsNet OpenCall started its trial activity based on Cloud Gaming over 5G technology"
 categories: 
   - News
 header:
