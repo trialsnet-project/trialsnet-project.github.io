@@ -4,7 +4,7 @@ excerpt: "The 6GVision sub-project from TrialsNet OpenCall started its testing a
 categories: 
   - News
 header:
-  teaser: /assets/images/news/imec6GVision.png
+  teaser: /assets/images/news/imec6GVisionB.png
 ---
 Last week, Allbesmart, as an integrant of the sub-project 6GVision from the Open Call, visited imec as part of their trial planning. 
 {: .text-justify}
