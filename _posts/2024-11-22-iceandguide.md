@@ -1,6 +1,6 @@
 ---
-title:  "TrialsNet at SNS ICE and GUIDE"
-excerpt: "TrialsNet was present at the SNS ICE and GUIDE on November 20th, 2024"
+title:  "TrialsNet at SNS ICE and GUIDE webinar"
+excerpt: "TrialsNet was present at the SNS ICE and GUIDE webinar on November 20th, 2024"
 categories: 
   - Events
 header:
