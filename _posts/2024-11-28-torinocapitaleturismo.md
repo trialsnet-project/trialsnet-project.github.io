@@ -1,0 +1,27 @@
+---
+title:  "Turin, European Capital of Innovation"
+excerpt: "The city of Turin has been awarded as European Capital of Innovation, thanks to its ability to act as a living lab for innovative solutions in urban environments"
+categories: 
+  - News
+header:
+  teaser: /assets/images/news/torino.jpg
+---
+The City of Torino has been awarded a new and prestigious international honor, being named the “European Capital of Smart Tourism” for 2025, an initiative promoted by the European Commission.
+{: .text-justify}
+
+Following the recent title of “European Capital of Innovation,” the city has once again been recognized at the European level, this time for its excellence in smart tourism by promoting sustainable and innovative solutions.
+{: .text-justify}
+
+Torino was shortlisted alongside six other European cities, selected by the European Commission from a pool of 21 candidates across 10 countries. Along with the Piedmontese capital, the finalists included Genova, Bruxelles, Konya, Lahti, Lviv, and Porto.
+{: .text-justify}
+
+The recognition is awarded annually to the European city that stands out as a leading tourist destination based on four key criteria: sustainability, accessibility, digitalization, cultural heritage, and creativity.
+{: .text-justify}
+
+Regarding the digitalization criterion, emphasis has been placed on the city’s ability to act as a living lab for innovative solutions in urban environments, providing a real-world testing ground for the implementation of advanced technologies, also focused on culture and tourism. Research projects such as TRIALSNET have certainly contributed to this effort, demonstrating how it is possible to guarantee an efficient collaboration between public administration, private enterprises, and research institutions strengthening the tourism offer with innovative solutions.
+{: .text-justify}
+
+The City has been recognized for its ability to combine tradition with innovation, enhancing its historical and cultural heritage as well as its natural assets through new digital technologies and creative projects.
+{: .text-justify}
+
+{% include figure image_path="/assets/images/news/torino.jpg" alt="Turin, European Capital of Smart Tourism." caption="Turin, European Capital of Smart Tourism. Picture by Enrico Aretini." %}
