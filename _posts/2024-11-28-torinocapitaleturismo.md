@@ -6,7 +6,7 @@ categories:
 header:
   teaser: /assets/images/news/torino.jpg
 ---
-The City of Torino has been awarded two new and prestigious international honors by the European Commission, being named the “[European Capital of Smart Tourism 2025](https://www.traveldailynews.com/special-interest-travel/torino-and-benidorm-selected-as-2025-european-capital-and-green-pioneer-of-smart-tourism/#:~:text=Torino%20and%20Benidorm%20selected%20as,Green%20Pioneer%20of%20Smart%20Tourism&text=Torino%20and%20Benidorm%20win%20the,%2C%20digitalization%2C%20and%20cultural%20heritage.)”, as well as "[European Capital on Innovation 2024-25](https://eic.ec.europa.eu/news/new-european-capital-innovation-announced-torino-and-braga-are-winners-years-icapital-awards-2024-11-13_en)".
+The City of Torino has been awarded two new and prestigious international honors by the European Commission, being named the “[European Capital of Smart Tourism 2025](https://smart-tourism-capital.ec.europa.eu/torino-2025-european-capital-smart-tourism_en)”, as well as "[European Capital on Innovation 2024-25](https://eic.ec.europa.eu/news/new-european-capital-innovation-announced-torino-and-braga-are-winners-years-icapital-awards-2024-11-13_en)".
 {: .text-justify}
 
 Following the recent title of “European Capital of Innovation,” the city has once again been recognized at the European level, this time for its excellence in smart tourism by promoting sustainable and innovative solutions.
