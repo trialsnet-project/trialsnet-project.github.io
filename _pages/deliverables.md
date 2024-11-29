@@ -34,7 +34,7 @@ toc: true
 ## WP6 Validation & dissemination 
 
 - [D6.1 First report on validation and dissemination activities](https://zenodo.org/records/10058287) (pending approval)
-- D6.2 Second report on validation and dissemination activities (11/24)
+- [D6.2 Second report on validation and dissemination activities](https://zenodo.org/records/14245268) (pending approval)
 - D6.3 Final report on validation and dissemination activities (12/25)
 
 ## WP7 Open Call and Support to Third Parties 
