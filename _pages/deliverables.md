@@ -10,7 +10,7 @@ toc: true
 
 - [D2.1 Preliminary design aspects for Platforms and Networks solutions](https://zenodo.org/record/8108305) (pending approval)
 - [D2.2	Intermediate design of Platforms and Networks solutions](https://zenodo.org/records/11127768) (pending approval)
-- D2.3	Final design of Platforms and Networks solutions (12/24)
+- [D2.3	Final design of Platforms and Networks solutions](https://zenodo.org/records/14512906) (pending approval)
 - D2.4	Final Platforms and Networks solutions integration and deployments (06/25)
 		
 ## WP3 Use Cases for Infrastructure, Environment, Security & Safety
