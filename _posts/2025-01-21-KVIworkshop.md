@@ -17,6 +17,7 @@ More information on the event [webpage](https://6g4society.eu/event/6g4society-t
 {: .text-justify}
 
 **Date & Time:** 6 February 2025, 10:00-12:20 CET
+{: .text-justify}
 **Registration Information:** [here](https://6g4society.eu/event/6g4society-trialsnet-workshop-/) 
 {: .text-justify}
 
