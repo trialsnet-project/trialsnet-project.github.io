@@ -1,5 +1,5 @@
 ---
-title:  "KVI workshop - Jointly Organised 6G4Society and TRIALSNET"
+title:  "Workshop on Objective and Subjective Approaches to KVIs – Jointly organized by TrialsNet and 6G4Society"
 excerpt: Objective and Subjective Approaches to Key Value Indicators - Sharing methodological approaches and evaluation instruments. Jointly Organised Workshop by 6G4Society and TRIALSNET.
 categories: 
   - Events
