@@ -9,24 +9,18 @@ classes:
 toc: true
 ---
 
-## Privacy Policy
-
-This questionnaire gathers your socio-demographic information and your input on the VR experience. You have the right to withdraw your consent at any time. Please read the following disclaimer to understand how your data will be handled.
-{: .text-justify}
-
 ## Introduction
-
 You are invited to participate in research conducted by Telefónica and YBVR about virtual reality experiences using beyond 5G/6G technology. This is part of the quantitative study for Use Case 10 of Trialsnet, a project funded by the European Union's Horizon-JU-SNS-2022 Research and Innovation Programme. Your participation in this study is entirely voluntary, and the results will be anonymous. You have the right to withdraw your consent at any time. Please read the information below and ask questions about anything you do not understand before deciding whether or not to participate. If you have any doubts or questions, kindly contact grace.burkett@ybvr.com. The results of this survey will be analyzed using Partial Least Squares Structural Equation Modeling.
 {: .text-justify}
 
 ## Video broadcasting
-The right to one&#39;s own image does not prevent the provision of graphic information about a public event when the image of a specific individual appears merely incidentally, as is the case with attendees at a sports event. 
+The right to one's own image does not prevent the provision of graphic information about a public event when the image of a specific individual appears merely incidentally, as is the case with attendees at a sports event. 
 {: .text-justify}
 
 For the purpose of this research event, participants of Trialsnet validation test under the age of 18 will not be allowed. No sensitive or personal data will be collected during the test.
 {: .text-justify}
 
-None of the participants&#39; rights and freedoms are compromised in any way.
+None of the participants' rights and freedoms are compromised in any way.
 {: .text-justify}
 
 Transparency and Consent are obtained from individual surveys distributed to the respondents.
@@ -48,7 +42,6 @@ following disclaimer to understand how your data will be handled.
 {: .text-justify}
 
 ## Data Protection
-
 Neutrality and impartiality are guaranteed in the management and production of statistics, as well as confidentiality in the collection and treatment of individual data. Your responses will NOT be analyzed individually but through AGGREGATE STATISTICAL TREATMENT, which ensures that INDIVIDUAL IDENTIFICATION of participants is NOT possible. NO PERSONAL DATA will be stored, in compliance with current data protection regulations. All information will be treated confidentially in accordance with the General Data Protection Regulation (EU) 2016/679 and the Council of April 27, 2016, on the protection of personal data.
 {: .text-justify}
 
@@ -106,10 +99,6 @@ Neutrality and impartiality are guaranteed in the management and production of s
 ---
 
 # Español
-
-## Política de privacidad
-Este cuestionario recopila su información sociodemográfica y su opinión sobre la experiencia de realidad virtual. Usted tendrá el derecho de retirar su consentimiento en cualquier momento. Por favor, lea el siguiente aviso para entender cómo se manejarán sus datos.
-{: .text-justify}
 
 ## Introducción 
 Se le invita a participar en una investigación llevada a cabo por Telefónica y YBVR sobre la experiencia de realidad virtual utilizando tecnología 5G/6G evolucionado. Esto forma parte del estudio cuantitativo para el caso de uso 10 de Trialsnet, un proyecto financiado por el Programa de Investigación e Innovación Horizon-JU-SNS-2022 de la Unión Europea. Su participación en este estudio es completamente voluntaria y los resultados serán anónimos. Tendrá el derecho de retirar su consentimiento en cualquier momento. Debe leer la información a continuación y hacer preguntas sobre cualquier aspecto que no entienda antes de decidir si desea o no participar. Si tiene alguna duda o pregunta, por favor, póngase en contacto con grace.burkett@ybvr.com.
