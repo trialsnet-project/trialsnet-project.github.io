@@ -31,3 +31,5 @@ The upcoming phases of the use case will involve a thorough examination of the f
 
 {% include figure image_path="/assets/images/uc5.png" alt="Different phases of the UC5 Trial." caption="Different phases of the UC5 Trial." %}
 
+A video of the trial is available [here](https://www.youtube.com/watch?v=SZspK2B5h-k)
+
