@@ -15,7 +15,7 @@ title: UC5 - Control Room in Metaverse
 The purpose of this use case is to employ Extended Reality (XR), Metaverse, Digital Twin, and IoT technologies for remote, multi-agency, and environment-tailored XR training and real-time visualization of behavioral anomalies/ movement patterns. UC5 enhances the management of large events and situations of panic by contributing to improved decision-making and reduced intervention times in the event of an emergency on the side of emergency responders. The target environment is the events area at Valentino Park.
 {: .text-justify}
 
-** Trial **
+### Trial
 
 The first trial of the TrialsNet project has been successfully conducted in Turin on 15th October 2024. In particular, the trial focused on Use Case 5 “Control Room in the Metaverse”, which targets the enhancement of the safety and security forces’ operations through the development of a web-based application. A key feature of the UC5 is the creation of a collaborative Metaverse Control Room (MCR) that can be accessed from any location using a security code using VR headsets and/or tablets. Inside the MCR the various officers can coordinate between them and receive real-time information from the location of the accident. The use case also aimed to evaluate the capability of the current deployment of the public 5G network in supporting this innovative application.
 {: .text-justify}
