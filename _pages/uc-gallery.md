@@ -4,7 +4,7 @@ layout: single
 collection: usecases
 news: posts
 entries_layout: grid
-title: TrialsNet Use Cases
+title: Project's Use Cases
 filter: wp5
 toc: true
 classes:

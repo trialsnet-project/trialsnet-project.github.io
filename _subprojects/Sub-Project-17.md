@@ -4,6 +4,7 @@ excerpt: Beyond 5G Football Stadium
 header:
   teaser: /assets/images/subprojects/stadium.png
 order: 16
+wp: wp5
 sidebar:
 - image: /assets/images/subprojects/stadium.png
   image_alt: logo

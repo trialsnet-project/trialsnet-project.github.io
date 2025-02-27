@@ -4,6 +4,7 @@ excerpt: CITY4ALL
 header:
   teaser: /assets/images/subprojects/city4all.png
 order: 3
+wp: wp5
 sidebar:
 - image: /assets/images/subprojects/city4all.png
   image_alt: logo

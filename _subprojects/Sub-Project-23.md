@@ -5,6 +5,8 @@ excerpt: "\u201CRemember Ascari\u201D: MR in MAUTO \u2013 Immersive MR Experienc
 header:
   teaser: /assets/images/subprojects/mauto.png
 order: 22
+wp: wp5
+
 sidebar:
 - image: /assets/images/subprojects/mauto.png
   image_alt: logo

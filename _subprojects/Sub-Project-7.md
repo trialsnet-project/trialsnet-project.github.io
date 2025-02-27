@@ -4,6 +4,7 @@ excerpt: Automated Tele-Operated Sustainable (ATOS) driving
 header:
   teaser: /assets/images/subprojects/atos.png
 order: 6
+wp: wp3
 sidebar:
 - image: /assets/images/subprojects/atos.png
   image_alt: logo

@@ -4,6 +4,7 @@ excerpt: AdaptoFlow
 header:
   teaser: /assets/images/subprojects/flow.png
 order: 8
+wp: wp3
 sidebar:
 - image: /assets/images/subprojects/flow.png
   image_alt: logo

@@ -4,6 +4,7 @@ excerpt: MILESTONE - A REAL-TIME AI-ENABLED WORKER SAFETY PRESERVATION SYSTEM
 header:
   teaser: /assets/images/subprojects/milestone.png
 order: 5
+wp: wp3
 sidebar:
 - image: /assets/images/subprojects/milestone.png
   image_alt: logo

@@ -4,6 +4,8 @@ excerpt: 'AI4RTC: AI applications for Real-time Charging Load Management'
 header:
   teaser: /assets/images/subprojects/ai4rtc.png
 order: 9
+wp: wp3
+
 sidebar:
 - image: /assets/images/subprojects/ai4rtc.png
   image_alt: logo

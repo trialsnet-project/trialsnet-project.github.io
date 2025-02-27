@@ -4,6 +4,7 @@ excerpt: 5G-enabled Secure Surveillance System (5GS3)
 header:
   teaser: /assets/images/subprojects/5gs3.png
 order: 1
+wp: wp3
 sidebar:
 - image: /assets/images/subprojects/5gs3.png
   image_alt: logo

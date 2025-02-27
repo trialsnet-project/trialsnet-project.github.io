@@ -4,8 +4,9 @@ excerpt: 'Torino 4U: 10 things to see around you'
 header:
   teaser: /assets/images/subprojects/torino4u.png
 order: 18
+wp: wp5
 sidebar:
-- image: /assets/images/subprojects/torino4u.pngg
+- image: /assets/images/subprojects/torino4u.png
   image_alt: logo
   text: 'Lead Company Name: Stendhapp srl Country: Italy Topic: Culture, Tourism & Entertainment'
   title: Factsheet

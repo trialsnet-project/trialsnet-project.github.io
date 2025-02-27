@@ -4,6 +4,7 @@ excerpt: Mobile Augmented Reality for Outdoor PoI Enrichment
 header:
   teaser: /assets/images/subprojects/poi.png
 order: 23
+wp: wp5
 sidebar:
 - image: /assets/images/subprojects/poi.png
   image_alt: logo

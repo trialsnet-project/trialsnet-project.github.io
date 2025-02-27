@@ -1,12 +1,12 @@
 main:
-  - title: "Project Overview"
-    url: /about/
-  - title: "Use Cases"
+  - title: "Project's Use Cases"
     url: /uc-gallery/
+  - title: "Open Call's Use Cases"
+    url: /subprojects/
   - title: "Documentation"
     url: /documentation/
-  - title: "Open Call"
-    url: /subprojects/
+  - title: "Project Overview"
+    url: /about/
   - title: "News and Events"
     url: /news-events/
   - title: "Contact Us"

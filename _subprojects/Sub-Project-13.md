@@ -4,6 +4,8 @@ excerpt: METACLINIC
 header:
   teaser: /assets/images/subprojects/metaclinic.png
 order: 12
+wp: wp4
+
 sidebar:
 - image: /assets/images/subprojects/metaclinic.png
   image_alt: logo

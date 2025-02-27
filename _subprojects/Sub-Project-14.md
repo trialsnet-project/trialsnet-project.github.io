@@ -4,6 +4,7 @@ excerpt: MediVision-5G (eHealth)
 header:
   teaser: /assets/images/subprojects/medivision.png
 order: 13
+wp: wp4
 sidebar:
 - image: /assets/images/subprojects/medivision.png
   image_alt: logo
