@@ -4,6 +4,7 @@ excerpt: SkyLink Vision
 header:
   teaser: /assets/images/subprojects/skylink.png
 order: 2
+wp: wp3
 sidebar:
 - image: /assets/images/subprojects/skylink.png
   image_alt: logo

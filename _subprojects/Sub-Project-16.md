@@ -4,6 +4,7 @@ excerpt: '5GVIREH: Virtual Reality Enhanced Rehabilitation'
 header:
   teaser: /assets/images/subprojects/vireh.png
 order: 15
+wp: wp5
 sidebar:
 - image: /assets/images/subprojects/vireh.png
   image_alt: logo

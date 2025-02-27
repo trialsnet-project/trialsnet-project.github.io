@@ -4,6 +4,7 @@ excerpt: Intelligent control of interconnected manufacturing infrastructures (i-
 header:
   teaser: /assets/images/subprojects/cnc.png
 order: 7
+wp: wp3
 sidebar:
 - image: /assets/images/subprojects/cnc.png
   image_alt: logo

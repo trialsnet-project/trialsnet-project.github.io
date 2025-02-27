@@ -5,6 +5,8 @@ excerpt: '6GVision: Improvement of the 5GOpen testbed at imec with vision-aided 
 header:
   teaser: /assets/images/subprojects/6gvision.png
 order: 19
+wp: wp3
+
 sidebar:
 - image: /assets/images/subprojects/6gvision.png
   image_alt: logo

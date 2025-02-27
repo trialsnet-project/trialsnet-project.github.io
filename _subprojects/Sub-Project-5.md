@@ -4,6 +4,7 @@ excerpt: AI/ML-based Preventive and Reactive Emergency handling  (AI-PREMSET-MCX
 header:
   teaser: /assets/images/subprojects/premset.png
 order: 4
+wp: wp3
 sidebar:
 - image: /assets/images/subprojects/premset.png
   image_alt: logo

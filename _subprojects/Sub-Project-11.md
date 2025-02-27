@@ -4,6 +4,8 @@ excerpt: Cities Without Barriers
 header:
   teaser: /assets/images/subprojects/barriers.png
 order: 10
+wp: wp5
+
 sidebar:
 - image: /assets/images/subprojects/barriers.png
   image_alt: logo

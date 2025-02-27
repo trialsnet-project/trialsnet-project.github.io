@@ -4,6 +4,7 @@ excerpt: Turin5Games
 header:
   teaser: /assets/images/subprojects/turin5games.png
 order: 17
+wp: wp5
 sidebar:
 - image: /assets/images/subprojects/turin5games.png
   image_alt: logo

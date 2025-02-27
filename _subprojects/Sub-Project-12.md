@@ -4,6 +4,7 @@ excerpt: 'COMO5: COntinuous MOnitoring of patients with chronic disease via 5G'
 header:
   teaser: /assets/images/subprojects/como5.png
 order: 11
+wp: wp4
 sidebar:
 - image: /assets/images/subprojects/como5.png
   image_alt: logo

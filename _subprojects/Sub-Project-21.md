@@ -4,6 +4,7 @@ excerpt: DREAMPARK
 header:
   teaser: /assets/images/subprojects/dreampark.png
 order: 20
+wp: wp5
 sidebar:
 - image: /assets/images/subprojects/dreampark.png
   image_alt: logo

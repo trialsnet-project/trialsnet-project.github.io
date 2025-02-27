@@ -4,6 +4,7 @@ excerpt: 'Connected Rails: Evaluating 5G for Autonomous Tram Operations'
 header:
   teaser: /assets/images/subprojects/connectedrails.png
 order: 0
+wp: wp3
 sidebar:
 - image: /assets/images/subprojects/connectedrails.png
   image_alt: logo

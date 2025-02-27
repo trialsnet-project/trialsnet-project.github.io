@@ -4,6 +4,7 @@ excerpt: Remote Coordination and Interworking of First Responders in Emergency S
 header:
   teaser: /assets/images/subprojects/remotecoord.png
 order: 14
+wp: wp4
 sidebar:
 - image: /assets/images/subprojects/remotecoord.png
   image_alt: logo

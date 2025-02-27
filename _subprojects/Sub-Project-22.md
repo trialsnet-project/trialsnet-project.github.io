@@ -5,6 +5,8 @@ excerpt: "5G AUGMENTED REALITY TOUR FOR THE UNESCO SITE \u201CHISTORICAL CENTER 
 header:
   teaser: /assets/images/subprojects/unesco.png
 order: 21
+wp: wp5
+
 sidebar:
 - image: /assets/images/subprojects/unesco.png
   image_alt: logo
