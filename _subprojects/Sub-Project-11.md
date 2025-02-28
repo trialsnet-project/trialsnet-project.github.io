@@ -4,12 +4,12 @@ excerpt: Cities Without Barriers
 header:
   teaser: /assets/images/subprojects/barriers.png
 order: 10
-wp: wp5
+wp: wp3
 
 sidebar:
 - image: /assets/images/subprojects/barriers.png
   image_alt: logo
-  text: 'Lead Company Name: Studio 5T srl Country: Italy Topic: Culture, Tourism & Entertainment'
+  text: 'Lead Company Name: Studio 5T srl Country: Italy Topic: Infrastructure, Transportation, Security & Safety'
   title: Factsheet
 title: Cities Without Barriers
 ---
