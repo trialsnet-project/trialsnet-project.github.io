@@ -27,4 +27,4 @@ The trial execution was possible thanks to the collaboration between UC3M (manag
 All the recorded measurements are currently under analysis. The results of such analysis will be used to enhance the solution and its implementation for the Athen's trial.
 {: .text-justify}
 
-{% include video id="PbhT2fuoFp4" provider="youtube"%}
+{% include video id="bdNlRForq6E" provider="youtube"%}
