@@ -16,6 +16,7 @@ This use case offers a solution to improve the management and maintenance of inf
 {: .text-justify}
 
 ### Trial
+
 On January 23 & 30, 2025, the WINGS ICT Solutions team, along with AIA staff, conducted a trial at the testing facilities of Athens International Airport. The objective was to inspect and analyze road conditions while evaluating how 5G connectivity enhances real-time infrastructure monitoring. 
 {: .text-justify}
 
