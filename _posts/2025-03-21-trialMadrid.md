@@ -2,7 +2,7 @@
 title:  "Trials of the Madrid Cluster successfully executed"
 excerpt: Last week, three trials of the Use Cases of the Madrid Cluster were successfully executed
 categories: 
-  - Event
+  - Events
 header:
   teaser: /assets/images/news/trialMadrid.jpeg
 ---
