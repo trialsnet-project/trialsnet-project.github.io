@@ -16,7 +16,7 @@ The Movistar Arena was transformed into a living innovation lab, where 5G SA tec
 In particular, three Use Cases have been trialed:
 - **Immersive Fan Engagement** with YBVR°: 360º video and VR allowed fans to enjoy the game from a new immersive perspective, as if they were in the first row or on the field, even if they were at home.
 - **Smart Crowd Monitoring** with Prosegur Security: LiDAR sensors, robots, and smart cameras analyzed in real time the crowd flow, detecting anomalies and guaranteeing security.
-- **Mass Casualty Incident** with UC3M: using portable and wearable devices to improve the management in possible emergency situations, improving resource efficiency, and helping in case of evacuation.
+- **Mass Casualty Incident** with UC3M, WINGS, and CERTH: using portable and wearable devices to improve the management in possible emergency situations, improving resource efficiency, and helping in case of evacuation.
 {: .text-justify}
 
 {% include figure image_path="/assets/images/news/madridTrialLarge.png" alt="TrialsNet trials at the Movistar Arena." caption="TrialsNet trials at the Movistar Arena." %}
