@@ -13,7 +13,7 @@ Last week, an exciting new extended reality (XR) experience was tested in five p
 Over 200 students from five Turin high schools have been the first to experience these innovative virtual journeys. These XR solutions, encompassing Augmented Reality (AR), Virtual Reality (VR), and Artificial Intelligence (AI), enhance the artistic and cultural exploration within the museums.
 {: .text-justify}
 
-The trial activity started on March 13th, at [MAUTO](https://www.museoauto.com/es/) and [Palazzo Madama](https://www.palazzomadamatorino.it/it/), followed on March 17th at [GAM](https://www.gamtorino.it/it/) and [Museo del Risorgimento](https://www.museorisorgimentotorino.it/), and concludes on March 24th at [Museo Pietro Micca](https://www.museopietromicca.it/).
+The trial activity started on March 13th, at [MAUTO](https://www.museoauto.com/es/) and [Palazzo Madama](https://www.palazzomadamatorino.it/it/), followed on March 17th at [GAM](https://www.gamtorino.it/it/) and [Museo del Risorgimento](https://www.museorisorgimentotorino.it/), and concludes on March 24th at [Museo Pietro Micca](https://www.museopietromicca.it/). The councillor for culture of the City of Turin, Rosanna Purchia, was also present during the trials.
 {: .text-justify}
 
 This collaboration highlights Turin's commitment to leveraging new technologies to improve the quality of life for its citizens and foster new development opportunities in sectors like culture and tourism. The City of Turin, recognized as the European Capital of Innovation 2024-25 and European Capital of Smart Tourism 2025, is actively promoting open innovation and facilitating partnerships to explore and test solutions for sustainable and inclusive urban development.
