@@ -20,4 +20,4 @@ The event was celebrated during the 70th anniversary of Ascari's win at the Vale
 After the success of public attendance at MAUTO, the sub-project has been invited for a new trial in Maranello, Italy, the historic heart of Ferrari.
 {: .text-justify}
 
-{% include video id="pY6JRjfOo_o" provider="youtube"%}
+{% include video id="cCYDu0l0m64" provider="youtube"%}
