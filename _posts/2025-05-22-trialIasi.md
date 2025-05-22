@@ -1,6 +1,6 @@
 ---
-title:  "Trials of UC13 successfully executed"
-excerpt: Last week, the trial of Use Case 13 - Extended XR museum experience (Turin) has been successfully executed, involving 5 museums, 5 high schools, and over 200 students.
+title:  "Trials of UC1 and UC4 successfully executed"
+excerpt: Last week, the trials of Use Case 1 - Smart crowd monitoring - and Use Case 4 - Smart traffic monitoring - have been successfully executed.
 categories: 
   - Events
 header:
