@@ -25,4 +25,4 @@ Our inclusion in this inaugural brochure underscores the impactful work TrialsNe
 We invite you to explore the full [SNS Trials & Pilots Brochure No.1](https://smart-networks.europa.eu/wp-content/uploads/2025/06/sns_tps_brochure_may25_final.pdf) to learn more about the exciting developments and the collaborative efforts driving 6G innovation.
 {: .text-justify}
 
-{% include figure image_path="/assets/images/news/blochureL.png" alt=" " caption=" " %}
+{% include figure image_path="/assets/images/news/brochureH.png" alt=" " caption=" " %}
