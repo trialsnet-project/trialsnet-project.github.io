@@ -1,6 +1,6 @@
 ---
 title:  "TrialsNet Contributes to Key 6G Architecture Whitepaper Publication"
-excerpt: TrialsNet proudly announces its contribution to the newly published whitepaper by the 6G Architecture Working Group: Towards 6G Architecture: Key Concepts, Challenges, and Building Blocks.
+excerpt: TrialsNet proudly announces its contribution to the newly published whitepaper by the 6G Architecture Working Group - Towards 6G Architecture - Key Concepts, Challenges, and Building Blocks.
 categories: 
   - News
 header:
