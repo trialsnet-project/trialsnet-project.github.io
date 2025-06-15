@@ -16,4 +16,4 @@ In this academic forum, the paper "Streaming the Future: Real-Time Immersive Spo
 This paper is part of the [Use Case 10 - Immersive fan engagement](https://trialsnet.eu/usecases/UC10/) project, and explores how emerging B5G/6G networks can power real-time, immersive sports experiences, transforming the way we interact with live sports events. In particular, the paper describes how a Partial least squares multigroup analysis was conducted to uncover the differences in user perception between VR use and mobile streaming during UC10’s live basketball event—the final and pivotal test of the TrialsNet project. The paper findings contribute to understanding how immersive technologies and mobile platforms shape user experience and value in real-world B5G/6G-enabled scenarios.
 {: .text-justify}
 
-{% include figure image_path="/assets/images/news/bpa.jpeg" alt=" " caption=" " %}
+{% include figure image_path="/assets/images/news/bpa2.png" alt=" " caption=" " %}
