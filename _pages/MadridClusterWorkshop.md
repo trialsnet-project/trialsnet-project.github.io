@@ -37,5 +37,5 @@ La jornada ofrecerá un espacio dinámico para el networking y el intercambio de
 ¡Esperamos contar con su presencia para explorar juntos el futuro de la conectividad en escenarios reales!
 {: .text-justify}
 
-{% include figure image_path="/assets/images/trialsnetMadrid.jpeg" alt=" " caption=" " %}
+{% include figure image_path="/assets/images/trialsnetMadrid1.png" alt=" " caption=" " %}
 
