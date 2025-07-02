@@ -34,7 +34,7 @@ Este evento es posible gracias a la estrecha colaboración entre socios tecnoló
 La jornada ofrecerá un espacio dinámico para el networking y el intercambio de conocimientos, reforzando el papel de Madrid como un hub clave en la innovación de redes de nueva generación.
 {: .text-justify}
 
-¡Esperamos contar con tu presencia para explorar juntos el futuro de la conectividad en escenarios reales! ¿Quieres asistir al taller? Regístrate aquí 👉 [Formulario](https://docs.google.com/forms/d/e/1FAIpQLSfXrKzzb_OFqhwb55hcVy-yfC_ZGdfFLghwsxNZdT9DRFgqiA/viewform?usp=dialog)
+¡Esperamos contar con tu presencia para explorar juntos el futuro de la conectividad en escenarios reales! ¿Quieres asistir al taller? Regístrate [**aquí**](https://docs.google.com/forms/d/e/1FAIpQLSfXrKzzb_OFqhwb55hcVy-yfC_ZGdfFLghwsxNZdT9DRFgqiA/viewform?usp=dialog).
 {: .text-justify}
 
 {% include figure image_path="/assets/images/trialsnetMadrid1.png" alt=" " caption=" " %}
