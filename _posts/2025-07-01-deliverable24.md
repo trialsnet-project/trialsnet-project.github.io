@@ -17,9 +17,6 @@ In this deliverable, you will find:
 - Results from collaborations with Open Call sub-projects, demonstrating our open and replicable architecture.
 - A summary of our contributions to 6G standardization activities.
 
-For some of the use cases, sustainability solutions have also been studied and are discussed in this deliverable, even if not originally foreseen in the project proposal.
-{: .text-justify}
-
 This release demonstrates our commitment to bridging advanced research and practical deployment, paving the way for future smart networks and next-generation vertical services.
 {: .text-justify}
 
