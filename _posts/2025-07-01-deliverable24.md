@@ -20,7 +20,7 @@ In this deliverable, you will find:
 This release demonstrates our commitment to bridging advanced research and practical deployment, paving the way for future smart networks and next-generation vertical services.
 {: .text-justify}
 
-The full deliverable is available [here](https://zenodo.org/records/15784124)
+The full deliverable is available [here](https://zenodo.org/records/15861933)
 {: .text-justify}
  
 {% include figure image_path="/assets/images/news/d24.png" alt=" " caption=" " %}
