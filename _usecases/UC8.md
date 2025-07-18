@@ -12,5 +12,22 @@ sidebar:
   title: Objective
 title: UC8 - Smart Ambulance
 ---
-This use case will propose a 5G-connected smart ambulance operating outdoor in mobility. The use case will develop an infrastructure that will enable ambulances (or small emergency centres) to share diagnostic information with the main centre. The proposed infrastructure will be designed and implemented to equip the ambulance with i) new audio/video communication tools (Augmented Reality – AR - and virtual reality - VR - headsets) between operators on the ambulance and supporting experts in the hospital, ii) diagnostic tools for cardiological pathology and ii) devices to guarantee an efficient and fast 5G connection in remote locations and mobility conditions, including emergency high-speed travel through congested urban areas. This UC will demonstrate the possibility of sending real-time information to local operators to maximize early intervention and sending information and large data batches (like real-time video and 3D imaging) to a central hub with low latency.
+
+The Smart Ambulance use case (UC8), explores how Beyond-5G (B5G) connectivity can enhance emergency medical services through real-time remote collaboration and advanced diagnostics.  The objective of UC8 is to implement a B5G-connected mobile infrastructure that allows ambulances to share high-resolution diagnostic data and receive guidance from hospital-based specialists during transport. The system integrates state-of-the-art audio/video communication tools, as well as augmented and virtual reality (AR/VR) headsets, enabling paramedics to interact seamlessly with remote experts. 
 {: .text-justify}
+
+The use case demonstrates the potential of B5G networks to deliver low-latency and high-bandwidth communication, transforming ambulances into intelligent and connected nodes of the healthcare system.
+{: .text-justify}
+
+## Trial
+On June 27, 2025, a live trial of the Smart Ambulance use case was conducted at the CNR Research Campus in Pisa. The scenario simulated a medical emergency - such as an acute heart attack in a remote area. The smart ambulance, equipped with B5G connectivity, advanced cardiological diagnostic tools, and immersive AR/VR technologies, enabled real-time collaboration between the on-board emergency operator and a remote specialist located in Massa. During the transport phase, the specialist monitored live echocardiographic data and provided step-by-step guidance to the paramedic wearing an AR headset. It successfully demonstrated how beyond-5G networks can improve clinical decision-making and response times in critical care scenarios.
+{: .text-justify}
+
+Trialsnet partners involved in the UC8 trial were Ericsson (as coordinator), CNR-IFC, Scuola Superiore Sant’Anna, TIM and Fondazione Gabriele Monasterio.
+{: .text-justify}
+
+This trial was made possible thanks to the essential collaboration of Pubblica Assistenza di Pisa, which generously provided both an ambulance and its staff for the full duration of the simulation activities. This valuable contribution allowed the proposed solutions to be tested and validated in a real-world operational context.
+{: .text-justify}
+ 
+{% include video id="A5AYe1e4Nzo" provider="youtube"%}
+
