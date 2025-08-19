@@ -1,6 +1,6 @@
 ---
-title:  "Black Cats and Chequered Flags showcased at Venice Immersive – La Biennale Cinema 2025"
-excerpt: the TrialsNet Open Call sub-project Black Cats & Chequered Flags has been officially featured on the Venice Immersive channels during the 82nd Venice International Film Festival – La Biennale Cinema 2025.
+title:  "Black Cats and Chequered Flags showcased at Venice Immersive La Biennale Cinema 2025"
+excerpt: The TrialsNet Open Call subproject Black Cats & Chequered Flags has been officially featured on the Venice Immersive channels during the 82nd Venice International Film Festival La Biennale Cinema 2025.
 categories: 
   - Events
 header:
