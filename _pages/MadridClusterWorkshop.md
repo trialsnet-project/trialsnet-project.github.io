@@ -16,7 +16,7 @@ Estamos encantados de anunciar nuestro próximo evento de demostración, que se 
 El evento está diseñado para reunir a un público diverso y especializado, incluyendo representantes de instituciones, empresas y centros de investigación, todos interesados en el futuro de las redes de comunicación y sus aplicaciones prácticas.
 {: .text-justify}
 
-### Demostraciones en Vivo de Casos de Uso Clave:
+### Demostraciones en Vivo de Casos de Uso Clave
 
 Los asistentes podrán experimentar de primera mano cuatro de nuestros casos de uso más innovadores, que ilustran el poder de la conectividad avanzada en diversas áreas:
 {: .text-justify}
@@ -26,7 +26,7 @@ Los asistentes podrán experimentar de primera mano cuatro de nuestros casos de 
 - SkyLink Vision: Aplicaciones que aprovechan la conectividad de vanguardia para sistemas de visión aérea, optimizando la supervisión y la recopilación de datos en tiempo real.
 - Remote Coordination and Interworking of First Responders in Emergency Situations: Tecnologías que facilitan la coordinación y la colaboración a distancia de los equipos de primera respuesta en situaciones de emergencia, mejorando la eficiencia y la seguridad de las operaciones.
 
-### Un Esfuerzo Colaborativo con Socios Líderes:
+### Un Esfuerzo Colaborativo con Socios Líderes
 
 Este evento es posible gracias a la estrecha colaboración entre socios tecnológicos y del sector, incluyendo a UC3M, Ericsson, YBVR, Prosegur, Telefónica, Eviden y Alpha Unmanned Systems, entre otros. Su compromiso y experiencia son fundamentales para el éxito y la relevancia de las soluciones desarrolladas en TrialsNet.
 {: .text-justify}
