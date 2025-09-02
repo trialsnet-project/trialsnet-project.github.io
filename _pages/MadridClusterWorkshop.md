@@ -18,13 +18,11 @@ El evento está diseñado para reunir a un público diverso y especializado, inc
 
 ### Demostraciones en Vivo de Casos de Uso Clave
 
-Los asistentes podrán experimentar de primera mano cuatro de nuestros casos de uso más innovadores, que ilustran el poder de la conectividad avanzada en diversas áreas:
+Los asistentes podrán experimentar de primera mano dos de nuestros casos de uso más innovadores, que ilustran el poder de la conectividad avanzada en diversas áreas:
 {: .text-justify}
 
 - Smart Crowd Monitoring: Soluciones inteligentes para la gestión y monitorización de grandes aglomeraciones, mejorando la seguridad y la eficiencia en eventos y espacios públicos.
 - Immersive Fan Engagement: Experiencias de usuario revolucionarias para aficionados, utilizando tecnología inmersiva para llevar la emoción del evento deportivo a un nuevo nivel.
-- SkyLink Vision: Aplicaciones que aprovechan la conectividad de vanguardia para sistemas de visión aérea, optimizando la supervisión y la recopilación de datos en tiempo real.
-- Remote Coordination and Interworking of First Responders in Emergency Situations: Tecnologías que facilitan la coordinación y la colaboración a distancia de los equipos de primera respuesta en situaciones de emergencia, mejorando la eficiencia y la seguridad de las operaciones.
 
 ### Un Esfuerzo Colaborativo con Socios Líderes
 
