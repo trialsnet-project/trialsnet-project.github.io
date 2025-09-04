@@ -26,7 +26,7 @@ Los asistentes podrán experimentar de primera mano dos de nuestros casos de uso
 
 ### Un Esfuerzo Colaborativo con Socios Líderes
 
-Este evento es posible gracias a la estrecha colaboración entre socios tecnológicos y del sector, incluyendo a UC3M, Ericsson, YBVR, Prosegur, Telefónica, Eviden y Alpha Unmanned Systems, entre otros. Su compromiso y experiencia son fundamentales para el éxito y la relevancia de las soluciones desarrolladas en TrialsNet.
+Este evento es posible gracias a la estrecha colaboración entre socios tecnológicos y del sector, incluyendo a UC3M, Ericsson, YBVR, Prosegur y Telefónica, entre otros. Su compromiso y experiencia son fundamentales para el éxito y la relevancia de las soluciones desarrolladas en TrialsNet.
 {: .text-justify}
 
 La jornada ofrecerá un espacio dinámico para el networking y el intercambio de conocimientos, reforzando el papel de Madrid como un hub clave en la innovación de redes de nueva generación.
