@@ -9,8 +9,7 @@ classes:
 toc: true
 ---
 
-### Torino Cluster Workshop and Demo Day, showcasing the results of the local cluster of the project TrialsNet
-and the experiments of the CONVINCE project and CTE Next
+### Torino Cluster Workshop and Demo Day, showcasing the results of the local cluster of the project TrialsNet and the experiments of the CONVINCE project and CTE Next
 Torino, the European Capital of Innovation and Smart Tourism for 2025, is preparing for a new event of great importance. On September 16th, 2025, at CSI Next, the "Torino Easy to Visit: Innovation for Culture and Inclusive Tourism" event will be held. This meeting will highlight the results of the European TrialsNet project and the experiments conducted with the CONVINCE project, as well as some of the companies accelerated by the House of Emerging Technologies (CTE Next).
 {: .text-justify}
 
