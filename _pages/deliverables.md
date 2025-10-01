@@ -17,19 +17,19 @@ toc: true
 
 - [D3.1 Use cases definition for Infrastructure, Transportation and Security & Safety (ITSS) domain](https://zenodo.org/record/7944485#.ZGTAnexByrc) (approved)
 - [D3.2 First results of Use cases implementation for ITSS domain](https://zenodo.org/records/10895792) (approved)
-- D3.3 Use cases final implementation and trials results for ITSS domain (09/25)
+- [D3.3 Use cases final implementation and trials results for ITSS domain](https://zenodo.org/records/17240732) (pending approval)
 
 ## WP4 Use Cases for eHealth and Emergency
 
 - [D4.1 Use Cases definition for eHealth and Emergency (eHE) domain](https://zenodo.org/record/7944692#.ZGTIG-xByrc) (approved)
 - [D4.2 First results of Use cases implementation for eHE domain](https://zenodo.org/records/10902549) (approved)
-- D4.3 Use cases final implementation and trials results for eHE domain (09/25)
+- [D4.3 Use cases final implementation and trials results for eHE domain](https://zenodo.org/records/17241912) (pending approval)
 
 ## WP5 Use Cases for Culture, Tourism & Entertainment
 
 - [D5.1 Use Cases definition for Culture, Tourism and Entertainment (CTE) domain](https://zenodo.org/record/7944732#.ZGTK_exByrc) (approved)
 - [D5.2 First results of Use cases implementation for CTE domain](https://zenodo.org/records/10902824) (approved)
-- D5.3 Use cases final implementation and trials results for CTE domain (09/25)
+- [D5.3 Use cases final implementation and trials results for CTE domain](https://zenodo.org/records/17242013) (pending approval)
 
 ## WP6 Validation & dissemination 
 
