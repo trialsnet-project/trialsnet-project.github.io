@@ -1,5 +1,5 @@
 ---
-permalink: /athens-cluster-workshop-GR/
+permalink: /athens-cluster-workshop-gr/
 title: "Εργαστήριο Αθήνας"
 layout: single
 classes:
