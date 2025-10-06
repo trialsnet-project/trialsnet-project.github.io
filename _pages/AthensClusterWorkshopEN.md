@@ -1,4 +1,4 @@
-<img width="468" height="64" alt="image" src="https://github.com/user-attachments/assets/8c1d231b-60d4-4373-ae6d-24f79bacec74" /><img width="468" height="80" alt="image" src="https://github.com/user-attachments/assets/d7747ed0-e69b-4f5d-a0f8-64726adc2f71" /><img width="468" height="80" alt="image" src="https://github.com/user-attachments/assets/0b0bd349-03e0-4a42-ae27-a8b2f8314e87" />---
+---
 permalink: /athens-cluster-workshop-en/
 title: "Athens Cluster Workshop"
 layout: single
