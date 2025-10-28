@@ -56,7 +56,7 @@ Part of the TrialsNet – Horizon-JU-SNS-2022 Research and Innovation Programme 
 
 ## Participation
 Attendance is free, but registration is required due to limited space at the 5G Lab.
-To register or request further information, please fill in this [form](https://forms.gle/RGNzor5P91VQrRpZ6or).  
+To register or request further information, please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSdMowEDK86uMFXu7K0CCi8fzTIqXo2R0-1-bt7tQDUFeBryeQ/viewform?usp=header).  
 Contact:
 5g-lab [at] etti.tuiasi.ro
 
