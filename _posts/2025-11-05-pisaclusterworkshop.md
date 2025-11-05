@@ -9,7 +9,7 @@ header:
 The **Pisa Cluster Workshop on “eHealth and Network Orchestration in the TrialsNet Project: Trials, Innovation and Exploitation Perspectives”** took place on **November 4th, 2025**, at the CNR Research Area in Pisa. 
 {: .text-justify}
 
-The event was **co-organized by CNR, Ericsson, Scuola Superiore Sant’Anna, and IIT**, and brought together telecommunications providers, vendors, universities, research centers, and healthcare professionals to explore how the results achieved within the EU-funded TrialsNet project can be further exploited and valorized beyond the project’s conclusion.
+The event was **co-organized by CNR, Ericsson, TIM, Scuola Superiore Sant’Anna, and IIT**, and brought together telecommunications providers, vendors, universities, research centers, and healthcare professionals to explore how the results achieved within the EU-funded TrialsNet project can be further exploited and valorized beyond the project’s conclusion.
 {: .text-justify}
 
 The workshop fostered dialogue between the technological and clinical domains, showcasing how 5G and next-generation network technologies are transforming healthcare delivery and biomedical innovation. Participants discussed real-world applications, future opportunities for eHealth, and strategies for collaboration and exploitation.
