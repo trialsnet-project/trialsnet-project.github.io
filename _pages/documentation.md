@@ -78,3 +78,11 @@ All the TrialsNet documents can be found on the [TrialsNet Zenodo Community](htt
 ### Leaflets and brochures
 
 - [Open Call Leaflet](https://trialsnet.eu/assets/pdf/TrialsNet_Open_Call_Leaflet.pdf)
+ 
+### Newsletter
+
+- [Newsletter #1 - June 2023](https://zenodo.org/records/8155325)
+- [Newsletter #2 - January 2024](https://zenodo.org/records/10580890)
+- [Newsletter #3 - June 2024](https://zenodo.org/records/12780113)
+- [Newsletter #4 - January 2025](https://zenodo.org/records/14860002)
+- [Newsletter #5 - June 2025](https://zenodo.org/records/15745776)
