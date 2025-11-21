@@ -86,3 +86,4 @@ All the TrialsNet documents can be found on the [TrialsNet Zenodo Community](htt
 - [Newsletter #3 - June 2024](https://zenodo.org/records/12780113)
 - [Newsletter #4 - January 2025](https://zenodo.org/records/14860002)
 - [Newsletter #5 - June 2025](https://zenodo.org/records/15745776)
+- [Newsletter #6 - November 2025](https://zenodo.org/records/17578895)
