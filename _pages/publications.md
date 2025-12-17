@@ -66,5 +66,10 @@ toc: true
 
 - Apostolakis, N., Et al. 2025. [Quantum Computing in the RAN with Qu4Fec: Closing Gaps Towards Quantum-based FEC processors](https://doi.org/10.1145/3727128). Proceedings of the ACM on Measurement and Analysis of Computing Systems.
 
+- Alessi, C., Et al. 2025. [HannesImitation: Grasping with the Hannes Prosthetic Hand via Imitation Learning](https://arxiv.org/pdf/2508.00491). IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
 
-- Apostolakis, N., Sierra-Obea, M., Gramaglia, M., Ayala-Romera, J.A., Garcia Saavedra, A., Fiore, M., Banchs, A., Costa-PérezX., 2025. [Quantum Computing in the RAN with Qu4Fec: Closing Gaps Towards Quantum-based FEC processors](https://doi.org/10.1145/3727128). Proceedings of the ACM on Measurement and Analysis of Computing Systems
+- Stracquadanio, G., Et al. 2025. [Bring Your Own Grasp Generator: Leveraging Robot Grasp Generation for Prosthetic Grasping](https://arxiv.org/pdf/2503.00466). 2025 IEEE International Conference on Robotics & Automation (ICRA).
+
+- Cuervo Bello, R., Et al. 2026. [Towards Sustainable 6G Compute Continuum: Energy-aware Zero-Touch Network and Service Management used for Dynamic Vehicular Service Deployments](https://zenodo.org/uploads/17595136). IEEE CCNC 2026 - DiSCA 2026.
+
+- Vasile, F., Et al. 2026. [Continuous Wrist Control on the Hannes Prosthesis: a Vision-based Shared Autonomy Framework](https://arxiv.org/pdf/2502.17265). 2026 IEEE International Conference on Robotics & Automation (ICRA)
