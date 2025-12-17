@@ -37,6 +37,28 @@ All the TrialsNet documents can be found on the [TrialsNet Zenodo Community](htt
 
 - Orange Romania, 2024. [Orange Romania presence to EuCNC & 6G Summit 2024](https://5glab.orange.ro/en/orange-romania-presence-to-eucnc-6g-summit-2024/). orange.ro.
 
+- COTO, 2025.  [REALTÀ ESTESA, NELLA TORINO DUE VOLTE CAPITALE DELL’INNOVAZIONE E DEL TURISMO SMART I MUSEI OSPITANO LE SPERIMENTAZIONI DEL PROGETTO EUROPEO TRIALSNET](https://comunicatistampa.comune.torino.it/2025/03/realta-estesa-nella-torino-due-volte-capitale-dellinnovazione-e-del-turismo-smart-i-musei-ospitano-le-sperimentazioni-del-progetto-europeo-trialsnet/). comune.torino.it (IT).
+
+- ERC, 2025. [5TONIC and Ericsson test 5G SA on millimetre waves at Movistar Arena](https://www.5tonic.org/5tonic-and-ericsson-test-5g-sa-on-millimetre-waves-at-movistar-arena/). 5tonic.org.
+
+- UC3M, 2025. [La UC3M prueba la tecnología 5G SA en ondas milimétricas en el Movistar Arena](https://www.uc3m.es/ss/Satellite/UC3MInstitucional/es/Detalle/Comunicacion_C/1371428001956/1371215537949/La_UC3M_prueba_la_tecnologia_5G_SA_en_ondas_milimetricas_en_el_Movistar_Arena). uc3m.es.
+
+- TIM, 2025. [Nasce l’Hub Liguria, Piemonte, Valle d’Aosta di Dicolab. Cultura al digitale: il nuovo polo formativo per la trasformazione digitale del settore culturale](https://www.fondazionesantagata.it/le-news-della-fondazione/nasce-lhub-liguria-piemonte-valle-daosta-di-dicolab-cultura-al-digitale-il-nuovo-polo-formativo-per-la-trasformazione-digitale-del-settore-cultural/). fondazionesantagata.it.
+
+- Madrid Cluster, 2025. [El Movistar Arena, laboratorio tecnológico de innovaciones](https://www.movistararena.es/noticia?id=1995&cat=Actualidad&tit=El-Movistar-Arena-laboratorio-tecnol%C3%B3gico-de-innovaciones). movistararena.es.
+
+- Prosegur, 2025. [Prosegur Security prueba el uso de redes B5G para tecnologías de vigilancia avanzada en el Movistar Arena](https://www.prosegur.com/media/articulo/prensa/prosegur-security-prueba-el-uso-de-redes-B5G-para-tecnologias-de-vigilancia-avanzada-en-el-movistar-arena). prosegur.es.
+
+- Imdea, 2025. [5TONIC and Ericsson test 5G SA on millimeter waves at Movistar Arena](https://networks.imdea.org/5tonic-and-ericsson-test-5g-sa-on-millimeter-waves-at-movistar-arena/). imdea.org.
+
+- COTO, 2025. [REALTÀ ESTESA, NELLA TORINO DUE VOLTE CAPITALE DELL’INNOVAZIONE E DEL TURISMO SMART I MUSEI OSPITANO LE SPERIMENTAZIONI DEL PROGETTO EUROPEO TRIALSNET](https://comunicatistampa.comune.torino.it/2025/03/realta-estesa-nella-torino-due-volte-capitale-dellinnovazione-e-del-turismo-smart-i-musei-ospitano-le-sperimentazioni-del-progetto-europeo-trialsnet/). comune.porino.it.
+
+- CNR ICF, 2025. [L'ambulanza diventa smart: a Pisa sperimentata l'ambulanza oltre il 5G e con realtà aumentata](https://www.cnr.it/it/nota-stampa/n-13704/). cnr.it.
+
+- CORCOM, 2025. [E-health e 5G, Pisa sperimenta la smart ambulance](https://www.corrierecomunicazioni.it/pa-digitale/e-health/e-health-e-5g-pisa-sperimenta-la-smart-ambulance/). corrierecomunicazioni.it.
+
+- CORCOM, 2025. [Smart ambulance e 5G: il progetto TrialsNet trasforma i soccorsi sanitari](https://www.corrierecomunicazioni.it/telco/5g/smart-ambulance-e-5g-il-progetto-trialsnet-trasforma-i-soccorsi-sanitari/). corrierecomunicazioni.it. 
+
 ### Presentations
 
 - Papagiannopoulos, N. and Bradford, J., 2023. [5G deployment models and beyond 5G future developments](https://zenodo.org/record/8269628). Passenger Terminal Expo 2023.
