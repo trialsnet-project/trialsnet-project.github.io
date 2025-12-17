@@ -25,7 +25,17 @@ toc: true
 
 - Serrano, P., Virdis, A., Gringoli, F., Gramaglia, M., 2024. [Can I Add a VR Flow? On the Maximum Capacity of 5G to Support 360° Video](https://zenodo.org/records/12653839). IEEE Communications Magazine.
 
--  Rusca, R., Gasco, D., Casetti, C., Giaccone, P., 2024. [Privacy-Preserving WiFi Fingerprint-Based People Counting for Crowd Management](https://www.sciencedirect.com/science/article/pii/S0140366424002482). Elsevier Computer Communications. 
+-  Rusca, R., Gasco, D., Casetti, C., Giaccone, P., 2024. [Privacy-Preserving WiFi Fingerprint-Based People Counting for Crowd Management](https://www.sciencedirect.com/science/article/pii/S0140366424002482). Elsevier Computer Communications.
+
+- Charpentier, V. Marquez-Barja,  J. M., Slamnik-Krijestorac, N., 2025. [From 5G to 6G: Empowering vertical industries with next-gen technologies and trial facilities](https://doi.org/10.1016/j.comcom.2025.108218). Elsevier Computer Communications.
+
+- Calagna, A., Yu, Y., Giaccone,P.,  Chiasserini, C.F., 2025. [MOSE: A Novel Orchestration Framework for Stateful Microservice Migration at the Edge](https://doi.org/10.48550/arXiv.2506.09159). IEEE Transactions on Network and Service Management.
+
+- Salar Sefati, S., Arasteh, B., Craciunescu, R., Comsa, C.R., 2025. [Intelligent Congestion Control in Wireless Sensor Networks (WSN) Based on Generative Adversarial Networks (GANs) and Optimization Algorithms](https://www.mdpi.com/2227-7390/13/4/597) MDPI Mathematics.
+
+- Salar Sefati, S., Nor, A.M., Arasteh, B., Craciunescu, R., Comsa, C.R., 2025. [A Probabilistic Approach to Load Balancing in Multi-Cloud Environments via Machine Learning and Optimization Algorithms](https://link.springer.com/article/10.1007/s10723-025-09805-6) Springer Journal of Grid Computing.
+
+- Alcalá-Marín, S., Bega, D., Gramaglia, M., BANCHS, A., Costa-Pérez, X., Fiore, M., 2025. [AZTEC+: Long and Short Term Resource Provisioning for Zero-Touch Network Management](https://doi.org/10.5281/zenodo.15672429). IEEE Transactions on Network and Service Management. 
 
 
 ## Conferences
@@ -48,3 +58,13 @@ toc: true
 
 - Cuervo Bello, R., Slamnik-Kriještorac, N., Pokorn, M., Hribar, J., Fortuna, C., Marquez-Barja, J.M., 2024. [Building Zero-touch Service Management Framework for Automotive Services Using the Smart Highway Testbed](https://ieeexplore.ieee.org/document/10557173). IEEE BalkanCom 2024.
 
+- Aruna Prem Bianzino, A.P., Et al. 2024. [Trialing solutions for Security & Safety, Infrastructure, and Transportation, Supported By Smart Networks Beyond 5G](https://fnwf2024.ieee.org/symposium-future-networks-connected-and-automated-mobility-cam). IEEE Future Networks World Forum (FNWF) - Symposium on Future Networks for Connected and Automated Mobility (CAM).
+
+- Bianzino, A.P., Montes-Lopez, M., Serrano, P., de A. Rocha A. A., 2025. [Multiscale Radio Reconfigurations: A Trace-Driven Approach to Estimating Network Performance](https://bv.fapesp.br/en/publicacao/282665/) IEEE Wireless Communications and Networking Conference (WCNC)
+
+- Burkett, M.G., Martinez Lopez, M.A., Recuero Virto, N., Bianzino, A.P., 2025. [Streaming the Future:  Real-Time Immersive Sports Experiences over B5G/6G Networks](https://airsi.es/). AIRSI2025 - The Metaverse Conference.
+
+- Apostolakis, N., Et al. 2025. [Quantum Computing in the RAN with Qu4Fec: Closing Gaps Towards Quantum-based FEC processors](https://doi.org/10.1145/3727128). Proceedings of the ACM on Measurement and Analysis of Computing Systems.
+
+
+- Apostolakis, N., Sierra-Obea, M., Gramaglia, M., Ayala-Romera, J.A., Garcia Saavedra, A., Fiore, M., Banchs, A., Costa-PérezX., 2025. [Quantum Computing in the RAN with Qu4Fec: Closing Gaps Towards Quantum-based FEC processors](https://doi.org/10.1145/3727128). Proceedings of the ACM on Measurement and Analysis of Computing Systems
