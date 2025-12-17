@@ -25,6 +25,8 @@ toc: true
 
 - Serrano, P., Virdis, A., Gringoli, F., Gramaglia, M., 2024. [Can I Add a VR Flow? On the Maximum Capacity of 5G to Support 360° Video](https://zenodo.org/records/12653839). IEEE Communications Magazine.
 
+-  Rusca, R., Gasco, D., Casetti, C., Giaccone, P., 2024. [Privacy-Preserving WiFi Fingerprint-Based People Counting for Crowd Management](https://www.sciencedirect.com/science/article/pii/S0140366424002482). Elsevier Computer Communications. 
+
 
 ## Conferences
 
