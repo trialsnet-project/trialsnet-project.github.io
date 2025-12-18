@@ -81,6 +81,12 @@ All the TrialsNet documents can be found on the [TrialsNet Zenodo Community](htt
 
 - TrialsNet Partners, 2023. [TrialsNet second Open Call Webinar](https://www.youtube.com/watch?v=bZCsWRjWVGI).
 
+- CROSEU, 2025. [Objective and subjective approaches to Key Value Indicators: sharing methodological approaches and evaluation instruments](https://www.youtube.com/watch?v=YtgSEiu1ds4).
+
+- UC3M, 2025. [6G IA & 5G ACIA Update on recent 5G/6G achievements](https://smart-networks.europa.eu/event/6g-ia-5g-acia-update-on-recent-5g-6g-achievements/). 6G-ACIA.
+
+- TEI, 2025. [SNS JU Top-10 Key Achievements of 2025](https://smart-networks.europa.eu/event/from-research-to-impact-exploring-the-top-10-key-achievements-of-sns-ju-projects/).
+
 ### Workshops
 
 - Gramaglia, M., 2024. [6GARCH: THE 3RD WORKSHOP ON 6G ARCHITECTURE](https://wcnc2024.ieee-wcnc.org/workshop/ws-12-6garch-3rd-workshop-6g-architecture). Dubai, United Arab Emirates.
@@ -89,13 +95,29 @@ All the TrialsNet documents can be found on the [TrialsNet Zenodo Community](htt
 
 - TrialsNet, 2024. [SNS Stream B/D Projects Workshop on KPIs and KVIs](https://smart-networks.europa.eu/event/sns-stream-b-d-projects-webinar/). 6GSNS, Online.
 
-### Journal special Issues
+- TID, 2024. [6G-IA/6G-MAG Workshop on multimedia systems and services](https://6g-ia.eu/).
+
+- Todesco, G., 2024. [6G-IA & PSCE Joint Workshop on PPDR](https://ec.europa.eu/eusurvey/runner/de438349-cf40-5724-4964-a058840d7655).
+
+- AIA, DAEM, WINGS, 2025. [Athens Cluster Workshop](https://trialsnet.eu/events/athensclusterworkshop/). Sofitel Athens Airport.
+
+- CNR, ERC, TIM, SSSA, IIT, 2025. [Pisa Cluster Workshop](https://trialsnet.eu/events/pisaclusterworkshop/). CNR Pisa.
+
+- CTE, COTO, TIM, CROSSM, 2025. [Turin Cluster Workshop](https://trialsnet.eu/events/turinclusterworkshop/). CTE Next.
+
+- UC3M, ERC, TIC, TID, PROS, YBVR, 2025. [Madrid Cluster Workshop](https://trialsnet.eu/events/madridclusterworkshop/). NexTonic.
 
 ### Whitepapers
 
 - Gasco, D., Rusca, R., Casetti, C., Giaccone, P., 2023. [Enhancing Crowd-Monitoring Through WiFi Fingerprint Analysis](https://doi.org/10.5281/zenodo.10017685). Technical report on Zenodo.
 
 - Carluccio, A., Rusca, R., Casetti, C., Giaccone, P., 2023. [Privacy-Preserving People Flow Monitoring with Bloom Filters](https://doi.org/10.5281/zenodo.10017642). Technical report on Zenodo.
+
+- Giaccone, P., Et al., 2025. [6G KPIs –Definitions and Target Values](https://doi.org/10.5281/zenodo.15011631). SNS JU.
+
+- 6G Architecture WG, 2025. [TOWARDS 6G ARCHITECTURE: KEY CONCEPTS, CHALLENGES, AND BUILDING BLOCKS](10.5281/zenodo.15001377). SNS JU.
+
+- WINGS, RW, TMV WG, 2025. [6G KVIs – SNS projects initial survey results 2025](https://doi.org/10.5281/zenodo.15220945). SNS JU.
 
 ### Leaflets and brochures
 
