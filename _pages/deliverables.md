@@ -35,10 +35,10 @@ toc: true
 
 - [D6.1 First report on validation and dissemination activities](https://zenodo.org/records/10058287) (approved)
 - [D6.2 Second report on validation and dissemination activities](https://zenodo.org/records/14245268) (pending approval)
-- D6.3 Final report on validation and dissemination activities (12/25)
+- [D6.3 Final report on validation and dissemination activities](https://zenodo.org/records/18069439) (pending approval)
 
 ## WP7 Open Call and Support to Third Parties 
 
 - [D7.1 Open Call Applicant Handbook](https://zenodo.org/records/10232765) (approved)
 - [D7.2 Open call launch, proposal evaluation, and grant awards](https://zenodo.org/records/13630132) (pending approval)
-- D7.3 Open Call report on achieved results and allocation of Grants (12/25)
+- [D7.3 Open Call report on achieved results and allocation of Grants](https://zenodo.org/records/18069392) (pending approval)
