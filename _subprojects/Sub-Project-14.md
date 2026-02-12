@@ -12,6 +12,6 @@ sidebar:
   title: Factsheet
 title: MediVision-5G (eHealth)
 ---
-MediVision-5G provides a ready-to-deploy and transportable, preconfigured 5G network + edge computing platform that requires seconds to be operational and zero knowledge from the operator. The system will also be completely autonomous: it won’t require internet connectivity to operate. The edge platform will host an AR application for medical use with several features to aid the surgeon during open and mixed surgery operations.
+MediVision-5G provided self-contained AR applications and 5G connectivity for surgical procedure assistance. It featured Connect-Note for AR-assisted remote communication and MediVision Information Console (MIC) for intraoperative 3D anatomical model visualization. The system leveraged WebRTC-based infrastructure and OpenVidu platform for secure, scalable, low-latency communication with CE-marked Class I medical device certification. Eight hospital trials were conducted across Italy and Spain at hospitals in Pisa, Turin, Arezzo, Ancona, Barcelona, and Madrid, utilizing both Wi-Fi and 5G networks. 
 {: .text-justify}
 
