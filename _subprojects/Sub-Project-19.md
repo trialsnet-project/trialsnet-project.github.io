@@ -12,6 +12,6 @@ sidebar:
   title: Factsheet
 title: 'Torino 4U: 10 things to see around you'
 ---
-The aim is to offer citizens and cultural tourists of Torino an AI powered, tailor-made, cultural proposal, exploiting the full potential of 5G and augmented reality to increase the enjoyment of cultural places and events, favoring proximity and thus more sustainable travel
+The sub-project validated 5G NR-NSA with adequate throughput but with key challenges including RTT download throughput due to network bottlenecks, and slow AR 3D object downloads. Despite technical optimization needs, the KVI validation demonstrated exceptional User Satisfaction with perfect 5/5 acceptability scores, strong Cultural Engagement, solid Economic Sustainability with 57.4% purchasing tickets and total spending €42.62. Successful Edutainment outcomes with 33.5% visiting more locations than planned and environmental benefits with 95% users using sustainable transportation.
 {: .text-justify}
 
