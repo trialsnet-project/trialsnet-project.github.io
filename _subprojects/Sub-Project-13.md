@@ -13,6 +13,6 @@ sidebar:
   title: Factsheet
 title: METACLINIC
 ---
-TMETACLINIC aims to offer innovative solutions to existing clinical problems by integrating VR technology with cutting-edge communication technologies. The project's primary motivation is to connect clinicians and patients in a virtual environment, particularly in scenarios where patients cannot physically access healthcare services
+METACLINIC demonstrated immersive, real-time remote healthcare services using 5G mmWave and VR technologies across two scenarios: remote emergency medical support over a 7.5 km mmWave link and remote consultations between İstanbul and İzmir (450 km apart). The Unity-based VR platform supported real-time audio/video communication via WebRTC and immersive interactions using Meta Quest 3 headsets. Six trials were conducted across multiple Turkcell sites, including İstanbul (Küçükyalı Plaza), İzmir Plaza, and Kınalıada island mmWave deployment. 
 {: .text-justify}
 
