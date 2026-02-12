@@ -12,6 +12,6 @@ sidebar:
   title: Factsheet
 title: 'COMO5: COntinuous MOnitoring of patients with chronic disease via 5G'
 ---
-The COMO5 use case aims at demonstrating how 5G advancements can be exploited to further improve the management of patients with chronic diseases by implementing novel approaches to telemedicine that involve not only continuous monitoring but also real-time data collection / analysis and live interaction with healthcare professionals.
+This sub-project assessed the feasibility and added value of a new approach for fine-grained monitoring of patients with chronic diseases, specifically chronic obstructive pulmonary disease (COPD), through an integrated telemedicine platform. The system utilized smartphones, smartwatches, and portable spirometers connected via 5G networks to enable real-time data transmission and live patient-healthcare provider interactions. Trials were executed at CNR Pisa, using TrialsNet infrastructure with 18 healthy volunteers, validating proper system functioning and also demonstrating effective integration with the Innovative Orchestrator developed by Ericsson which is described in [D2.4](https://zenodo.org/records/15861933).
 {: .text-justify}
 
