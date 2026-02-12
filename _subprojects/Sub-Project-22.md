@@ -14,5 +14,6 @@ sidebar:
   title: Factsheet
 title: "5G AUGMENTED REALITY TOUR FOR THE UNESCO SITE \u201CHISTORICAL CENTER OF NAPLES\u201D"
 ---
-The proposed use case is related to the conceptualization, the development and the trial of the tour for the UNESCO historic center of Naples using Augmented Reality (AR). Tourists will be able to access the tour directly from their mobile devices by scanning a QR Code and connecting to a WEB APP.{: .text-justify}
+KPI evaluation confirmed that download speed and latency are key to satisfying AR storytelling. Speeds above 50 Mbps ensured responsiveness, while anything below 25 Mbps led drop-off. KVI analysis demonstrated a direct link between network performance, perceived usability and content quality, highlighting that even well-designed content is undermined by slow or unstable playback. 
+{: .text-justify}
 
