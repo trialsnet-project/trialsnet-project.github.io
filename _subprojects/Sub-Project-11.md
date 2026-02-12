@@ -13,6 +13,6 @@ sidebar:
   title: Factsheet
 title: Cities Without Barriers
 ---
-The objective of the experimentation is to create a VR game that can help raise awareness among the new generation of students about the need for a collective effort so that the communities in which we live can be truly inclusive and foster the full participation of people with disabilities
+The sub-project’s trial in Turin validated 5G-enabled devices and AI analytics for mapping and navigating urban accessibility barriers. Operators collected data over 500 km of pedestrian routes, generating dynamic accessibility maps for people with mobility challenges. Network KPIs were generally stable, though 5G–4G transitions occasionally affected system stability. The project highlights the need for robust, low-latency, and high-coverage networks to support continuous urban monitoring. For 6G, enhanced coverage, seamless connectivity, and edge-cloud integration will be essential for scalable, inclusive smart city applications. 
 {: .text-justify}
 
