@@ -16,6 +16,6 @@ sidebar:
 title: '6GVision: Improvement of the 5GOpen testbed at imec with vision-aided mmW
   gNB'
 ---
-This project will implement and demonstrate a vision-aided proactive handover process to overcome the LOS blockage challenge in 5G FR2. Collocated with the gNB is a LIDAR sensor and an edge node for ML processing to forecast LOS blockage events
+The sub-project upgraded the OAI gNB to an Open RAN architecture and validated solutions to improve mmWave FR2 coverage. Trials showed high throughput in clear line-of-sight but strong degradation under blockage, mitigated through reflective surfaces and vision-aided proactive beam-switching. A web-based monitoring tool, positively rated by users (MOS 4.4/5), proved valuable for experimentation. 
 {: .text-justify}
 
