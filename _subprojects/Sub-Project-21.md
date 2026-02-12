@@ -12,6 +12,6 @@ sidebar:
   title: Factsheet
 title: DREAMPARK
 ---
-Design and Realisation of an Enhanced Ar&Metaverse-based platform to improve public park visiting experience, focusing on the case study of the Valentine PARK in Turin.
+The sub-project showed validation in KPIs, mixed but acceptable results: while upstream bandwidth was lower than ideal, it met the needs of a metadata-focused application, and efficient bandwidth use and backend availability were measured. KVI results were positive, with over 90% of users rating the VR experience favourably, and 32% identifying VR as the ideal platform. The trial validated both technical performance and strong user engagement.
 {: .text-justify}
 
