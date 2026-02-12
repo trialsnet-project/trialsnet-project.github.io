@@ -13,6 +13,6 @@ sidebar:
   title: Factsheet
 title: Beyond 5G Football Stadium
 ---
-Operate a complex Private 5G Cellular Network embedded within a Public Network that simultaneously support SA and NSA modes in a crowded area with thousands of active cellular subscribers using data hungry new applications and services. It has to be highlighted that since the Network is part of a Tier-1 Cellular Public network it complies with all the regulations, certifications, performance requirements, security and privacy requirements of a “Carrier Grade” cellular network.
+The trials validated KPIs, including DL and Uplink throughput, Coverage, and Accuracy. Achieving a UE localization accuracy of 1 centimetre for static phones is remarkable and can be considered groundbreaking in the context of KPI #18.. KVI scores were positive for Cultural Connection and Inclusiveness. The project has established new benchmarks for stadium connectivity and localization services while validating both the technical feasibility and societal value. 
 {: .text-justify}
 
