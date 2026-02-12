@@ -12,6 +12,6 @@ sidebar:
   title: Factsheet
 title: 5G-enabled Secure Surveillance System (5GS3)
 ---
-5GS3 aims to build on top of the provisions of the TrailsNet infrastructure elements to validate a reference implementation of an airport surveillance and patrolling 5G-enabled application that is based on the collaboration of electric robots over an experimental private 5G network at the location of security and safety events, which may result in operational halts and threats to the safety of the aviation industry itself.
+This sub-project at AIA validated autonomous robotic patrols with AI-driven analytics over 5G/B5G networks. Latency was very low, detection accuracy remained high, and service availability was 100%. The system successfully demonstrated anomaly detection, autonomous navigation, and collaborative responses, confirming reliable real-time operation and centralized monitoring. Minor deviations in network throughput did not affect operational performance. Results show that autonomous surveillance can be effectively supported over 5G, but large-scale deployments will require 6G capabilities such as ultra-low latency, extreme reliability, and AI-driven dynamic resource allocation for mission-critical and immersive applications. 
 {: .text-justify}
 
