@@ -13,6 +13,6 @@ sidebar:
   title: Factsheet
 title: SkyLink Vision
 ---
-The SkyLink Vision (SLV) project, powered by the advanced capabilities of 5G technology, continues to redefine the landscape of aerial surveillance and data analysis. Central to its operation is the deployment of Unmanned Aerial Vehicles (UAVs) equipped with high-resolution cameras, designed for capturing live video feeds in a multitude of environments.
+The sub-project’s trial demonstrated reliable UAV-based aerial surveillance with AI-powered vehicle detection and real-time video streaming over 5G. Communication performance was generally strong, and detection precision was very high. Latency was met under optimized network configurations, confirming the feasibility of real-time UAV operations for traffic monitoring and emergency response. The trials highlight the potential of UAV-based monitoring for public safety and situational awareness. For 6G, further reductions in latency, advanced network slicing, and distributed edge processing will enhance responsiveness, reliability, and scalability for multiple simultaneous UAV streams and real-time analytics. 
 {: .text-justify}
 
