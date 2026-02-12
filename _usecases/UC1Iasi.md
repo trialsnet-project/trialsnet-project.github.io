@@ -12,5 +12,9 @@ sidebar:
   title: Objective
 title: UC1 - Smart Crowd Monitoring (Iasi)
 ---
-This use case will be carried out in large public area in Iasi, for the Romanian cluster. The use case will focus on the use of B5G/6G applications to enable situation awareness to key end-users in the City of Iasi, by bringing disparate data streams into a common operational picture for real-time data-driven insights and actionable intelligence. The new platform will ingest available data from arrays of sensors and cameras deployed through the city, communicating over reliable B5G and Wi-Fi networks and output insights and actionable intelligence on public safety monitoring system. The use case will focus on outdoor public events by managing people counting, density, and dynamics of large numbers of persons (flow directions, spread, speed) and detecting special situations during normal traffic scenarios (e.g., presence of various objects such as cars, trucks, motorcycles, etc. in restricted access areas).
+This trial confirmed the benefits of transitioning from 5G NSA to SA architecture with a dedicated URLLC slice. Downlink throughput reached 512 Mbps and uplink 58.6 Mbps, meeting targets, while application-level throughput ranged from 13.6 Mbps for a single camera to 62.7 Mbps for 13 cameras at 2592x1944@25FPS. E2E latency was 10 ms, with round-trip latency including processing between 148–248 ms, supporting near real-time crowd monitoring and AI-based anomaly detection. Trials highlighted that video processing latency depends heavily on server capabilities, indicating the need for distributed edge computing to minimize delays for large-scale deployments. 
 {: .text-justify}
+
+For 6G, the key requirements include massive uplink capacity (over 10 Gbps per site for 100+ covered cameras), ultra-low latency for instantaneous anomaly detection, and intelligent edge/cloud computing to handle high-resolution video streams. Advanced AI-driven network orchestration and resource management, along with security and privacy-by-design, should ensure scalability, reliability, and public acceptance.  
+{: .text-justify}
+
