@@ -13,6 +13,6 @@ sidebar:
   title: Factsheet
 title: Mobile Augmented Reality for Outdoor PoI Enrichment
 ---
-The main goal of this proposal is to demonstrate and test the capabilities of 5G and B5G in the context of an application that offers mobile augmented reality for outdoor PoI (place of interest) enrichment, using edge computing and federated learning in order to offer fast response times and privacy to the end-users.
+The sub-project validated excellent ML and network performance for AR-based federated learning, with up to 897 Mbps download, low latency, and KPI compliance even in outdoor conditions. While jitter control and scalability remain areas for improvement, results confirmed infrastructure readiness. KVI feedback was positive across Usability, Edutainment, Cultural Connection, and Digital Inclusion, exceeding 75% in nearly all dimensions.
 {: .text-justify}
 
