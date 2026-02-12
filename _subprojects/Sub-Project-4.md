@@ -13,6 +13,6 @@ sidebar:
   title: Factsheet
 title: CITY4ALL
 ---
-The objective of the experimentation is to create a VR game that can help raise awareness among the new generation of students about the need for a collective effort so that the communities in which we live can be truly inclusive and foster the full participation of people with disabilities.
+This sub-project successfully implemented immersive VR experiences to promote awareness and inclusion for individuals with disabilities. Trials in school and university environments showed strong engagement and educational value. While commercial 5G networks presented some limitations for latency-sensitive VR, private 5G SA configurations provided sufficient performance for interactive and comfortable experiences. The outcomes demonstrate that immersive educational applications are feasible over 5G, but scaling to larger audiences and higher-quality content will require 6G capabilities. Key requirements include higher throughput, pervasive edge computing for real-time rendering, ultra-low latency, and enhanced network reliability to ensure broad access to inclusive experiences and support societal objectives. 
 {: .text-justify}
 
