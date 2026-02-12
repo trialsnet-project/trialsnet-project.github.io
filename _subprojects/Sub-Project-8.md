@@ -12,6 +12,6 @@ sidebar:
   title: Factsheet
 title: Intelligent control of interconnected manufacturing infrastructures (i-CNC)
 ---
-Develop and assess an end-to-end use case in CNC machining that changes the current paradigm of human-based trial-and-error chattering supervision, towards a cloud-based and AI-enabled autonomous chattering control. The use case shall be able to a) measure and analyze reliably indicators related to the progress of the milling process, the machine state, and the workpiece conditions; and b) apply remote and instant decision-making that can guarantee operation compliant with the manufacturing standards.
+The trial of this sub-project demonstrated that integrating 5G connectivity with AI detection for milling chatter improves production quality and efficiency. Thirty participants observed real-time alerts, and network and application latencies stayed within acceptable limits. Downtime and material waste were reduced. This case emphasizes the need for low-latency, reliable links in industrial settings. 6G will require more robust industrial NPNs, real-time edge AI, and ultra-reliable low-latency communication for scalable, autonomous manufacturing.
 {: .text-justify}
 
