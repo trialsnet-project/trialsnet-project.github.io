@@ -1,5 +1,5 @@
 ---
-date: 24-10-18 11:20:26.382577
+date: 25-12-18 11:20:26.382577
 excerpt: 'COMO5: COntinuous MOnitoring of patients with chronic disease via 5G'
 header:
   teaser: /assets/images/subprojects/como5.png
