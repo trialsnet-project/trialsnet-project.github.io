@@ -1,5 +1,5 @@
 ---
-date: 24-10-18 11:20:26.371910
+date: 25-12-18 11:20:26.371910
 excerpt: 'Connected Rails: Evaluating 5G for Autonomous Tram Operations'
 header:
   teaser: /assets/images/subprojects/connectedrails.png
