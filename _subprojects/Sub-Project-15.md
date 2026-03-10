@@ -1,5 +1,5 @@
 ---
-date: 24-10-18 11:20:26.385300
+date: 25-12-18 11:20:26.385300
 excerpt: Remote Coordination and Interworking of First Responders in Emergency Situations
 header:
   teaser: /assets/images/subprojects/remotecoord.png
