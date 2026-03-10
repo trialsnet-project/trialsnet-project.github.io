@@ -1,5 +1,5 @@
 ---
-date: 24-10-18 11:20:26.380765
+date: 25-12-18 11:20:26.380765
 excerpt: 'AI4RTC: AI applications for Real-time Charging Load Management'
 header:
   teaser: /assets/images/subprojects/ai4rtc.png
