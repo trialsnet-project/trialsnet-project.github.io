@@ -1,5 +1,5 @@
 ---
-date: 24-10-18 11:20:26.392504
+date: 25-12-18 11:20:26.392504
 excerpt: "\u201CRemember Ascari\u201D: MR in MAUTO \u2013 Immersive MR Experience\
   \ in F1 (MAUTO)"
 header:
