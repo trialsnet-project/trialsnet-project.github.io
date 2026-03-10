@@ -1,5 +1,5 @@
 ---
-date: 24-10-18 11:20:26.386265
+date: 25-12-18 11:20:26.386265
 excerpt: '5GVIREH: Virtual Reality Enhanced Rehabilitation'
 header:
   teaser: /assets/images/subprojects/vireh.png
