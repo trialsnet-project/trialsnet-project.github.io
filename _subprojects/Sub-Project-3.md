@@ -1,5 +1,5 @@
 ---
-date: 24-10-18 11:20:26.374214
+date: 25-12-18 11:20:26.374214
 excerpt: SkyLink Vision
 header:
   teaser: /assets/images/subprojects/skylink.png
