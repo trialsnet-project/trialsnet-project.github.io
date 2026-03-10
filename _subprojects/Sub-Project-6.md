@@ -1,5 +1,5 @@
 ---
-date: 24-10-18 11:20:26.377011
+date: 25-12-18 11:20:26.377011
 excerpt: MILESTONE - A REAL-TIME AI-ENABLED WORKER SAFETY PRESERVATION SYSTEM
 header:
   teaser: /assets/images/subprojects/milestone.png
