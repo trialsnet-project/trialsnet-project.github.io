@@ -1,5 +1,5 @@
 ---
-date: 24-10-18 11:20:26.381686
+date: 25-12-18 11:20:26.381686
 excerpt: Cities Without Barriers
 header:
   teaser: /assets/images/subprojects/barriers.png
