@@ -1,5 +1,5 @@
 ---
-date: 24-10-18 11:20:26.384431
+date: 25-12-18 11:20:26.384431
 excerpt: MediVision-5G (eHealth)
 header:
   teaser: /assets/images/subprojects/medivision.png
