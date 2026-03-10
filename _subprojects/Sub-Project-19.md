@@ -1,5 +1,5 @@
 ---
-date: 24-10-18 11:20:26.388868
+date: 25-12-18 11:20:26.388868
 excerpt: 'Torino 4U: 10 things to see around you'
 header:
   teaser: /assets/images/subprojects/torino4u.png
