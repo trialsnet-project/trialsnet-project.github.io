@@ -1,5 +1,5 @@
 ---
-date: 24-10-18 11:20:26.394753
+date: 25-12-18 11:20:26.394753
 excerpt: Mobile Augmented Reality for Outdoor PoI Enrichment
 header:
   teaser: /assets/images/subprojects/poi.png
