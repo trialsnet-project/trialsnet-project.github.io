@@ -1,5 +1,5 @@
 ---
-date: 24-10-18 11:20:26.378885
+date: 25-12-18 11:20:26.378885
 excerpt: Intelligent control of interconnected manufacturing infrastructures (i-CNC)
 header:
   teaser: /assets/images/subprojects/cnc.png
