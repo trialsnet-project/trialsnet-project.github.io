@@ -1,5 +1,5 @@
 ---
-date: 24-10-18 11:20:26.377960
+date: 25-12-18 11:20:26.377960
 excerpt: Automated Tele-Operated Sustainable (ATOS) driving
 header:
   teaser: /assets/images/subprojects/atos.png
