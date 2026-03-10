@@ -1,5 +1,5 @@
 ---
-date: 24-10-18 11:20:26.389736
+date: 25-12-18 11:20:26.389736
 excerpt: '6GVision: Improvement of the 5GOpen testbed at imec with vision-aided mmW
   gNB'
 header:
