@@ -1,5 +1,5 @@
 ---
-date: 24-10-18 11:20:26.375090
+date: 25-12-18 11:20:26.375090
 excerpt: CITY4ALL
 header:
   teaser: /assets/images/subprojects/city4all.png
