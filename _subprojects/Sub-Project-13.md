@@ -1,5 +1,5 @@
 ---
-date: 24-10-18 11:20:26.383560
+date: 25-12-18 11:20:26.383560
 excerpt: METACLINIC
 header:
   teaser: /assets/images/subprojects/metaclinic.png
